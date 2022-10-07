@@ -2,7 +2,7 @@ name: release
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/1 * * * *"
   push:
     branches:
       - "latest"
