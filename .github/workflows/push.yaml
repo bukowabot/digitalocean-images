@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "*/1 * * * *"
   push:
-    branches:
-      - "latest"
 
 jobs:
   release:
