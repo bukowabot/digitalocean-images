@@ -16,6 +16,8 @@ jobs:
           fetch-depth: 0
 
       - name: Generate
+        env:
+          DO_TOKEN: ${{ secrets.DO_TOKEN }}
         run: |
           ./generate.sh
 
