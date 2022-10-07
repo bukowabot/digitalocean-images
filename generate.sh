@@ -5,13 +5,13 @@ function get() {
   curl -s -X GET -H "Content-Type: application/json"  \
     -H "Authorization: Bearer ${DO_TOKEN}"   \
     "https://api.digitalocean.com/v2/$1?page=1&per_page=10000" \
-    | jq '.' > "$2"
+    | jq -e '.' > "$2"
 }
 
 function simple() {
   printf "$1$2\n" >> README.md && \
   printf '````yaml\n' >> README.md && \
-  jq "$2" "$1" | sed 's/\"//g' >> README.md && \
+  jq -e "$2" "$1" | sed 's/\"//g' >> README.md && \
   printf '````\n' >> README.md
 }
 
