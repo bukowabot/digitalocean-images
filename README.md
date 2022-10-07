@@ -1,8 +1,5 @@
 https://bukowa.github.io/digitalocean-images/
 
-this should be removed automatically and deployed later
-
-
 [images](./images.json) ||| [sizes](./sizes.json) ||| [regions](./regions.json) |||
 
 images.json.images[].slug
