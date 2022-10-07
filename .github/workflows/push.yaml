@@ -6,7 +6,7 @@ on:
       - "latest"
 
 jobs:
-  test_k3d:
+  release:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,6 +14,10 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+
+      - name: Generate
+        run: |
+          ./generate.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
