@@ -11,7 +11,7 @@ function get() {
 function simple() {
   printf "$1$2\n" >> README.md && \
   printf '````yaml\n' >> README.md && \
-  jq -e -e "$2" "$1" | sed 's/\"//g' >> README.md && \
+  jq -e "$2" "$1" | sed 's/\"//g' >> README.md && \
   printf '````\n' >> README.md
 }
 
