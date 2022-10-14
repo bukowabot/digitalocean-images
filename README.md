@@ -16,7 +16,6 @@ debian-11-x64
 debian-10-x64
 fedora-35-x64
 rockylinux-8-4-x64
-ubuntu-22-04-x64
 ubuntu-20-04-x64
 ubuntu-18-04-x64
 rockylinux-8-x64
@@ -24,6 +23,7 @@ rockylinux-8-5-x64
 rockylinux-9-x64
 centos-stream-9-x64
 fedora-36-x64
+ubuntu-22-04-x64
 skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
@@ -69,6 +69,9 @@ invoiceninja-20-0-4
 wordsmythcreatio-aresmush
 litespeedtechnol-openlitespeedjoo-20-04
 litespeedtechnol-openlitespeeddru
+litespeedtechnol-openlitespeednod-20-04
+callabacloud-callabacloudlive
+litespeedtechnol-openlitespeedrai-20-04
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -91,7 +94,6 @@ ultrahorizon-uhvpn-18-04
 uzerpllp-uzerp-18-04
 aecsystems-speckleserver-20-04
 saltcorn-20-04
-litespeedtechnol-openlitespeedrai-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
 meilisas-meilisearch-10
@@ -156,7 +158,6 @@ gitea-18-04
 directus-18-04
 openboxes-20-04
 appwrite-18-04
-litespeedtechnol-openlitespeednod-20-04
 portalcloud-wirespeedvpn-18-04
 gigantum-gigantumclient-20-04
 chevereto-20-04
@@ -194,7 +195,6 @@ hammertechnologi-lumewebdnsrelay
 litespeedtechnol-cyberpanel-20-04
 sharklabs-opensearch
 stacksfoundation-stacksblockchain
-mjmair-inventree
 nextcloudgmbh-nextcloud
 sharklabs-matrixsynapsebac-10
 sharklabs-apachekafka
