@@ -72,6 +72,7 @@ litespeedtechnol-openlitespeeddru
 litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
+sharklabs-piholevpn
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -145,7 +146,6 @@ rubyonrails-20-04
 caddy-18-04
 mongodb-18-04
 docker-18-04
-dokku-20-04
 cyberpanel-18-04
 selfhostedpro-yacht-20-04
 harperdb-18-04
