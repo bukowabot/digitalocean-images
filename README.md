@@ -24,6 +24,9 @@ rockylinux-9-x64
 centos-stream-9-x64
 fedora-36-x64
 ubuntu-22-04-x64
+ubuntu-22-10-x64
+almalinux-9-x64
+almalinux-8-x64
 skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
@@ -41,7 +44,6 @@ simontelephonics-freepbx-7-6
 buddy-repman-18-04
 strapi-18-04
 wftutorials-purdm-18-04
-searchblox-searchbloxenterp-7-6
 vodianetworks-vodiaphonesystem-10
 gluu-gluuserverce-18-04-3
 netfoundry-7-6
@@ -73,6 +75,8 @@ litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
+devdojo-laravel-20-04
+searchblox-searchbloxenterp-7-6
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -198,17 +202,13 @@ stacksfoundation-stacksblockchain
 nextcloudgmbh-nextcloud
 sharklabs-matrixsynapsebac-10
 sharklabs-apachekafka
-devdojo-laravel-20-04
 bunkercloudservi-warpspeedvpn-18-04
 deskpro
 codelathe-filecloud-20-04
+testingsafename2
 convoy
 shellhub
-soos-soosdastdroplet
 lamp-20-04
-devrel-teleport-20-04
-litespeedtechnol-openlitespeedwor-20-04
-wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
