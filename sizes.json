@@ -1193,11 +1193,9 @@
       "price_monthly": 1008,
       "price_hourly": 1.5,
       "regions": [
-        "ams3",
         "fra1",
         "lon1",
         "nyc1",
-        "nyc3",
         "sfo3",
         "sgp1",
         "tor1"
@@ -1324,11 +1322,9 @@
       "price_monthly": 1128,
       "price_hourly": 1.67857,
       "regions": [
-        "ams3",
         "fra1",
         "lon1",
         "nyc1",
-        "nyc3",
         "sfo3",
         "sgp1",
         "tor1"
