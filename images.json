@@ -2109,6 +2109,68 @@
       "error_message": ""
     },
     {
+      "id": 119773526,
+      "name": "OpenMPTCProuter 0.1.0-beta on Debian 11",
+      "distribution": "Debian",
+      "slug": "sharklabs-openmptcprouter",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "created_at": "2022-10-28T15:36:14Z",
+      "min_disk_size": 10,
+      "type": "snapshot",
+      "size_gigabytes": 1.47,
+      "description": "OpenMPTCProuter 0.1.0-beta on Debian 11",
+      "tags": [],
+      "status": "available",
+      "error_message": ""
+    },
+    {
+      "id": 120173607,
+      "name": "CloudPanel 2 - Ubuntu 22.04 2.1.0 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "slug": "mgtcommercegmbh-cloudpanel2ubunt",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "created_at": "2022-11-03T18:46:24Z",
+      "min_disk_size": 25,
+      "type": "snapshot",
+      "size_gigabytes": 7.76,
+      "description": "CloudPanel 2 - Ubuntu 22.04 2.1.0 on Ubuntu 22.04",
+      "tags": [],
+      "status": "available",
+      "error_message": ""
+    },
+    {
       "id": 75147617,
       "name": "Cloudron 6.0.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -2543,8 +2605,8 @@
       "error_message": ""
     },
     {
-      "id": 118187697,
-      "name": "HollaEx Kit 2.4.2 on Ubuntu 20.04",
+      "id": 119966191,
+      "name": "HollaEx Kit 2.4.5 on Ubuntu 20.04",
       "distribution": "Ubuntu",
       "slug": "hollaex-hollaexkit",
       "public": true,
@@ -2564,11 +2626,11 @@
         "sfo3",
         "syd1"
       ],
-      "created_at": "2022-10-04T08:53:41Z",
+      "created_at": "2022-10-31T11:55:19Z",
       "min_disk_size": 160,
       "type": "snapshot",
-      "size_gigabytes": 2.97,
-      "description": "HollaEx Kit 2.4.2 on Ubuntu 20.04",
+      "size_gigabytes": 3.02,
+      "description": "HollaEx Kit 2.4.5 on Ubuntu 20.04",
       "tags": [],
       "status": "available",
       "error_message": ""
@@ -2853,9 +2915,9 @@
       "error_message": ""
     },
     {
-      "id": 118584760,
+      "id": 120038168,
       "name": "MeiliSearch 0.29.0 on Ubuntu 20.04 (LTS)",
-      "distribution": "Ubuntu",
+      "distribution": "Debian",
       "slug": "meilisas-meilisearch-10",
       "public": true,
       "regions": [
@@ -2874,10 +2936,10 @@
         "sfo3",
         "syd1"
       ],
-      "created_at": "2022-10-10T12:44:12Z",
-      "min_disk_size": 60,
+      "created_at": "2022-11-01T16:58:46Z",
+      "min_disk_size": 25,
       "type": "snapshot",
-      "size_gigabytes": 2.09,
+      "size_gigabytes": 1.65,
       "description": "MeiliSearch 0.29.0 on Ubuntu 20.04 (LTS)",
       "tags": [],
       "status": "available",
@@ -6137,68 +6199,6 @@
       "tags": [],
       "status": "available",
       "error_message": ""
-    },
-    {
-      "id": 112994399,
-      "name": "ShellHub 0.9.4 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "slug": "shellhub",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "created_at": "2022-07-19T14:56:41Z",
-      "min_disk_size": 25,
-      "type": "snapshot",
-      "size_gigabytes": 1.94,
-      "description": "ShellHub 0.9.4 on Ubuntu 22.04",
-      "tags": [],
-      "status": "available",
-      "error_message": ""
-    },
-    {
-      "id": 113709224,
-      "name": "LAMP on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "slug": "lamp-20-04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "created_at": "2022-07-29T17:26:23Z",
-      "min_disk_size": 25,
-      "type": "snapshot",
-      "size_gigabytes": 2.24,
-      "description": "LAMP on Ubuntu 20.04",
-      "tags": [],
-      "status": "available",
-      "error_message": ""
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 357
+    "total": 358
   }
 }
