@@ -77,6 +77,8 @@ litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
 devdojo-laravel-20-04
 searchblox-searchbloxenterp-7-6
+sharklabs-openmptcprouter
+mgtcommercegmbh-cloudpanel2ubunt
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -207,8 +209,6 @@ deskpro
 codelathe-filecloud-20-04
 testingsafename2
 convoy
-shellhub
-lamp-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
