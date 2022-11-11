@@ -170,7 +170,7 @@
         "tor1"
       ],
       "available": true,
-      "description": "Legacy Basic"
+      "description": "Basic"
     },
     {
       "slug": "s-2vcpu-2gb-amd",
@@ -1193,9 +1193,11 @@
       "price_monthly": 1008,
       "price_hourly": 1.5,
       "regions": [
+        "ams3",
         "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
         "sgp1",
         "tor1"
@@ -1325,6 +1327,7 @@
         "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
         "sgp1",
         "tor1"

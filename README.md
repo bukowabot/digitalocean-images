@@ -66,7 +66,6 @@ flexifyio-flexifyiomulticl-20-04
 restya-restyaboard-20-04
 liveswitch-liveswitchserver
 pyboxtechnologie-pyboxtechmed-20-04
-gravitl-netmaker
 invoiceninja-20-0-4
 wordsmythcreatio-aresmush
 litespeedtechnol-openlitespeedjoo-20-04
@@ -79,6 +78,7 @@ devdojo-laravel-20-04
 searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
 mgtcommercegmbh-cloudpanel2ubunt
+gravitl-netmaker
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -127,7 +127,6 @@ reblaze-reblazewaf-18-04
 sharklabs-nodejsquickstart-18-04
 rails-18-04
 sharklabs-foldinghome-18-04
-mastodon-18-04
 code-server-18-04
 discourse-18-04
 mozilla-hubscloudpersona-18-04
@@ -206,9 +205,10 @@ sharklabs-matrixsynapsebac-10
 sharklabs-apachekafka
 bunkercloudservi-warpspeedvpn-18-04
 deskpro
-codelathe-filecloud-20-04
 testingsafename2
 convoy
+lamp-20-04
+litespeedtechnol-openlitespeedwor-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
