@@ -1768,37 +1768,6 @@
       "error_message": ""
     },
     {
-      "id": 113642998,
-      "name": "Netmaker 0.14.6 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "slug": "gravitl-netmaker",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "created_at": "2022-07-28T20:56:04Z",
-      "min_disk_size": 25,
-      "type": "snapshot",
-      "size_gigabytes": 2.92,
-      "description": "Netmaker 0.14.6 on Ubuntu 20.04",
-      "tags": [],
-      "status": "available",
-      "error_message": ""
-    },
-    {
       "id": 114537960,
       "name": "Invoice Ninja 5 on Ubuntu 20.0.4",
       "distribution": "Ubuntu",
@@ -2166,6 +2135,37 @@
       "type": "snapshot",
       "size_gigabytes": 7.76,
       "description": "CloudPanel 2 - Ubuntu 22.04 2.1.0 on Ubuntu 22.04",
+      "tags": [],
+      "status": "available",
+      "error_message": ""
+    },
+    {
+      "id": 120240034,
+      "name": "Netmaker 0.16.1 on Ubuntu 22.10",
+      "distribution": "Ubuntu",
+      "slug": "gravitl-netmaker",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "created_at": "2022-11-04T19:39:29Z",
+      "min_disk_size": 25,
+      "type": "snapshot",
+      "size_gigabytes": 2.07,
+      "description": "Netmaker 0.16.1 on Ubuntu 22.10",
       "tags": [],
       "status": "available",
       "error_message": ""
@@ -3654,37 +3654,6 @@
       "type": "snapshot",
       "size_gigabytes": 1.44,
       "description": "Folding@home 0.0.1 on Ubuntu 18.04",
-      "tags": [],
-      "status": "available",
-      "error_message": ""
-    },
-    {
-      "id": 61682016,
-      "name": "Mastodon 3.1.3 on Ubuntu 18.04",
-      "distribution": "Ubuntu",
-      "slug": "mastodon-18-04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "created_at": "2020-04-05T13:56:16Z",
-      "min_disk_size": 25,
-      "type": "snapshot",
-      "size_gigabytes": 3.6,
-      "description": "Mastodon 3.1.3 on Ubuntu 18.04",
       "tags": [],
       "status": "available",
       "error_message": ""
@@ -6108,37 +6077,6 @@
       "error_message": ""
     },
     {
-      "id": 110980152,
-      "name": "FileCloud 21.3.5 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "slug": "codelathe-filecloud-20-04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "created_at": "2022-06-21T17:48:38Z",
-      "min_disk_size": 80,
-      "type": "snapshot",
-      "size_gigabytes": 4.31,
-      "description": "FileCloud 21.3.5 on Ubuntu 20.04",
-      "tags": [],
-      "status": "available",
-      "error_message": ""
-    },
-    {
       "id": 112176485,
       "name": "testing safe name 2 2 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6199,6 +6137,68 @@
       "tags": [],
       "status": "available",
       "error_message": ""
+    },
+    {
+      "id": 113709224,
+      "name": "LAMP on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "slug": "lamp-20-04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "created_at": "2022-07-29T17:26:23Z",
+      "min_disk_size": 25,
+      "type": "snapshot",
+      "size_gigabytes": 2.24,
+      "description": "LAMP on Ubuntu 20.04",
+      "tags": [],
+      "status": "available",
+      "error_message": ""
+    },
+    {
+      "id": 114665215,
+      "name": "OpenLiteSpeed WordPress 6.0.1 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "slug": "litespeedtechnol-openlitespeedwor-20-04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "created_at": "2022-08-12T06:57:36Z",
+      "min_disk_size": 25,
+      "type": "snapshot",
+      "size_gigabytes": 2.94,
+      "description": "OpenLiteSpeed WordPress 6.0.1 on Ubuntu 22.04",
+      "tags": [],
+      "status": "available",
+      "error_message": ""
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 358
+    "total": 359
   }
 }
