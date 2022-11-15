@@ -16,7 +16,8 @@
         "fra1",
         "nyc1",
         "sfo3",
-        "sgp1"
+        "sgp1",
+        "syd1"
       ],
       "slug": "s-1vcpu-512mb-10gb",
       "transfer": 0.5,
@@ -38,6 +39,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-1gb",
@@ -60,6 +62,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-1gb-amd",
@@ -82,6 +85,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-1gb-intel",
@@ -104,6 +108,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-2gb",
@@ -126,6 +131,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-2gb-amd",
@@ -148,6 +154,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-1vcpu-2gb-intel",
@@ -170,6 +177,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-2gb",
@@ -192,6 +200,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-2gb-amd",
@@ -214,6 +223,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-2gb-intel",
@@ -236,6 +246,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-4gb",
@@ -258,6 +269,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-4gb-amd",
@@ -280,6 +292,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-2vcpu-4gb-intel",
@@ -302,6 +315,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-2",
@@ -324,6 +338,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-2vcpu-4gb",
@@ -346,6 +361,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-4vcpu-8gb",
@@ -368,6 +384,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-4vcpu-8gb-amd",
@@ -390,6 +407,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-4vcpu-8gb-intel",
@@ -412,6 +430,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-2vcpu-8gb",
@@ -434,6 +453,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-2vcpu-8gb",
@@ -456,6 +476,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-2vcpu-16gb",
@@ -478,6 +499,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-4",
@@ -500,6 +522,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-4vcpu-8gb",
@@ -522,6 +545,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-8vcpu-16gb",
@@ -544,6 +568,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-2vcpu-16gb",
@@ -566,6 +591,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-8vcpu-16gb-amd",
@@ -588,6 +614,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "s-8vcpu-16gb-intel",
@@ -610,6 +637,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-4vcpu-16gb",
@@ -632,6 +660,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-2vcpu-16gb",
@@ -654,6 +683,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-2vcpu-16gb",
@@ -676,6 +706,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-4vcpu-16gb",
@@ -698,6 +729,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-2vcpu-16gb",
@@ -720,6 +752,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-4vcpu-32gb",
@@ -742,6 +775,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-8",
@@ -764,6 +798,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-8vcpu-16gb",
@@ -786,6 +821,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-4vcpu-32gb",
@@ -808,6 +844,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-8vcpu-32gb",
@@ -830,6 +867,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-4vcpu-32gb",
@@ -852,6 +890,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-4vcpu-32gb",
@@ -874,6 +913,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-8vcpu-32gb",
@@ -896,6 +936,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-4vcpu-32gb",
@@ -918,6 +959,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-8vcpu-64gb",
@@ -940,6 +982,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-16",
@@ -962,6 +1005,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-16vcpu-32gb",
@@ -984,6 +1028,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-8vcpu-64gb",
@@ -1006,6 +1051,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-16vcpu-64gb",
@@ -1028,6 +1074,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-8vcpu-64gb",
@@ -1050,6 +1097,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-8vcpu-64gb",
@@ -1072,6 +1120,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-16vcpu-64gb",
@@ -1094,6 +1143,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-8vcpu-64gb",
@@ -1116,6 +1166,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-16vcpu-128gb",
@@ -1138,6 +1189,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-32",
@@ -1160,6 +1212,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-32vcpu-64gb",
@@ -1182,6 +1235,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-16vcpu-128gb",
@@ -1199,10 +1253,9 @@
         "ams3",
         "fra1",
         "lon1",
-        "nyc1",
-        "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c-48",
@@ -1225,6 +1278,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-24vcpu-192gb",
@@ -1247,6 +1301,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-32vcpu-128gb",
@@ -1269,6 +1324,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-16vcpu-128gb",
@@ -1291,6 +1347,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-16vcpu-128gb",
@@ -1313,6 +1370,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-32vcpu-128gb",
@@ -1330,10 +1388,9 @@
         "ams3",
         "fra1",
         "lon1",
-        "nyc1",
-        "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
@@ -1356,6 +1413,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-24vcpu-192gb",
@@ -1378,6 +1436,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-40vcpu-160gb",
@@ -1400,6 +1459,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-16vcpu-128gb",
@@ -1422,6 +1482,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m-32vcpu-256gb",
@@ -1444,6 +1505,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-40vcpu-160gb",
@@ -1466,6 +1528,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-24vcpu-192gb",
@@ -1488,6 +1551,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-24vcpu-192gb",
@@ -1510,6 +1574,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m3-32vcpu-256gb",
@@ -1532,6 +1597,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-24vcpu-192gb",
@@ -1554,6 +1620,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so-32vcpu-256gb",
@@ -1576,6 +1643,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "m6-32vcpu-256gb",
@@ -1598,6 +1666,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "so1_5-32vcpu-256gb",
