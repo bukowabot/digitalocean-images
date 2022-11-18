@@ -80,6 +80,7 @@ searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
 mgtcommercegmbh-cloudpanel2ubunt
 gravitl-netmaker
+doteamaccount-pocketbase
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -185,11 +186,9 @@ simontelephonics-freepbx-7-8
 humhubgmbhkg-humhub-10
 kasmtechnologies-kasmworkspaces-18-04
 litespeedtechnol-cyberpaneljoomla
-varnishsoftware-varnishcache-18-04
 chevereto-cheveretofree
 azuracast-20-04
 oneledger-mainnetfullnode
-severalnines-clustercontrol-20-04
 coder
 bitwarden-18-04
 oneledger-frankensteintest
@@ -209,6 +208,7 @@ deskpro
 testingsafename2
 convoy
 lamp-20-04
+litespeedtechnol-openlitespeedwor-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
