@@ -28,7 +28,7 @@ jobs:
           commit_message: automatic generation
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@976f22029fe5ee84057c18c4807b8c727952a393
+        uses: peaceiris/actions-gh-pages@e3b45f27007dc55bcdd52f01e38af6f61576ec7f
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
