@@ -21,14 +21,14 @@ jobs:
         run: |
           ./generate.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@976f22029fe5ee84057c18c4807b8c727952a393
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
           commit_message: automatic generation
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@e3b45f27007dc55bcdd52f01e38af6f61576ec7f
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
