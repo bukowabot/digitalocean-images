@@ -2202,6 +2202,37 @@
       "type": "snapshot"
     },
     {
+      "created_at": "2022-11-18T14:21:46Z",
+      "description": "PocketBase 0.8.0-rc4 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 121157036,
+      "min_disk_size": 25,
+      "name": "PocketBase 0.8.0-rc4 on Ubuntu 22.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 2.13,
+      "slug": "doteamaccount-pocketbase",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
       "created_at": "2020-12-14T06:22:35Z",
       "description": "Cloudron 6.0.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5457,37 +5488,6 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2022-01-25T11:54:21Z",
-      "description": "Varnish Cache 6.0.10 on Ubuntu 18.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 100620736,
-      "min_disk_size": 25,
-      "name": "Varnish Cache 6.0.10 on Ubuntu 18.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 1.82,
-      "slug": "varnishsoftware-varnishcache-18-04",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2022-01-29T15:40:05Z",
       "description": "Chevereto-Free 1.6.2 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5576,37 +5576,6 @@
       ],
       "size_gigabytes": 2.23,
       "slug": "oneledger-mainnetfullnode",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
-      "created_at": "2022-02-17T05:58:35Z",
-      "description": "ClusterControl 1.9.2 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 102208557,
-      "min_disk_size": 80,
-      "name": "ClusterControl 1.9.2 on Ubuntu 20.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 4.01,
-      "slug": "severalnines-clustercontrol-20-04",
       "status": "available",
       "tags": [],
       "type": "snapshot"
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
+    },
+    {
+      "created_at": "2022-08-12T06:57:36Z",
+      "description": "OpenLiteSpeed WordPress 6.0.1 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 114665215,
+      "min_disk_size": 25,
+      "name": "OpenLiteSpeed WordPress 6.0.1 on Ubuntu 22.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 2.94,
+      "slug": "litespeedtechnol-openlitespeedwor-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 360
+    "total": 362
   }
 }
