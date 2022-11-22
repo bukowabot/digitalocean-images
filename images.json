@@ -2202,37 +2202,6 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2022-11-18T14:21:46Z",
-      "description": "PocketBase 0.8.0-rc4 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 121157036,
-      "min_disk_size": 25,
-      "name": "PocketBase 0.8.0-rc4 on Ubuntu 22.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 2.13,
-      "slug": "doteamaccount-pocketbase",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2020-12-14T06:22:35Z",
       "description": "Cloudron 6.0.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
+    },
+    {
+      "created_at": "2022-08-15T09:17:48Z",
+      "description": "WordPress 5.8 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 114870594,
+      "min_disk_size": 25,
+      "name": "WordPress 5.8 on Ubuntu 20.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 2.61,
+      "slug": "wordpress-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 362
+    "total": 363
   }
 }
