@@ -80,6 +80,7 @@ searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
 mgtcommercegmbh-cloudpanel2ubunt
 gravitl-netmaker
+openblocks
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -208,7 +209,6 @@ testingsafename2
 convoy
 lamp-20-04
 litespeedtechnol-openlitespeedwor-20-04
-wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
