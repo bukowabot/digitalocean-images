@@ -174,7 +174,6 @@ gitlab-gitlabenterprise-18-04
 gitlab-gitlabenterprise-20-04
 lemp-20-04
 mpdev-gutiumtestappnew-20-04
-docker-20-04
 null
 mysql-20-04
 perconamonitorin-7
@@ -209,6 +208,7 @@ testingsafename2
 convoy
 lamp-20-04
 litespeedtechnol-openlitespeedwor-20-04
+wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml

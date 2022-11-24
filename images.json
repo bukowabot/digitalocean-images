@@ -5116,37 +5116,6 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2021-07-13T14:10:01Z",
-      "description": "Docker 19.03.12 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 87786318,
-      "min_disk_size": 25,
-      "name": "Docker 19.03.12 on Ubuntu 20.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 3.21,
-      "slug": "docker-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2021-08-06T20:39:49Z",
       "description": "filecoin-lotus 1.11.0 on Ubuntu 20.04 (LTS)",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
+    },
+    {
+      "created_at": "2022-08-15T09:17:48Z",
+      "description": "WordPress 5.8 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 114870594,
+      "min_disk_size": 25,
+      "name": "WordPress 5.8 on Ubuntu 20.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 2.61,
+      "slug": "wordpress-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 364
+    "total": 365
   }
 }
