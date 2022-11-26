@@ -1250,10 +1250,9 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
+        "ams3",
         "fra1",
         "nyc1",
-        "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1386,8 +1385,6 @@
       "regions": [
         "fra1",
         "nyc1",
-        "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
