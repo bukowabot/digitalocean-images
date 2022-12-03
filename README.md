@@ -106,6 +106,7 @@ saltcorn-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
 meilisas-meilisearch-10
+m3o-micro
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
@@ -208,7 +209,6 @@ testingsafename2
 convoy
 lamp-20-04
 litespeedtechnol-openlitespeedwor-20-04
-wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
