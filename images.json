@@ -1675,37 +1675,6 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2022-01-25T12:24:43Z",
-      "description": "Flexify.IO Multi-cloud / Migration 2.12.8 on Ubuntu 20.04 LTS",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 100621975,
-      "min_disk_size": 50,
-      "name": "Flexify.IO Multi-cloud / Migration 2.12.8 on Ubuntu 20.04 LTS",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 3.21,
-      "slug": "flexifyio-flexifyiomulticl-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2022-02-07T09:52:02Z",
       "description": "Restyaboard 1.7.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -2228,6 +2197,37 @@
       ],
       "size_gigabytes": 3.25,
       "slug": "openblocks",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
+      "created_at": "2022-12-02T21:46:58Z",
+      "description": "StretchShop 0.6.4 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 122094654,
+      "min_disk_size": 25,
+      "name": "StretchShop 0.6.4 on Ubuntu 22.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 4.36,
+      "slug": "stretchshop",
       "status": "available",
       "tags": [],
       "type": "snapshot"
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 368
+    "total": 369
   }
 }
