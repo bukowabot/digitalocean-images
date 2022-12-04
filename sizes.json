@@ -1252,6 +1252,7 @@
       "regions": [
         "fra1",
         "lon1",
+        "nyc1",
         "nyc3",
         "sgp1",
         "syd1",
@@ -1386,6 +1387,7 @@
       "regions": [
         "fra1",
         "lon1",
+        "nyc1",
         "nyc3",
         "sgp1",
         "syd1",
