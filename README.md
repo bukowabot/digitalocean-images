@@ -207,8 +207,8 @@ bunkercloudservi-warpspeedvpn-18-04
 deskpro
 testingsafename2
 convoy
-lamp-20-04
 litespeedtechnol-openlitespeedwor-20-04
+wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
