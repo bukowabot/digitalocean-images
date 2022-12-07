@@ -81,6 +81,7 @@ mgtcommercegmbh-cloudpanel2ubunt
 gravitl-netmaker
 openblocks
 stretchshop
+chaarmiworlds-metaverse
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -208,7 +209,6 @@ deskpro
 testingsafename2
 convoy
 litespeedtechnol-openlitespeedwor-20-04
-wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
