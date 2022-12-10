@@ -62,7 +62,6 @@ mpdev-gutiumtestapp-20-04
 konnectedmindzte-hyperledgerfabri-18-04
 ispsystem-ispmanager-7
 owncast-10
-softlab24-opensourcesocial-18-04
 restya-restyaboard-20-04
 liveswitch-liveswitchserver
 pyboxtechnologie-pyboxtechmed-20-04
@@ -82,6 +81,7 @@ gravitl-netmaker
 openblocks
 stretchshop
 chaarmiworlds-metaverse
+softlab24-opensourcesocial-18-04
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04

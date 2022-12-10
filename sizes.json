@@ -1250,11 +1250,12 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
+        "ams3",
         "fra1",
         "lon1",
+        "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1385,9 +1386,9 @@
       "regions": [
         "fra1",
         "lon1",
+        "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1432,7 +1433,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "tor1"
       ],
       "slug": "g-40vcpu-160gb",
@@ -1499,7 +1499,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "tor1"
       ],
       "slug": "gd-40vcpu-160gb",
