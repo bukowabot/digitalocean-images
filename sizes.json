@@ -1250,7 +1250,12 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
-        "sgp1"
+        "lon1",
+        "nyc1",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
       ],
       "slug": "c-48",
       "transfer": 11,
@@ -1289,9 +1294,10 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
+        "sfo3",
         "sgp1",
         "tor1"
       ],
@@ -1355,9 +1361,10 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
+        "sfo3",
         "sgp1",
         "tor1"
       ],
@@ -1373,7 +1380,12 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "sgp1"
+        "lon1",
+        "nyc1",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
       "transfer": 11,
@@ -1409,7 +1421,16 @@
       "memory": 163840,
       "price_hourly": 1.875,
       "price_monthly": 1260,
-      "regions": [],
+      "regions": [
+        "ams3",
+        "blr1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "tor1"
+      ],
       "slug": "g-40vcpu-160gb",
       "transfer": 9,
       "vcpus": 40
@@ -1467,7 +1488,16 @@
       "memory": 163840,
       "price_hourly": 2.02381,
       "price_monthly": 1360,
-      "regions": [],
+      "regions": [
+        "ams3",
+        "blr1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "tor1"
+      ],
       "slug": "gd-40vcpu-160gb",
       "transfer": 9,
       "vcpus": 40
