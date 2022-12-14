@@ -1252,8 +1252,8 @@
       "regions": [
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1297,9 +1297,7 @@
         "lon1",
         "nyc1",
         "nyc3",
-        "sfo3",
-        "sgp1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "g-32vcpu-128gb",
       "transfer": 8,
@@ -1364,9 +1362,7 @@
         "lon1",
         "nyc1",
         "nyc3",
-        "sfo3",
-        "sgp1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "gd-32vcpu-128gb",
       "transfer": 8,
@@ -1382,8 +1378,8 @@
       "regions": [
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1427,9 +1423,7 @@
         "lon1",
         "nyc1",
         "nyc3",
-        "sfo3",
-        "sgp1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "g-40vcpu-160gb",
       "transfer": 9,
@@ -1494,9 +1488,7 @@
         "lon1",
         "nyc1",
         "nyc3",
-        "sfo3",
-        "sgp1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "gd-40vcpu-160gb",
       "transfer": 9,
