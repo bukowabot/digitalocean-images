@@ -1,37 +1,6 @@
 {
   "images": [
     {
-      "created_at": "2021-02-11T17:42:22Z",
-      "description": "RancherOS 1.5.8 x86 image",
-      "distribution": "RancherOS",
-      "error_message": "",
-      "id": 78547182,
-      "min_disk_size": 15,
-      "name": "1.5.8 x64",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 0.13,
-      "slug": "rancheros",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2022-04-18T21:32:47Z",
       "description": "CentOS 7 x64",
       "distribution": "CentOS",
@@ -1985,37 +1954,6 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2022-10-22T15:31:53Z",
-      "description": "Laravel 9.36.4 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 119378460,
-      "min_disk_size": 10,
-      "name": "Laravel 9.36.4 on Ubuntu 20.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 4.2,
-      "slug": "devdojo-laravel-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
       "created_at": "2022-10-26T10:11:27Z",
       "description": "SearchBlox Enterprise Search 10.2 on CentOS 8.0",
       "distribution": "CentOS",
@@ -2073,37 +2011,6 @@
       ],
       "size_gigabytes": 1.47,
       "slug": "sharklabs-openmptcprouter",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
-    },
-    {
-      "created_at": "2022-11-03T18:46:24Z",
-      "description": "CloudPanel 2 - Ubuntu 22.04 2.1.0 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 120173607,
-      "min_disk_size": 25,
-      "name": "CloudPanel 2 - Ubuntu 22.04 2.1.0 on Ubuntu 22.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 7.76,
-      "slug": "mgtcommercegmbh-cloudpanel2ubunt",
       "status": "available",
       "tags": [],
       "type": "snapshot"
@@ -2264,6 +2171,37 @@
       "type": "snapshot"
     },
     {
+      "created_at": "2022-12-14T21:39:18Z",
+      "description": "Laravel 9.43.0 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 122880608,
+      "min_disk_size": 10,
+      "name": "Laravel 9.43.0 on Ubuntu 20.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 4.28,
+      "slug": "devdojo-laravel-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
       "created_at": "2020-12-14T06:22:35Z",
       "description": "Cloudron 6.0.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -2290,6 +2228,37 @@
       ],
       "size_gigabytes": 9.59,
       "slug": "cloudron-18-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
+      "created_at": "2022-12-12T17:21:47Z",
+      "description": "Cloudron 7.3.4 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 122744704,
+      "min_disk_size": 25,
+      "name": "Cloudron 7.3.4 on Ubuntu 22.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 10.54,
+      "slug": "cloudron-20-04",
       "status": "available",
       "tags": [],
       "type": "snapshot"
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
+    },
+    {
+      "created_at": "2022-08-25T11:45:52Z",
+      "description": "VictoriaMetrics Single 1.80.0 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 115538822,
+      "min_disk_size": 25,
+      "name": "VictoriaMetrics Single 1.80.0 on Ubuntu 20.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 1.9,
+      "slug": "victoriametrics-victoriametricss",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 371
+    "total": 370
   }
 }
