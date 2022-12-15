@@ -9,7 +9,6 @@ Referral $200 link
 
 images.json.images[].slug
 ````yaml
-rancheros
 centos-7-x64
 centos-stream-8-x64
 debian-11-x64
@@ -73,16 +72,16 @@ litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
-devdojo-laravel-20-04
 searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
-mgtcommercegmbh-cloudpanel2ubunt
 openblocks
 stretchshop
 chaarmiworlds-metaverse
 gravitl-netmaker
 softlab24-opensourcesocial-18-04
+devdojo-laravel-20-04
 cloudron-18-04
+cloudron-20-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
 eltrino-magento2opensour-20-04
@@ -209,6 +208,7 @@ deskpro
 testingsafename2
 convoy
 litespeedtechnol-openlitespeedwor-20-04
+victoriametrics-victoriametricss
 ````
 sizes.json.sizes[].slug
 ````yaml
