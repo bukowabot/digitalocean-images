@@ -1250,10 +1250,7 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
-        "lon1",
-        "nyc1",
         "nyc3",
-        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1383,11 +1380,7 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "lon1",
-        "nyc1",
         "nyc3",
-        "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
