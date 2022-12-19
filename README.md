@@ -80,6 +80,7 @@ chaarmiworlds-metaverse
 gravitl-netmaker
 softlab24-opensourcesocial-18-04
 devdojo-laravel-20-04
+litespeedtechnol-cyberpanel-20-04
 cloudron-18-04
 cloudron-20-04
 sharklabs-pacvim-18-04
@@ -105,8 +106,8 @@ aecsystems-speckleserver-20-04
 saltcorn-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
-meilisas-meilisearch-10
 m3o-micro
+meilisas-meilisearch-10
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
@@ -197,7 +198,6 @@ monetdbsolutions-monetdb
 goauthentikio-authentik
 ifaxsolutions-hylafaxenterpris
 hammertechnologi-lumewebdnsrelay
-litespeedtechnol-cyberpanel-20-04
 sharklabs-opensearch
 stacksfoundation-stacksblockchain
 nextcloudgmbh-nextcloud
