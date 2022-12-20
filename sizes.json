@@ -1251,8 +1251,11 @@
       "price_monthly": 1008,
       "regions": [
         "fra1",
+        "nyc1",
+        "sfo3",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "c-48",
       "transfer": 11,
@@ -1291,12 +1294,11 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-32vcpu-128gb",
@@ -1359,12 +1361,11 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-32vcpu-128gb",
@@ -1379,8 +1380,10 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
+        "nyc1",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
       "transfer": 11,
@@ -1417,13 +1420,13 @@
       "price_hourly": 1.875,
       "price_monthly": 1260,
       "regions": [
+        "ams3",
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
+        "syd1",
         "tor1"
       ],
       "slug": "g-40vcpu-160gb",
@@ -1485,11 +1488,11 @@
       "price_monthly": 1360,
       "regions": [
         "blr1",
-        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
         "sfo3",
+        "syd1",
         "tor1"
       ],
       "slug": "gd-40vcpu-160gb",
