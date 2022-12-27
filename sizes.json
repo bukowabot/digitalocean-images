@@ -1252,6 +1252,7 @@
       "regions": [
         "nyc1",
         "sfo3",
+        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1382,6 +1383,7 @@
       "regions": [
         "nyc1",
         "sfo3",
+        "sgp1",
         "syd1",
         "tor1"
       ],
