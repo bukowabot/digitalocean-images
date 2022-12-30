@@ -76,11 +76,12 @@ searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
 openblocks
 stretchshop
-chaarmiworlds-metaverse
 gravitl-netmaker
 softlab24-opensourcesocial-18-04
 devdojo-laravel-20-04
 litespeedtechnol-cyberpanel-20-04
+playboxtechnolog-ottstream
+chaarmiworlds-metaverse
 cloudron-18-04
 cloudron-20-04
 sharklabs-pacvim-18-04
@@ -208,7 +209,6 @@ deskpro
 testingsafename2
 convoy
 litespeedtechnol-openlitespeedwor-20-04
-victoriametrics-victoriametricss
 ````
 sizes.json.sizes[].slug
 ````yaml
