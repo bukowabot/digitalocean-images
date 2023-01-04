@@ -74,7 +74,6 @@ litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
 searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
-openblocks
 stretchshop
 gravitl-netmaker
 softlab24-opensourcesocial-18-04
@@ -200,7 +199,6 @@ goauthentikio-authentik
 ifaxsolutions-hylafaxenterpris
 hammertechnologi-lumewebdnsrelay
 sharklabs-opensearch
-stacksfoundation-stacksblockchain
 nextcloudgmbh-nextcloud
 sharklabs-matrixsynapsebac-10
 sharklabs-apachekafka
@@ -209,6 +207,8 @@ deskpro
 testingsafename2
 convoy
 litespeedtechnol-openlitespeedwor-20-04
+victoriametrics-victoriametricss
+npool
 ````
 sizes.json.sizes[].slug
 ````yaml
