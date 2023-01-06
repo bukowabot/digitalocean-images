@@ -1255,7 +1255,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1302,7 +1301,6 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1",
         "tor1"
       ],
       "slug": "g-32vcpu-128gb",
@@ -1390,7 +1388,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1437,7 +1434,6 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1",
         "tor1"
       ],
       "slug": "g-40vcpu-160gb",
