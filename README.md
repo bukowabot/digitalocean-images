@@ -13,7 +13,6 @@ centos-7-x64
 centos-stream-8-x64
 debian-11-x64
 debian-10-x64
-fedora-35-x64
 rockylinux-8-4-x64
 ubuntu-20-04-x64
 ubuntu-18-04-x64
@@ -209,6 +208,7 @@ convoy
 litespeedtechnol-openlitespeedwor-20-04
 victoriametrics-victoriametricss
 npool
+perforce-perforcehelixcor
 ````
 sizes.json.sizes[].slug
 ````yaml
