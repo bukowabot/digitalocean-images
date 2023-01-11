@@ -76,10 +76,10 @@ sharklabs-openmptcprouter
 stretchshop
 gravitl-netmaker
 softlab24-opensourcesocial-18-04
-devdojo-laravel-20-04
 litespeedtechnol-cyberpanel-20-04
 playboxtechnolog-ottstream
 chaarmiworlds-metaverse
+devdojo-laravel-20-04
 cloudron-18-04
 cloudron-20-04
 sharklabs-pacvim-18-04
