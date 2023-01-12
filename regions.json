@@ -368,6 +368,8 @@
         "gd-16vcpu-64gb",
         "so1_5-8vcpu-64gb",
         "m-16vcpu-128gb",
+        "c-32",
+        "c2-32vcpu-64gb",
         "m3-16vcpu-128gb",
         "m-24vcpu-192gb",
         "g-32vcpu-128gb",
