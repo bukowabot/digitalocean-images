@@ -80,6 +80,7 @@ litespeedtechnol-cyberpanel-20-04
 playboxtechnolog-ottstream
 chaarmiworlds-metaverse
 devdojo-laravel-20-04
+litespeedtechnol-openlitespeedwor-20-04
 cloudron-18-04
 cloudron-20-04
 sharklabs-pacvim-18-04
@@ -205,7 +206,6 @@ bunkercloudservi-warpspeedvpn-18-04
 deskpro
 testingsafename2
 convoy
-litespeedtechnol-openlitespeedwor-20-04
 victoriametrics-victoriametricss
 npool
 perforce-perforcehelixcor
