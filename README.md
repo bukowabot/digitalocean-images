@@ -103,12 +103,12 @@ shiftedit-serverwand-18-04
 ultrahorizon-uhvpn-18-04
 uzerpllp-uzerp-18-04
 aecsystems-speckleserver-20-04
-saltcorn-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
 m3o-micro
 meilisas-meilisearch-10
 flowforge
+saltcorn-20-04
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
