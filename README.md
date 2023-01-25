@@ -150,7 +150,6 @@ curiositygmbh-curiosity-16-04
 grafana-18-04
 wordpress-18-04
 discourse-20-04
-phpmyadmin-20-04
 mongodb-20-04
 rubyonrails-20-04
 caddy-18-04
@@ -175,7 +174,6 @@ portalcloud-wirespeedvpnbybu-18-04
 gitea-20-04
 gitlab-gitlabenterprise-18-04
 gitlab-gitlabenterprise-20-04
-lemp-20-04
 mpdev-gutiumtestappnew-20-04
 null
 mysql-20-04
@@ -209,6 +207,8 @@ testingsafename2
 convoy
 victoriametrics-victoriametricss
 npool
+perforce-perforcehelixcor
+nirvatosoftware-nirvashare-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
