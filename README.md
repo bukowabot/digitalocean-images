@@ -149,9 +149,7 @@ litespeedtechnol-openlitespeedcla-18-04
 curiositygmbh-curiosity-16-04
 grafana-18-04
 wordpress-18-04
-discourse-20-04
 mongodb-20-04
-rubyonrails-20-04
 caddy-18-04
 mongodb-18-04
 docker-18-04
@@ -209,6 +207,8 @@ victoriametrics-victoriametricss
 npool
 perforce-perforcehelixcor
 nirvatosoftware-nirvashare-20-04
+litespeedtechnol-openlitespeeddja-20-04
+ascensiosystem-onlyoffice-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
