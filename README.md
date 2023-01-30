@@ -206,9 +206,9 @@ convoy
 victoriametrics-victoriametricss
 npool
 perforce-perforcehelixcor
-nirvatosoftware-nirvashare-20-04
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
+logstore
 ````
 sizes.json.sizes[].slug
 ````yaml
