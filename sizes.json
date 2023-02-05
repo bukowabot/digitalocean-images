@@ -1250,7 +1250,7 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
-        "syd1",
+        "nyc1",
         "tor1"
       ],
       "slug": "c-48",
@@ -1380,7 +1380,6 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "syd1",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
