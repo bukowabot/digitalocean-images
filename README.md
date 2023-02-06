@@ -82,7 +82,6 @@ chaarmiworlds-metaverse
 devdojo-laravel-20-04
 litespeedtechnol-openlitespeedwor-20-04
 cloudron-18-04
-cloudron-20-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
 eltrino-magento2opensour-20-04
@@ -106,9 +105,10 @@ aecsystems-speckleserver-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
 m3o-micro
-meilisas-meilisearch-10
 flowforge
 saltcorn-20-04
+meilisas-meilisearch-10
+ibsurgeon-hqbirdfirebird
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
@@ -182,7 +182,6 @@ caprover-18-04
 utnadmins-utunnelvpn
 simontelephonics-freepbx-7-8
 humhubgmbhkg-humhub-10
-kasmtechnologies-kasmworkspaces-18-04
 litespeedtechnol-cyberpaneljoomla
 chevereto-cheveretofree
 azuracast-20-04
@@ -209,6 +208,7 @@ perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
 logstore
+shellhub
 ````
 sizes.json.sizes[].slug
 ````yaml
