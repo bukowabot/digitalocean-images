@@ -1251,7 +1251,10 @@
       "price_monthly": 1008,
       "regions": [
         "nyc1",
-        "syd1"
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "tor1"
       ],
       "slug": "c-48",
       "transfer": 11,
@@ -1380,8 +1383,9 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "nyc1",
-        "syd1"
+        "sfo3",
+        "sgp1",
+        "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
       "transfer": 11,
