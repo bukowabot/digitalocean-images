@@ -1384,6 +1384,7 @@
       "price_monthly": 1128,
       "regions": [
         "nyc1",
+        "nyc3",
         "sfo3",
         "sgp1",
         "tor1"
