@@ -2233,6 +2233,37 @@
       "type": "snapshot"
     },
     {
+      "created_at": "2023-02-02T04:31:40Z",
+      "description": "OpenBoxes Server 0.8.20 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 126100150,
+      "min_disk_size": 50,
+      "name": "OpenBoxes Server 0.8.20 on Ubuntu 22.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 3.18,
+      "slug": "openboxes-openboxesserver",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
       "created_at": "2020-12-14T06:22:35Z",
       "description": "Cloudron 6.0.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6168,37 +6199,6 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
-    },
-    {
-      "created_at": "2022-10-28T18:05:00Z",
-      "description": "ShellHub 0.10.4 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 119776176,
-      "min_disk_size": 25,
-      "name": "ShellHub 0.10.4 on Ubuntu 22.04",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 2.32,
-      "slug": "shellhub",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 376
+    "total": 377
   }
 }
