@@ -82,6 +82,7 @@ chaarmiworlds-metaverse
 devdojo-laravel-20-04
 litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
+openblocks
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -208,7 +209,6 @@ npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
-logstore
 ````
 sizes.json.sizes[].slug
 ````yaml
