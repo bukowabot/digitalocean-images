@@ -7,6 +7,8 @@ Referral $200 link
 
 [images](./images.json) ||| [sizes](./sizes.json) ||| [regions](./regions.json) |||
 
+[kubernetes](./kubernetes.json)
+
 images.json.images[].slug
 ````yaml
 centos-7-x64
@@ -302,4 +304,10 @@ sfo2
 blr1
 sfo3
 syd1
+````
+kubernetes.json.options.versions[].kubernetes_version
+````yaml
+1.25.4
+1.24.8
+1.23.14
 ````
