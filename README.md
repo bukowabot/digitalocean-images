@@ -86,6 +86,7 @@ litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
 openblocks
 cloudron-18-04
+runcloud-runcloud2004-20-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
 eltrino-magento2opensour-20-04
@@ -94,7 +95,6 @@ opencart-18-04
 unlight-openunlight-18-04
 supabase-supabaserealtime-18-04
 runcloud-18-04
-runcloud-runcloud2004-20-04
 nmtec-erxes-18-04
 supabase-supabasepostgres-18-04
 flipstarter-18-04
@@ -206,11 +206,11 @@ bunkercloudservi-warpspeedvpn-18-04
 deskpro
 testingsafename2
 convoy
-victoriametrics-victoriametricss
 npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
+logstore
 ````
 sizes.json.sizes[].slug
 ````yaml
