@@ -7,6 +7,8 @@ Referral $200 link
 
 [images](./images.json) ||| [sizes](./sizes.json) ||| [regions](./regions.json) |||
 
+[kubernetes](./kubernetes.json)
+
 images.json.images[].slug
 ````yaml
 centos-7-x64
@@ -82,6 +84,7 @@ chaarmiworlds-metaverse
 devdojo-laravel-20-04
 litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
+openblocks
 cloudron-18-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -208,7 +211,6 @@ npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
-logstore
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -302,4 +304,10 @@ sfo2
 blr1
 sfo3
 syd1
+````
+kubernetes.json.options.versions[].kubernetes_version
+````yaml
+1.25.4
+1.24.8
+1.23.14
 ````

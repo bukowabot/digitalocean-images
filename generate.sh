@@ -18,6 +18,7 @@ function simple() {
 get "images" "images.json"
 get "sizes" "sizes.json"
 get "regions" "regions.json"
+get "kubernetes/options" "kubernetes.json"
 
 rm README.md || true
 printf "https://bukowa.github.io/digitalocean-images/\n\n" >> README.md
@@ -28,11 +29,12 @@ printf "\n\n" >> README.md
 printf "[images](./images.json) ||| " >> README.md
 printf "[sizes](./sizes.json) ||| " >> README.md
 printf "[regions](./regions.json) |||\n\n" >> README.md
+printf "[kubernetes](./kubernetes.json)\n\n" >> README.md
 
 simple "images.json" ".images[].slug"
 simple "sizes.json" ".sizes[].slug"
 simple "regions.json" ".regions[].slug"
-
+simple "kubernetes.json" ".options.versions[].kubernetes_version"
 #simple "images.json" "."
 #simple "sizes.json" "."
 #simple "regions.json" "."
