@@ -120,12 +120,20 @@
         "slug": "m3-2vcpu-16gb"
       },
       {
+        "name": "c-4-intel",
+        "slug": "c-4-intel"
+      },
+      {
         "name": "s-8vcpu-16gb-amd",
         "slug": "s-8vcpu-16gb-amd"
       },
       {
         "name": "s-8vcpu-16gb-intel",
         "slug": "s-8vcpu-16gb-intel"
+      },
+      {
+        "name": "c2-4vcpu-8gb-intel",
+        "slug": "c2-4vcpu-8gb-intel"
       },
       {
         "name": "g-4vcpu-16gb",
@@ -156,6 +164,14 @@
         "slug": "m3-4vcpu-32gb"
       },
       {
+        "name": "c-8-intel",
+        "slug": "c-8-intel"
+      },
+      {
+        "name": "c2-8vcpu-16gb-intel",
+        "slug": "c2-8vcpu-16gb-intel"
+      },
+      {
         "name": "g-8vcpu-32gb",
         "slug": "g-8vcpu-32gb"
       },
@@ -184,6 +200,14 @@
         "slug": "m3-8vcpu-64gb"
       },
       {
+        "name": "c-16-intel",
+        "slug": "c-16-intel"
+      },
+      {
+        "name": "c2-16vcpu-32gb-intel",
+        "slug": "c2-16vcpu-32gb-intel"
+      },
+      {
         "name": "g-16vcpu-64gb",
         "slug": "g-16vcpu-64gb"
       },
@@ -210,6 +234,14 @@
       {
         "name": "m3-16vcpu-128gb",
         "slug": "m3-16vcpu-128gb"
+      },
+      {
+        "name": "c-32-intel",
+        "slug": "c-32-intel"
+      },
+      {
+        "name": "c2-32vcpu-64gb-intel",
+        "slug": "c2-32vcpu-64gb-intel"
       },
       {
         "name": "c-48",
@@ -244,12 +276,20 @@
         "slug": "so1_5-16vcpu-128gb"
       },
       {
+        "name": "c-48-intel",
+        "slug": "c-48-intel"
+      },
+      {
         "name": "m-32vcpu-256gb",
         "slug": "m-32vcpu-256gb"
       },
       {
         "name": "gd-40vcpu-160gb",
         "slug": "gd-40vcpu-160gb"
+      },
+      {
+        "name": "c2-48vcpu-96gb-intel",
+        "slug": "c2-48vcpu-96gb-intel"
       },
       {
         "name": "m6-24vcpu-192gb",
