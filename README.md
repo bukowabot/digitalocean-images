@@ -113,6 +113,9 @@ flowforge
 saltcorn-20-04
 meilisas-meilisearch-10
 ibsurgeon-hqbirdfirebird
+ibsurgeon-hqbirdfirebirdv3
+ibsurgeon-hqbirdfirebirdv4
+ibsurgeon-hqbirdfirebirdv2
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
@@ -208,9 +211,6 @@ testingsafename2
 convoy
 npool
 perforce-perforcehelixcor
-litespeedtechnol-openlitespeeddja-20-04
-ascensiosystem-onlyoffice-18-04
-logstore
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -239,8 +239,10 @@ c-4
 c2-4vcpu-8gb
 s-8vcpu-16gb
 m3-2vcpu-16gb
+c-4-intel
 s-8vcpu-16gb-amd
 s-8vcpu-16gb-intel
+c2-4vcpu-8gb-intel
 g-4vcpu-16gb
 so-2vcpu-16gb
 m6-2vcpu-16gb
@@ -250,6 +252,8 @@ m-4vcpu-32gb
 c-8
 c2-8vcpu-16gb
 m3-4vcpu-32gb
+c-8-intel
+c2-8vcpu-16gb-intel
 g-8vcpu-32gb
 so-4vcpu-32gb
 m6-4vcpu-32gb
@@ -259,6 +263,8 @@ m-8vcpu-64gb
 c-16
 c2-16vcpu-32gb
 m3-8vcpu-64gb
+c-16-intel
+c2-16vcpu-32gb-intel
 g-16vcpu-64gb
 so-8vcpu-64gb
 m6-8vcpu-64gb
@@ -268,6 +274,8 @@ m-16vcpu-128gb
 c-32
 c2-32vcpu-64gb
 m3-16vcpu-128gb
+c-32-intel
+c2-32vcpu-64gb-intel
 c-48
 m-24vcpu-192gb
 g-32vcpu-128gb
@@ -278,8 +286,10 @@ c2-48vcpu-96gb
 m3-24vcpu-192gb
 g-40vcpu-160gb
 so1_5-16vcpu-128gb
+c-48-intel
 m-32vcpu-256gb
 gd-40vcpu-160gb
+c2-48vcpu-96gb-intel
 so-24vcpu-192gb
 m6-24vcpu-192gb
 m3-32vcpu-256gb
