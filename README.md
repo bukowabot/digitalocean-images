@@ -32,7 +32,6 @@ skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
 fathom-18-04
-optimajet-workflowserver-18-04
 nimbella-18-04
 snapt-snaptaria-18-04
 snapt-snaptnova-18-04
@@ -211,6 +210,7 @@ testingsafename2
 convoy
 npool
 perforce-perforcehelixcor
+litespeedtechnol-openlitespeeddja-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
