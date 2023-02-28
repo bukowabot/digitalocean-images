@@ -80,10 +80,11 @@ softlab24-opensourcesocial-18-04
 litespeedtechnol-cyberpanel-20-04
 playboxtechnolog-ottstream
 chaarmiworlds-metaverse
-devdojo-laravel-20-04
 litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
+devdojo-laravel-20-04
 openblocks
+mgtcommercegmbh-cloudpanel2ubunt
 cloudron-18-04
 runcloud-runcloud2004-20-04
 sharklabs-pacvim-18-04
@@ -108,13 +109,13 @@ aecsystems-speckleserver-20-04
 budibase-20-04
 hyfinity-webmakerserver-20-04
 m3o-micro
-flowforge
 saltcorn-20-04
-meilisas-meilisearch-10
 ibsurgeon-hqbirdfirebird
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv2
+flowforge
+meilisas-meilisearch-10
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
@@ -210,7 +211,6 @@ testingsafename2
 convoy
 npool
 perforce-perforcehelixcor
-litespeedtechnol-openlitespeeddja-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
