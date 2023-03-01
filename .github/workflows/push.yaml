@@ -22,7 +22,7 @@ jobs:
         run: |
           ./generate.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@c8254de74fb2d4577fe54a38cde3186515e9931c
+      - uses: stefanzweifel/git-auto-commit-action@3a446b74f0b1655361b260fb3c56299d77e635d3
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
