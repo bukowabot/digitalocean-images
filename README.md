@@ -319,5 +319,4 @@ kubernetes.json.options.versions[].kubernetes_version
 ````yaml
 1.25.4
 1.24.8
-1.23.14
 ````
