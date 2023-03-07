@@ -185,7 +185,6 @@ mysql-20-04
 perconamonitorin-7
 helpyio-helpypro-18-04
 cubitetechnologi-cubite-20-04
-caprover-18-04
 utnadmins-utunnelvpn
 simontelephonics-freepbx-7-8
 humhubgmbhkg-humhub-10
@@ -202,7 +201,6 @@ goauthentikio-authentik
 ifaxsolutions-hylafaxenterpris
 hammertechnologi-lumewebdnsrelay
 sharklabs-opensearch
-nextcloudgmbh-nextcloud
 sharklabs-matrixsynapsebac-10
 sharklabs-apachekafka
 bunkercloudservi-warpspeedvpn-18-04
@@ -211,6 +209,8 @@ testingsafename2
 convoy
 npool
 perforce-perforcehelixcor
+litespeedtechnol-openlitespeeddja-20-04
+ascensiosystem-onlyoffice-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
