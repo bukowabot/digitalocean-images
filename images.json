@@ -2326,6 +2326,37 @@
       "type": "snapshot"
     },
     {
+      "created_at": "2021-02-15T03:46:46Z",
+      "description": "RunCloud-18.04 on Ubuntu 18.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 78753774,
+      "min_disk_size": 25,
+      "name": "RunCloud-18.04 on Ubuntu 18.04",
+      "public": true,
+      "regions": [
+        "nyc1",
+        "sfo1",
+        "nyc2",
+        "ams2",
+        "sgp1",
+        "lon1",
+        "nyc3",
+        "ams3",
+        "fra1",
+        "tor1",
+        "sfo2",
+        "blr1",
+        "sfo3",
+        "syd1"
+      ],
+      "size_gigabytes": 3.17,
+      "slug": "runcloud-runcloud1804-18-04",
+      "status": "available",
+      "tags": [],
+      "type": "snapshot"
+    },
+    {
       "created_at": "2023-02-14T05:43:44Z",
       "description": "RunCloud-20.04 2.6.1.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6168,37 +6199,6 @@
       "status": "available",
       "tags": [],
       "type": "snapshot"
-    },
-    {
-      "created_at": "2022-10-03T07:57:06Z",
-      "description": "ONLYOFFICE Workspace 22.09.738 on Ubuntu 20.04 LTS",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 118118318,
-      "min_disk_size": 80,
-      "name": "ONLYOFFICE Workspace 22.09.738 on Ubuntu 20.04 LTS",
-      "public": true,
-      "regions": [
-        "nyc1",
-        "sfo1",
-        "nyc2",
-        "ams2",
-        "sgp1",
-        "lon1",
-        "nyc3",
-        "ams3",
-        "fra1",
-        "tor1",
-        "sfo2",
-        "blr1",
-        "sfo3",
-        "syd1"
-      ],
-      "size_gigabytes": 18.87,
-      "slug": "ascensiosystem-onlyoffice-18-04",
-      "status": "available",
-      "tags": [],
-      "type": "snapshot"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 381
+    "total": 383
   }
 }
