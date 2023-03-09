@@ -86,6 +86,7 @@ devdojo-laravel-20-04
 openblocks
 mgtcommercegmbh-cloudpanel2ubunt
 cloudron-18-04
+runcloud-runcloud1804-18-04
 runcloud-runcloud2004-20-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
@@ -210,7 +211,6 @@ convoy
 npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
-ascensiosystem-onlyoffice-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
