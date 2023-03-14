@@ -218,6 +218,7 @@
         "g-40vcpu-160gb",
         "so1_5-16vcpu-128gb",
         "m-32vcpu-256gb",
+        "gd-40vcpu-160gb",
         "so-24vcpu-192gb",
         "m6-24vcpu-192gb",
         "m3-32vcpu-256gb",
