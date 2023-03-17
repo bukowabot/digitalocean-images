@@ -83,8 +83,8 @@ chaarmiworlds-metaverse
 litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
 devdojo-laravel-20-04
-openblocks
 mgtcommercegmbh-cloudpanel2ubunt
+openblocks
 cloudron-18-04
 runcloud-runcloud1804-18-04
 runcloud-runcloud2004-20-04
