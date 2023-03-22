@@ -23,11 +23,11 @@ rockylinux-8-5-x64
 rockylinux-9-x64
 centos-stream-9-x64
 fedora-36-x64
-ubuntu-22-04-x64
 ubuntu-22-10-x64
 almalinux-9-x64
 almalinux-8-x64
 fedora-37-x64
+ubuntu-22-04-x64
 skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
@@ -317,6 +317,7 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.25.4
-1.24.8
+1.26.3
+1.25.8
+1.24.12
 ````

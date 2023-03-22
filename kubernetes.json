@@ -314,8 +314,8 @@
     ],
     "versions": [
       {
-        "kubernetes_version": "1.25.4",
-        "slug": "1.25.4-do.0",
+        "kubernetes_version": "1.26.3",
+        "slug": "1.26.3-do.0",
         "supported_features": [
           "cluster-autoscaler",
           "docr-integration",
@@ -324,8 +324,18 @@
         ]
       },
       {
-        "kubernetes_version": "1.24.8",
-        "slug": "1.24.8-do.0",
+        "kubernetes_version": "1.25.8",
+        "slug": "1.25.8-do.0",
+        "supported_features": [
+          "cluster-autoscaler",
+          "docr-integration",
+          "ha-control-plane",
+          "token-authentication"
+        ]
+      },
+      {
+        "kubernetes_version": "1.24.12",
+        "slug": "1.24.12-do.0",
         "supported_features": [
           "cluster-autoscaler",
           "docr-integration",
