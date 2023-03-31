@@ -567,6 +567,7 @@
         "c-16",
         "c2-16vcpu-32gb",
         "m3-8vcpu-64gb",
+        "c-16-intel",
         "g-16vcpu-64gb",
         "so-8vcpu-64gb",
         "m6-8vcpu-64gb",
