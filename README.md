@@ -82,9 +82,9 @@ playboxtechnolog-ottstream
 litespeedtechnol-openlitespeedwor-20-04
 openboxes-openboxesserver
 devdojo-laravel-20-04
-mgtcommercegmbh-cloudpanel2ubunt
 chaarmiworlds-metaverse
 openblocks
+mgtcommercegmbh-cloudpanel2ubunt
 cloudron-18-04
 runcloud-runcloud1804-18-04
 runcloud-runcloud2004-20-04
@@ -115,8 +115,8 @@ ibsurgeon-hqbirdfirebird
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv2
-meilisas-meilisearch-10
 flowforge
+meilisas-meilisearch-10
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
