@@ -191,7 +191,6 @@ simontelephonics-freepbx-7-8
 humhubgmbhkg-humhub-10
 litespeedtechnol-cyberpaneljoomla
 chevereto-cheveretofree
-azuracast-20-04
 oneledger-mainnetfullnode
 coder
 bitwarden-18-04
@@ -211,6 +210,7 @@ convoy
 npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
+ascensiosystem-onlyoffice-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
