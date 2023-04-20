@@ -112,9 +112,6 @@ hyfinity-webmakerserver-20-04
 m3o-micro
 saltcorn-20-04
 ibsurgeon-hqbirdfirebird
-ibsurgeon-hqbirdfirebirdv3
-ibsurgeon-hqbirdfirebirdv4
-ibsurgeon-hqbirdfirebirdv2
 meilisas-meilisearch-10
 flowforge
 dsuhininapp1-18-04
@@ -211,6 +208,9 @@ npool
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
+logstore
+shellhub
+soos-soosdastdroplet
 ````
 sizes.json.sizes[].slug
 ````yaml
