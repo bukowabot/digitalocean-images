@@ -75,7 +75,6 @@ sharklabs-piholevpn
 searchblox-searchbloxenterp-7-6
 sharklabs-openmptcprouter
 stretchshop
-gravitl-netmaker
 softlab24-opensourcesocial-18-04
 litespeedtechnol-cyberpanel-20-04
 playboxtechnolog-ottstream
@@ -211,6 +210,7 @@ ascensiosystem-onlyoffice-18-04
 logstore
 shellhub
 soos-soosdastdroplet
+varnishsoftware-varnishcache-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
