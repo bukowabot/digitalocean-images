@@ -1410,6 +1410,7 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
+        "ams3",
         "blr1",
         "lon1",
         "nyc1",
