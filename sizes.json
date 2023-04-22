@@ -1372,7 +1372,6 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "nyc1",
         "nyc3",
         "sfo3",
@@ -1392,7 +1391,6 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "nyc1",
         "nyc3",
         "sfo3",
@@ -1639,7 +1637,6 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "nyc1",
         "nyc3",
         "sfo3",
@@ -1705,7 +1702,6 @@
       "regions": [
         "ams3",
         "blr1",
-        "fra1",
         "nyc1",
         "nyc3",
         "sfo3",
