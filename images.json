@@ -2729,13 +2729,13 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2023-03-21T03:54:31Z",
-      "description": "HollaEx Kit 2.5.3 on Ubuntu 20.04",
+      "created_at": "2023-04-20T05:44:31Z",
+      "description": "HollaEx Kit 2.6.1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 129125778,
+      "id": 131073380,
       "min_disk_size": 160,
-      "name": "HollaEx Kit 2.5.3 on Ubuntu 20.04",
+      "name": "HollaEx Kit 2.6.1 on Ubuntu 20.04",
       "public": true,
       "regions": [
         "nyc1",
@@ -2753,7 +2753,7 @@
         "sfo3",
         "syd1"
       ],
-      "size_gigabytes": 3.21,
+      "size_gigabytes": 3.23,
       "slug": "hollaex-hollaexkit",
       "status": "available",
       "tags": [],
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 388
+    "total": 389
   }
 }
