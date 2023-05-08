@@ -402,7 +402,6 @@
         "c-48-intel",
         "m-32vcpu-256gb",
         "gd-40vcpu-160gb",
-        "c2-48vcpu-96gb-intel",
         "so-24vcpu-192gb",
         "m6-24vcpu-192gb",
         "m3-32vcpu-256gb",
