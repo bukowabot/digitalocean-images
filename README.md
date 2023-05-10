@@ -88,6 +88,7 @@ chaarmiworlds-metaverse
 cloudron-18-04
 runcloud-runcloud1804-18-04
 runcloud-runcloud2004-20-04
+cloudron-20-04
 sharklabs-pacvim-18-04
 eltrino-magento2opensour-18-04
 eltrino-magento2opensour-20-04
@@ -210,7 +211,6 @@ litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
 logstore
 shellhub
-soos-soosdastdroplet
 ````
 sizes.json.sizes[].slug
 ````yaml
