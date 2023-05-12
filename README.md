@@ -15,11 +15,8 @@ centos-7-x64
 centos-stream-8-x64
 debian-11-x64
 debian-10-x64
-rockylinux-8-4-x64
 ubuntu-20-04-x64
 ubuntu-18-04-x64
-rockylinux-8-x64
-rockylinux-8-5-x64
 rockylinux-9-x64
 centos-stream-9-x64
 fedora-36-x64
@@ -29,6 +26,7 @@ almalinux-8-x64
 fedora-37-x64
 ubuntu-22-04-x64
 fedora-38-x64
+rockylinux-8-x64
 skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
@@ -211,6 +209,8 @@ litespeedtechnol-openlitespeeddja-20-04
 ascensiosystem-onlyoffice-18-04
 logstore
 shellhub
+soos-soosdastdroplet
+varnishsoftware-varnishcache-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
