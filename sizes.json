@@ -1556,6 +1556,7 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "lon1",
