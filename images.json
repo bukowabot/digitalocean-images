@@ -3132,11 +3132,11 @@
       "type": "snapshot"
     },
     {
-      "created_at": "2023-05-16T13:25:10Z",
+      "created_at": "2023-05-25T12:26:57Z",
       "description": "FlowForge 1.7.1 on Ubuntu 22.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 132754615,
+      "id": 133341449,
       "min_disk_size": 25,
       "name": "FlowForge 1.7.1 on Ubuntu 22.04",
       "public": true,
@@ -3156,7 +3156,7 @@
         "sfo3",
         "syd1"
       ],
-      "size_gigabytes": 6.46,
+      "size_gigabytes": 6.56,
       "slug": "flowforge",
       "status": "available",
       "tags": [],
