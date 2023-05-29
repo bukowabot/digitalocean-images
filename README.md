@@ -98,8 +98,8 @@ runcloud-18-04
 nmtec-erxes-18-04
 supabase-supabasepostgres-18-04
 flipstarter-18-04
-ossrs-srs
 hollaex-hollaexkit
+ossrs-srs
 fastnetmon-18-04
 cyberscore-18-04
 shiftedit-serverwand-18-04
