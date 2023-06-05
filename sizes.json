@@ -1654,8 +1654,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c-48-intel",
       "transfer": 11,
@@ -1721,8 +1720,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c2-48vcpu-96gb-intel",
       "transfer": 11,
