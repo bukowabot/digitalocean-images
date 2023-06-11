@@ -111,8 +111,8 @@ hyfinity-webmakerserver-20-04
 m3o-micro
 saltcorn-20-04
 ibsurgeon-hqbirdfirebird
-flowforge
 meilisas-meilisearch-10
+flowforge
 dsuhininapp1-18-04
 helpy-18-04
 deadcanaries-onionroutedcloud-18-04
