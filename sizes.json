@@ -1423,6 +1423,7 @@
         "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
         "sgp1",
         "syd1",
@@ -1560,6 +1561,7 @@
         "fra1",
         "lon1",
         "nyc1",
+        "nyc3",
         "sfo3",
         "sgp1",
         "syd1",
@@ -1717,6 +1719,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo3",
         "syd1",
         "tor1"
