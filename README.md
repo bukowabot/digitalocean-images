@@ -36,7 +36,6 @@ snapt-snaptaria-18-04
 snapt-snaptnova-18-04
 weconexpbx-7-6
 buddy-18-04
-sharklabs-minecraftjavaedi-18-04
 selenoid-18-04
 litespeedtechnol-openlitespeednod-18-04
 simontelephonics-freepbx-7-6
@@ -211,6 +210,7 @@ logstore
 shellhub
 soos-soosdastdroplet
 varnishsoftware-varnishcache-18-04
+smartarget-wordpresswoocomm
 ````
 sizes.json.sizes[].slug
 ````yaml
