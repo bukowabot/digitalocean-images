@@ -27,6 +27,7 @@ rockylinux-8-x64
 rockylinux-9-x64
 almalinux-9-x64
 centos-stream-9-x64
+debian-12-x64
 skaffolder-18-04
 izenda-18-04
 quickcorp-qcobjects-18-04
@@ -210,7 +211,6 @@ logstore
 shellhub
 soos-soosdastdroplet
 varnishsoftware-varnishcache-18-04
-smartarget-wordpresswoocomm
 ````
 sizes.json.sizes[].slug
 ````yaml
