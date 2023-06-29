@@ -13,7 +13,6 @@ images.json.images[].slug
 ````yaml
 centos-7-x64
 centos-stream-8-x64
-debian-11-x64
 debian-10-x64
 convoy
 ubuntu-20-04-x64
@@ -161,6 +160,7 @@ flexifyio-flexifyiomulticl-20-04
 debian-12-x64
 rockylinux-8-x64
 rockylinux-9-x64
+debian-11-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
