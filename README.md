@@ -156,6 +156,7 @@ sharklabs-minecraftjavaedi-18-04
 doteamaccount-pocketbase
 bitwarden
 centos-stream-9-x64
+zeslecp-7
 flexifyio-flexifyiomulticl-20-04
 debian-12-x64
 rockylinux-8-x64
