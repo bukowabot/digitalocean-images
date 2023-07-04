@@ -32,7 +32,6 @@ litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedjoo-20-04
 botguardo-botguardingressc
 intel-intelgprofilercr
-litespeedtechnol-openlitespeeddru
 ascensiosystem-onlyoffice-18-04
 fedora-36-x64
 litespeedtechnol-openlitespeednod-20-04
@@ -134,7 +133,6 @@ plesk-20-04
 almalinux-9-x64
 botguardo-botguardgatekeep
 ossrs-srs
-osmosislabs-osmosis
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
 victoriametrics-victoriametricss
@@ -162,6 +160,8 @@ debian-12-x64
 rockylinux-8-x64
 rockylinux-9-x64
 debian-11-x64
+litespeedtechnol-openlitespeeddru
+osmosislabs-osmosis
 ````
 sizes.json.sizes[].slug
 ````yaml
