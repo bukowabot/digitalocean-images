@@ -155,6 +155,7 @@ flexifyio-flexifyiomulticl-20-04
 debian-12-x64
 rockylinux-8-x64
 rockylinux-9-x64
+harperdb-18-04
 debian-11-x64
 litespeedtechnol-openlitespeeddru
 osmosislabs-osmosis
