@@ -4465,6 +4465,37 @@
       "type": "base"
     },
     {
+      "created_at": "2023-06-28T21:53:54Z",
+      "description": "HarperDB 4.1.2 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 135513898,
+      "min_disk_size": 25,
+      "name": "HarperDB 4.1.2 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.85,
+      "slug": "harperdb-18-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-06-29T18:12:12Z",
       "description": "Debian 11 Image",
       "distribution": "Debian",
@@ -4717,6 +4748,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 152
+    "total": 153
   }
 }
