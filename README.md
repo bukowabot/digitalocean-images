@@ -112,7 +112,6 @@ postalsystemso-emailengine
 zabbix-zabbixproxy64
 zabbix-zabbixserver64
 zabbix-zabbixserver60
-passboltsa-passboltce-20-04
 aqtraplatform
 ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv4
@@ -136,13 +135,9 @@ victoriametrics-victoriametricss
 meilisas-meilisearch-10
 mgtcommercegmbh-cloudpanel2ubunt
 sandflysecurity-20-04
-antmedia-antmediaserverco-18-04
-antmedia-antmediaserveren-18-04
 dreamfactory
-flowforge
 dokku-20-04
 hollaex-hollaexkit
-kandralabs-zulip-18-04
 apliteni-keitaro
 questdb-20-04
 ascensiosystemsi-onlyofficeeditor-18-04-4
@@ -162,8 +157,13 @@ osmosislabs-osmosis
 litespeedtechnol-openlitespeedwor-20-04
 edgedb
 rocketchat-20-04
+flowforge
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
+kandralabs-zulip-18-04
+passboltsa-passboltce-20-04
+antmedia-antmediaserverco-18-04
+antmedia-antmediaserveren-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
