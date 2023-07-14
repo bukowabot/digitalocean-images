@@ -143,7 +143,6 @@ questdb-20-04
 ascensiosystemsi-onlyofficeeditor-18-04-4
 sharklabs-minecraftjavaedi-18-04
 doteamaccount-pocketbase
-bitwarden
 centos-stream-9-x64
 zeslecp-7
 flexifyio-flexifyiomulticl-20-04
@@ -164,6 +163,7 @@ kandralabs-zulip-18-04
 passboltsa-passboltce-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
