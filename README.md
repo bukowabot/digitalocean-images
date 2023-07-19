@@ -69,7 +69,6 @@ stacksfoundation-stacksblockchain
 seatablegmbh-seatable
 codelathe-filecloud-20-04
 saltcorn-20-04
-nirvatosoftware-nirvashare-20-04
 openboxes-openboxesserver
 ibsurgeon-hqbirdfirebird
 lemp-20-04
@@ -164,6 +163,8 @@ passboltsa-passboltce-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 bitwarden
+supabase
+nirvatosoftware-nirvashare-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
