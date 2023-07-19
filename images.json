@@ -1799,37 +1799,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-01-27T13:45:35Z",
-      "description": "NirvaShare 2.4.0 on Ubuntu 20.04 (LTS)",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 125737319,
-      "min_disk_size": 25,
-      "name": "NirvaShare 2.4.0 on Ubuntu 20.04 (LTS)",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.46,
-      "slug": "nirvatosoftware-nirvashare-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-02-02T04:31:40Z",
       "description": "OpenBoxes Server 0.8.20 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -4742,12 +4711,74 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-07-18T17:20:56Z",
+      "description": "Supabase 3.8 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 136754619,
+      "min_disk_size": 50,
+      "name": "Supabase 3.8 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 5.72,
+      "slug": "supabase",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-07-19T04:36:55Z",
+      "description": "NirvaShare 4.0 on Ubuntu 20.04 (LTS)",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 136802154,
+      "min_disk_size": 25,
+      "name": "NirvaShare 4.0 on Ubuntu 20.04 (LTS)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.52,
+      "slug": "nirvatosoftware-nirvashare-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 153
+    "total": 154
   }
 }
