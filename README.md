@@ -136,7 +136,6 @@ mgtcommercegmbh-cloudpanel2ubunt
 sandflysecurity-20-04
 dreamfactory
 dokku-20-04
-hollaex-hollaexkit
 apliteni-keitaro
 questdb-20-04
 ascensiosystemsi-onlyofficeeditor-18-04-4
@@ -165,6 +164,7 @@ antmedia-antmediaserveren-18-04
 bitwarden
 supabase
 nirvatosoftware-nirvashare-20-04
+hollaex-hollaexkit
 ````
 sizes.json.sizes[].slug
 ````yaml

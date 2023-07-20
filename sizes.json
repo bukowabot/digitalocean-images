@@ -1133,8 +1133,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c-16-intel",
       "transfer": 7,
@@ -1154,8 +1153,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c2-16vcpu-32gb-intel",
       "transfer": 7,
@@ -1382,8 +1380,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c-32-intel",
       "transfer": 9,
@@ -1403,8 +1400,7 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c2-32vcpu-64gb-intel",
       "transfer": 9,
@@ -1649,13 +1645,11 @@
       "price_monthly": 1310,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c-48-intel",
       "transfer": 11,
@@ -1716,12 +1710,11 @@
       "price_monthly": 1466,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
+        "nyc1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "c2-48vcpu-96gb-intel",
       "transfer": 11,

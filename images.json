@@ -835,7 +835,7 @@
       "slug": "ubuntu-22-10-x64",
       "status": "available",
       "tags": [],
-      "type": "base"
+      "type": "api_only"
     },
     {
       "created_at": "2022-10-25T00:35:46Z",
@@ -3876,37 +3876,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-06-09T10:44:23Z",
-      "description": "HollaEx Kit 2.6.6 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 134295033,
-      "min_disk_size": 160,
-      "name": "HollaEx Kit 2.6.6 on Ubuntu 20.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3,
-      "slug": "hollaex-hollaexkit",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-06-15T03:20:26Z",
       "description": "Keitaro 10.0.9.1 on CentOS 9 Stream",
       "distribution": "CentOS",
@@ -4770,6 +4739,37 @@
       ],
       "size_gigabytes": 3.52,
       "slug": "nirvatosoftware-nirvashare-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-07-20T07:14:13Z",
+      "description": "HollaEx Kit 2.7.2 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 136873492,
+      "min_disk_size": 160,
+      "name": "HollaEx Kit 2.7.2 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.07,
+      "slug": "hollaex-hollaexkit",
       "status": "available",
       "tags": [],
       "type": "application"
