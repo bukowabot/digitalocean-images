@@ -22,7 +22,6 @@ rstudio-20-04
 invoiceninja-20-0-4
 microwebercms-microweber-20-04
 wordsmythcreatio-aresmush
-thegrampsproject-grampsweb
 ghost-20-04
 appsmith-18-04
 npool
@@ -165,6 +164,7 @@ bitwarden
 supabase
 nirvatosoftware-nirvashare-20-04
 hollaex-hollaexkit
+thegrampsproject-grampsweb
 ````
 sizes.json.sizes[].slug
 ````yaml
