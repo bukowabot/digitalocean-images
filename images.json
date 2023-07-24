@@ -4744,6 +4744,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-07-21T17:53:01Z",
+      "description": "LinuxGSM 1.0 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 136944728,
+      "min_disk_size": 25,
+      "name": "LinuxGSM 1.0 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.07,
+      "slug": "linuxgsm",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-07-21T20:09:19Z",
       "description": "Gramps Web 0.22.2+ on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4779,6 +4810,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 154
+    "total": 155
   }
 }

@@ -164,6 +164,7 @@ bitwarden
 supabase
 nirvatosoftware-nirvashare-20-04
 hollaex-hollaexkit
+linuxgsm
 thegrampsproject-grampsweb
 ````
 sizes.json.sizes[].slug
@@ -271,8 +272,8 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.27.2
-1.26.5
-1.25.10
-1.24.13
+1.27.4
+1.26.7
+1.25.12
+1.24.16
 ````
