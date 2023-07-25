@@ -59,7 +59,6 @@ softlab24-opensourcesocial-18-04
 test433
 mastodon-18-04
 akaunting-20-04
-litespeedtechnol-cyberpanel-20-04
 znuny-znunylts-10
 znuny
 nginx
@@ -132,7 +131,6 @@ sharklabs-jupyternotebook
 victoriametrics-victoriametricss
 meilisas-meilisearch-10
 mgtcommercegmbh-cloudpanel2ubunt
-sandflysecurity-20-04
 dreamfactory
 dokku-20-04
 apliteni-keitaro
@@ -163,9 +161,12 @@ antmedia-antmediaserveren-18-04
 bitwarden
 supabase
 nirvatosoftware-nirvashare-20-04
+caligrafybypostc-caligrafy
 hollaex-hollaexkit
 linuxgsm
 thegrampsproject-grampsweb
+litespeedtechnol-cyberpanel-20-04
+sandflysecurity-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
