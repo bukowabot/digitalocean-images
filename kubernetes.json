@@ -30,6 +30,10 @@
         "slug": "tor1"
       },
       {
+        "name": "San Francisco 2",
+        "slug": "sfo2"
+      },
+      {
         "name": "Bangalore 1",
         "slug": "blr1"
       },
