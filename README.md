@@ -66,7 +66,6 @@ playboxtechnolog-ottstream
 stacksfoundation-stacksblockchain
 seatablegmbh-seatable
 codelathe-filecloud-20-04
-saltcorn-20-04
 openboxes-openboxesserver
 ibsurgeon-hqbirdfirebird
 lemp-20-04
@@ -167,6 +166,7 @@ linuxgsm
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 sandflysecurity-20-04
+saltcorn-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
