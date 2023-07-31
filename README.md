@@ -75,7 +75,6 @@ django-20-04
 runcloud-runcloud2004-20-04
 optimajet-workflowserver3
 rubyonrails-20-04
-devdojo-laravel-20-04
 fastpanel-deb-9
 haltdos-haltdoscommunity
 phpmyadmin-20-04
@@ -123,7 +122,6 @@ wpclouddeploy
 plesk-pleskcentos-7-9
 plesk-20-04
 almalinux-9-x64
-botguardo-botguardgatekeep
 ossrs-srs
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
@@ -158,7 +156,6 @@ passboltsa-passboltce-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 bitwarden
-supabase
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 hollaex-hollaexkit
@@ -167,6 +164,9 @@ thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 sandflysecurity-20-04
 saltcorn-20-04
+devdojo-laravel-20-04
+supabase
+botguardo-botguardgatekeep
 ````
 sizes.json.sizes[].slug
 ````yaml
