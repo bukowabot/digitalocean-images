@@ -87,7 +87,6 @@ mern
 wordpress-20-04
 kromit-titra-20-04
 mean
-3cxcommunication-3cx
 flask
 photoprism-20-04
 ubuntu-22-04-x64
@@ -164,9 +163,12 @@ thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 sandflysecurity-20-04
 saltcorn-20-04
+eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
 supabase
 botguardo-botguardgatekeep
+rabbitmq
+3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -276,5 +278,4 @@ kubernetes.json.options.versions[].kubernetes_version
 1.27.4
 1.26.7
 1.25.12
-1.24.16
 ````
