@@ -1,7 +1,7 @@
 {
   "links": {},
   "meta": {
-    "total": 83
+    "total": 95
   },
   "sizes": [
     {
@@ -95,6 +95,29 @@
     },
     {
       "available": true,
+      "description": "Basic Intel",
+      "disk": 35,
+      "memory": 1024,
+      "price_hourly": 0.0119,
+      "price_monthly": 8,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-1vcpu-1gb-35gb-intel",
+      "transfer": 1,
+      "vcpus": 1
+    },
+    {
+      "available": true,
       "description": "Basic",
       "disk": 50,
       "memory": 2048,
@@ -160,6 +183,29 @@
         "tor1"
       ],
       "slug": "s-1vcpu-2gb-intel",
+      "transfer": 2,
+      "vcpus": 1
+    },
+    {
+      "available": true,
+      "description": "Basic Intel",
+      "disk": 70,
+      "memory": 2048,
+      "price_hourly": 0.02381,
+      "price_monthly": 16,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-1vcpu-2gb-70gb-intel",
       "transfer": 2,
       "vcpus": 1
     },
@@ -235,6 +281,29 @@
     },
     {
       "available": true,
+      "description": "Basic Intel",
+      "disk": 90,
+      "memory": 2048,
+      "price_hourly": 0.03571,
+      "price_monthly": 24,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-2vcpu-2gb-90gb-intel",
+      "transfer": 3.1,
+      "vcpus": 2
+    },
+    {
+      "available": true,
       "description": "Basic",
       "disk": 80,
       "memory": 4096,
@@ -305,6 +374,49 @@
     },
     {
       "available": true,
+      "description": "Basic Intel",
+      "disk": 120,
+      "memory": 4096,
+      "price_hourly": 0.04762,
+      "price_monthly": 32,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-2vcpu-4gb-120gb-intel",
+      "transfer": 4.1,
+      "vcpus": 2
+    },
+    {
+      "available": true,
+      "description": "Basic AMD",
+      "disk": 100,
+      "memory": 8192,
+      "price_hourly": 0.0625,
+      "price_monthly": 42,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-2vcpu-8gb-amd",
+      "transfer": 5.1,
+      "vcpus": 2
+    },
+    {
+      "available": true,
       "description": "CPU-Optimized",
       "disk": 25,
       "memory": 4096,
@@ -349,6 +461,26 @@
       ],
       "slug": "c2-2vcpu-4gb",
       "transfer": 4,
+      "vcpus": 2
+    },
+    {
+      "available": true,
+      "description": "Basic Intel",
+      "disk": 160,
+      "memory": 8192,
+      "price_hourly": 0.07143,
+      "price_monthly": 48,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-2vcpu-8gb-160gb-intel",
+      "transfer": 5.1,
       "vcpus": 2
     },
     {
@@ -447,6 +579,29 @@
     },
     {
       "available": true,
+      "description": "Basic Intel",
+      "disk": 240,
+      "memory": 8192,
+      "price_hourly": 0.09524,
+      "price_monthly": 64,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-4vcpu-8gb-240gb-intel",
+      "transfer": 6.1,
+      "vcpus": 4
+    },
+    {
+      "available": true,
       "description": "General Purpose 2x SSD",
       "disk": 50,
       "memory": 8192,
@@ -468,6 +623,26 @@
       "slug": "gd-2vcpu-8gb",
       "transfer": 4,
       "vcpus": 2
+    },
+    {
+      "available": true,
+      "description": "Basic AMD",
+      "disk": 200,
+      "memory": 16384,
+      "price_hourly": 0.125,
+      "price_monthly": 84,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-4vcpu-16gb-amd",
+      "transfer": 8.2,
+      "vcpus": 4
     },
     {
       "available": true,
@@ -539,6 +714,26 @@
       ],
       "slug": "c2-4vcpu-8gb",
       "transfer": 5,
+      "vcpus": 4
+    },
+    {
+      "available": true,
+      "description": "Basic Intel",
+      "disk": 320,
+      "memory": 16384,
+      "price_hourly": 0.14286,
+      "price_monthly": 96,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-4vcpu-16gb-320gb-intel",
+      "transfer": 8.2,
       "vcpus": 4
     },
     {
@@ -705,6 +900,29 @@
     },
     {
       "available": true,
+      "description": "Basic Intel",
+      "disk": 480,
+      "memory": 16384,
+      "price_hourly": 0.19048,
+      "price_monthly": 128,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo3",
+        "sgp1",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-8vcpu-16gb-480gb-intel",
+      "transfer": 9.2,
+      "vcpus": 8
+    },
+    {
+      "available": true,
       "description": "Storage-Optimized",
       "disk": 300,
       "memory": 16384,
@@ -801,6 +1019,26 @@
     },
     {
       "available": true,
+      "description": "Basic AMD",
+      "disk": 400,
+      "memory": 32768,
+      "price_hourly": 0.25,
+      "price_monthly": 168,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-8vcpu-32gb-amd",
+      "transfer": 10.2,
+      "vcpus": 8
+    },
+    {
+      "available": true,
       "description": "Memory-Optimized",
       "disk": 100,
       "memory": 32768,
@@ -869,6 +1107,26 @@
       ],
       "slug": "c2-8vcpu-16gb",
       "transfer": 6,
+      "vcpus": 8
+    },
+    {
+      "available": true,
+      "description": "Basic Intel",
+      "disk": 640,
+      "memory": 32768,
+      "price_hourly": 0.28571,
+      "price_monthly": 192,
+      "regions": [
+        "ams3",
+        "blr1",
+        "fra1",
+        "nyc3",
+        "sfo3",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "s-8vcpu-32gb-640gb-intel",
+      "transfer": 10.2,
       "vcpus": 8
     },
     {
