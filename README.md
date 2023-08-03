@@ -30,7 +30,6 @@ litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedjoo-20-04
 botguardo-botguardingressc
 intel-intelgprofilercr
-ascensiosystem-onlyoffice-18-04
 fedora-36-x64
 litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
@@ -130,7 +129,6 @@ dreamfactory
 dokku-20-04
 apliteni-keitaro
 questdb-20-04
-ascensiosystemsi-onlyofficeeditor-18-04-4
 sharklabs-minecraftjavaedi-18-04
 doteamaccount-pocketbase
 centos-stream-9-x64
@@ -157,7 +155,6 @@ bitwarden
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 hollaex-hollaexkit
-linuxgsm
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 sandflysecurity-20-04
@@ -168,7 +165,10 @@ supabase
 botguardo-botguardgatekeep
 meilisas-meilisearch-10
 rabbitmq
+ascensiosystemsi-onlyofficeeditor-18-04-4
+ascensiosystem-onlyoffice-18-04
 3cxcommunication-3cx
+linuxgsm
 ````
 sizes.json.sizes[].slug
 ````yaml
