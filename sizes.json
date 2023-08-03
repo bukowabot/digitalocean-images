@@ -299,7 +299,7 @@
         "tor1"
       ],
       "slug": "s-2vcpu-2gb-90gb-intel",
-      "transfer": 3.1,
+      "transfer": 3,
       "vcpus": 2
     },
     {
@@ -392,7 +392,7 @@
         "tor1"
       ],
       "slug": "s-2vcpu-4gb-120gb-intel",
-      "transfer": 4.1,
+      "transfer": 4,
       "vcpus": 2
     },
     {
@@ -412,7 +412,7 @@
         "tor1"
       ],
       "slug": "s-2vcpu-8gb-amd",
-      "transfer": 5.1,
+      "transfer": 5,
       "vcpus": 2
     },
     {
@@ -480,7 +480,7 @@
         "tor1"
       ],
       "slug": "s-2vcpu-8gb-160gb-intel",
-      "transfer": 5.1,
+      "transfer": 5,
       "vcpus": 2
     },
     {
@@ -597,7 +597,7 @@
         "tor1"
       ],
       "slug": "s-4vcpu-8gb-240gb-intel",
-      "transfer": 6.1,
+      "transfer": 6,
       "vcpus": 4
     },
     {
@@ -641,7 +641,7 @@
         "tor1"
       ],
       "slug": "s-4vcpu-16gb-amd",
-      "transfer": 8.2,
+      "transfer": 8,
       "vcpus": 4
     },
     {
@@ -733,7 +733,7 @@
         "tor1"
       ],
       "slug": "s-4vcpu-16gb-320gb-intel",
-      "transfer": 8.2,
+      "transfer": 8,
       "vcpus": 4
     },
     {
@@ -918,7 +918,7 @@
         "tor1"
       ],
       "slug": "s-8vcpu-16gb-480gb-intel",
-      "transfer": 9.2,
+      "transfer": 9,
       "vcpus": 8
     },
     {
@@ -1034,7 +1034,7 @@
         "tor1"
       ],
       "slug": "s-8vcpu-32gb-amd",
-      "transfer": 10.2,
+      "transfer": 10,
       "vcpus": 8
     },
     {
@@ -1126,7 +1126,7 @@
         "tor1"
       ],
       "slug": "s-8vcpu-32gb-640gb-intel",
-      "transfer": 10.2,
+      "transfer": 10,
       "vcpus": 8
     },
     {
