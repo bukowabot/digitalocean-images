@@ -1682,7 +1682,6 @@
       "price_monthly": 874,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -1704,7 +1703,6 @@
       "price_monthly": 978,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -1966,7 +1964,6 @@
       "price_monthly": 1310,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -2035,9 +2032,7 @@
       "price_monthly": 1466,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
-        "nyc1",
         "nyc3",
         "sfo2",
         "syd1",
