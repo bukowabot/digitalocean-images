@@ -144,7 +144,6 @@ osmosislabs-osmosis
 litespeedtechnol-openlitespeedwor-20-04
 edgedb
 rocketchat-20-04
-flowforge
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 kandralabs-zulip-18-04
@@ -168,6 +167,7 @@ rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 3cxcommunication-3cx
+flowforge
 linuxgsm
 ````
 sizes.json.sizes[].slug
