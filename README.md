@@ -110,7 +110,6 @@ ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv4
 mjmair-inventree
 gravitl-netmaker
-discourse-20-04
 cloudron-20-04
 fedora-38-x64
 severalnines-clustercontrol-20-04
@@ -118,7 +117,6 @@ docker-20-04
 activepieces
 wpclouddeploy
 plesk-pleskcentos-7-9
-plesk-20-04
 almalinux-9-x64
 ossrs-srs
 chaarmiworlds-metaverse
@@ -130,7 +128,6 @@ dokku-20-04
 apliteni-keitaro
 questdb-20-04
 sharklabs-minecraftjavaedi-18-04
-doteamaccount-pocketbase
 centos-stream-9-x64
 zeslecp-7
 flexifyio-flexifyiomulticl-20-04
@@ -143,7 +140,6 @@ litespeedtechnol-openlitespeeddru
 osmosislabs-osmosis
 litespeedtechnol-openlitespeedwor-20-04
 edgedb
-rocketchat-20-04
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 kandralabs-zulip-18-04
@@ -169,6 +165,10 @@ ascensiosystem-onlyoffice-18-04
 3cxcommunication-3cx
 flowforge
 linuxgsm
+plesk-20-04
+rocketchat-20-04
+doteamaccount-pocketbase
+discourse-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
