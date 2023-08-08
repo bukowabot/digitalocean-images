@@ -1428,7 +1428,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-16-intel",
@@ -1450,7 +1449,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-16vcpu-32gb-intel",
@@ -1687,7 +1685,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-32-intel",
@@ -1708,7 +1705,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-32vcpu-64gb-intel",
@@ -1965,7 +1961,6 @@
       "regions": [
         "ams3",
         "fra1",
-        "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
@@ -2033,7 +2028,6 @@
       "regions": [
         "ams3",
         "fra1",
-        "nyc1",
         "nyc3",
         "sfo2",
         "tor1"

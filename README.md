@@ -116,7 +116,6 @@ severalnines-clustercontrol-20-04
 docker-20-04
 activepieces
 wpclouddeploy
-plesk-pleskcentos-7-9
 almalinux-9-x64
 ossrs-srs
 chaarmiworlds-metaverse
@@ -166,6 +165,7 @@ ascensiosystem-onlyoffice-18-04
 flowforge
 linuxgsm
 plesk-20-04
+plesk-pleskcentos-7-9
 rocketchat-20-04
 doteamaccount-pocketbase
 discourse-20-04
