@@ -64,7 +64,6 @@ nginx
 playboxtechnolog-ottstream
 stacksfoundation-stacksblockchain
 seatablegmbh-seatable
-codelathe-filecloud-20-04
 openboxes-openboxesserver
 ibsurgeon-hqbirdfirebird
 lemp-20-04
@@ -117,7 +116,6 @@ docker-20-04
 activepieces
 wpclouddeploy
 almalinux-9-x64
-ossrs-srs
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
 victoriametrics-victoriametricss
@@ -129,11 +127,9 @@ questdb-20-04
 sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
-flexifyio-flexifyiomulticl-20-04
 debian-12-x64
 rockylinux-8-x64
 rockylinux-9-x64
-harperdb-18-04
 debian-11-x64
 litespeedtechnol-openlitespeeddru
 osmosislabs-osmosis
@@ -163,12 +159,16 @@ ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 3cxcommunication-3cx
 flowforge
-linuxgsm
 plesk-20-04
 plesk-pleskcentos-7-9
 rocketchat-20-04
 doteamaccount-pocketbase
+ossrs-srs
 discourse-20-04
+flexifyio-flexifyiomulticl-20-04
+linuxgsm
+codelathe-filecloud-20-04
+harperdb-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
