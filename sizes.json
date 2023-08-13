@@ -1682,6 +1682,7 @@
       "price_monthly": 874,
       "regions": [
         "ams3",
+        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -1703,6 +1704,7 @@
       "price_monthly": 978,
       "regions": [
         "ams3",
+        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -1964,11 +1966,13 @@
       "price_monthly": 1310,
       "regions": [
         "ams3",
+        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
+        "syd1",
         "tor1"
       ],
       "slug": "c-48-intel",
@@ -2032,11 +2036,13 @@
       "price_monthly": 1466,
       "regions": [
         "ams3",
+        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
+        "syd1",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb-intel",
