@@ -30,7 +30,6 @@ litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedjoo-20-04
 botguardo-botguardingressc
 intel-intelgprofilercr
-fedora-36-x64
 litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
@@ -104,7 +103,6 @@ postalsystemso-emailengine
 zabbix-zabbixproxy64
 zabbix-zabbixserver64
 zabbix-zabbixserver60
-aqtraplatform
 ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv4
 mjmair-inventree
@@ -168,6 +166,7 @@ linuxgsm
 ossrs-srs
 codelathe-filecloud-20-04
 harperdb-18-04
+aqtraplatform
 3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
