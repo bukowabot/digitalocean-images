@@ -590,37 +590,6 @@
       "type": "application"
     },
     {
-      "created_at": "2022-10-06T16:50:33Z",
-      "description": "Fedora 36 x64",
-      "distribution": "Fedora",
-      "error_message": "",
-      "id": 118326629,
-      "min_disk_size": 15,
-      "name": "36 x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.53,
-      "slug": "fedora-36-x64",
-      "status": "available",
-      "tags": [],
-      "type": "api_only"
-    },
-    {
       "created_at": "2022-10-11T07:27:50Z",
       "description": "OpenLiteSpeed NodeJS 18.10.0 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -2884,37 +2853,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-04-26T14:10:18Z",
-      "description": "Aqtra Platform 0.5.24 on Ubuntu 18.04+",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 131467826,
-      "min_disk_size": 25,
-      "name": "Aqtra Platform 0.5.24 on Ubuntu 18.04+",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.34,
-      "slug": "aqtraplatform",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-04-26T16:54:54Z",
       "description": "HQbird Firebird v2.5 2.5.9.2717-10.1.1623 on CentOS 7.x",
       "distribution": "CentOS",
@@ -4868,6 +4806,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-08-10T10:28:24Z",
+      "description": "Aqtra Platform 0.7.14 on Ubuntu 18.04+",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 138203323,
+      "min_disk_size": 25,
+      "name": "Aqtra Platform 0.7.14 on Ubuntu 18.04+",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.54,
+      "slug": "aqtraplatform",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-08-10T12:17:32Z",
       "description": "3CX 18.0.8.917 on Debian 10 (Buster)",
       "distribution": "Debian",
@@ -4903,6 +4872,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 158
+    "total": 157
   }
 }
