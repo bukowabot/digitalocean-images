@@ -99,7 +99,6 @@ appwrite-20-04
 jitsiserver-20-04
 origintrail-origintrailnode
 jelastic-jelasticpaas-7
-postalsystemso-emailengine
 zabbix-zabbixproxy64
 zabbix-zabbixserver64
 zabbix-zabbixserver60
@@ -145,7 +144,6 @@ caligrafybypostc-caligrafy
 hollaex-hollaexkit
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
-sandflysecurity-20-04
 saltcorn-20-04
 eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
@@ -167,7 +165,10 @@ ossrs-srs
 codelathe-filecloud-20-04
 harperdb-18-04
 aqtraplatform
+haltdos-haltdosprowaf
 3cxcommunication-3cx
+sandflysecurity-20-04
+postalsystemso-emailengine
 ````
 sizes.json.sizes[].slug
 ````yaml
