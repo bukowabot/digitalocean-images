@@ -169,6 +169,7 @@ haltdos-haltdosprowaf
 3cxcommunication-3cx
 sandflysecurity-20-04
 postalsystemso-emailengine
+haltdos-haltdoswafpro
 ````
 sizes.json.sizes[].slug
 ````yaml
