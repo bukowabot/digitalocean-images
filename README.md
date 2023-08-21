@@ -116,7 +116,6 @@ almalinux-9-x64
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
 victoriametrics-victoriametricss
-mgtcommercegmbh-cloudpanel2ubunt
 dreamfactory
 dokku-20-04
 apliteni-keitaro
@@ -170,6 +169,8 @@ haltdos-haltdosprowaf
 sandflysecurity-20-04
 postalsystemso-emailengine
 haltdos-haltdoswafpro
+mgtcommercegmbh-cloudpanel2ubunt
+mongodb-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
