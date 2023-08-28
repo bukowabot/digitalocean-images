@@ -171,6 +171,7 @@ postalsystemso-emailengine
 haltdos-haltdoswafpro
 mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
+supernetworks-spr
 ````
 sizes.json.sizes[].slug
 ````yaml
