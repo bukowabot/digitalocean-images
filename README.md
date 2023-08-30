@@ -79,7 +79,6 @@ optimajet-workflowserver-18-04
 devrel-teleport-20-04
 analythium-shinyproxy-20-04
 nextcloudgmbh-nextcloud
-caprover-18-04
 mern
 wordpress-20-04
 kromit-titra-20-04
@@ -134,10 +133,8 @@ edgedb
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 kandralabs-zulip-18-04
-passboltsa-passboltce-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
-bitwarden
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 hollaex-hollaexkit
@@ -172,6 +169,9 @@ haltdos-haltdoswafpro
 mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
 supernetworks-spr
+passboltsa-passboltce-20-04
+caprover-18-04
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
