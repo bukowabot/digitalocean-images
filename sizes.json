@@ -1744,7 +1744,6 @@
       "price_monthly": 978,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
@@ -2011,6 +2010,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
+        "sfo3",
         "syd1",
         "tor1"
       ],
