@@ -149,7 +149,6 @@ meilisas-meilisearch-10
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
-flowforge
 plesk-20-04
 plesk-pleskcentos-7-9
 rocketchat-20-04
@@ -170,8 +169,9 @@ mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
 supernetworks-spr
 passboltsa-passboltce-20-04
-caprover-18-04
 bitwarden
+flowforge
+caprover-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
