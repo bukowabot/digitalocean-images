@@ -167,11 +167,13 @@ postalsystemso-emailengine
 haltdos-haltdoswafpro
 mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
-supernetworks-spr
 passboltsa-passboltce-20-04
 bitwarden
 flowforge
+origintrail-origintraildkgma
 caprover-18-04
+ispmanager-ispmanager6
+supernetworks-spr
 ````
 sizes.json.sizes[].slug
 ````yaml
