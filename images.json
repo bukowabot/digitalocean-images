@@ -4837,37 +4837,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-08-23T08:08:30Z",
-      "description": "SPR 0.2.21 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 139031753,
-      "min_disk_size": 25,
-      "name": "SPR 0.2.21 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 4.5,
-      "slug": "supernetworks-spr",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-08-24T14:11:17Z",
       "description": "Passbolt CE 4.2.0-1 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4961,6 +4930,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-08-31T15:34:19Z",
+      "description": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 139549252,
+      "min_disk_size": 25,
+      "name": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.9,
+      "slug": "origintrail-origintraildkgma",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-09-01T02:28:19Z",
       "description": "CapRover 1.11.0 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4990,12 +4990,74 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-09-01T05:11:10Z",
+      "description": "Ispmanager 6 6.80.0 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 139604237,
+      "min_disk_size": 25,
+      "name": "Ispmanager 6 6.80.0 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.54,
+      "slug": "ispmanager-ispmanager6",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-09-04T12:13:00Z",
+      "description": "SPR 0.2.21 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 139799033,
+      "min_disk_size": 10,
+      "name": "SPR 0.2.21 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.96,
+      "slug": "supernetworks-spr",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 161
+    "total": 163
   }
 }
