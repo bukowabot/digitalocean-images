@@ -15,7 +15,6 @@ centos-7-x64
 debian-10-x64
 convoy
 ubuntu-20-04-x64
-ubuntu-18-04-x64
 nakama-18-04
 bigcloud-odoo
 rstudio-20-04
@@ -34,7 +33,6 @@ litespeedtechnol-openlitespeednod-20-04
 callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
-ubuntu-22-10-x64
 logstore
 searchblox-searchbloxenterp-7-6
 almalinux-8-x64
