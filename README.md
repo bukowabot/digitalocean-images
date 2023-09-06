@@ -150,16 +150,13 @@ ascensiosystem-onlyoffice-18-04
 plesk-20-04
 plesk-pleskcentos-7-9
 rocketchat-20-04
-doteamaccount-pocketbase
 discourse-20-04
 flexifyio-flexifyiomulticl-20-04
 linuxgsm
-ossrs-srs
 codelathe-filecloud-20-04
 harperdb-18-04
 aqtraplatform
 haltdos-haltdosprowaf
-3cxcommunication-3cx
 sandflysecurity-20-04
 postalsystemso-emailengine
 haltdos-haltdoswafpro
@@ -172,6 +169,9 @@ origintrail-origintraildkgma
 caprover-18-04
 ispmanager-ispmanager6
 supernetworks-spr
+ossrs-srs
+3cxcommunication-3cx
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
