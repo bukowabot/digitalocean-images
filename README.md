@@ -50,7 +50,6 @@ warpspeedvpn-wpcontroller
 m3o-micro
 stretchshop
 kuyio-konnectvpna
-lamp-20-04
 softlab24-opensourcesocial-18-04
 test433
 mastodon-18-04
@@ -172,6 +171,7 @@ supernetworks-spr
 ossrs-srs
 3cxcommunication-3cx
 doteamaccount-pocketbase
+lamp-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
