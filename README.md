@@ -140,7 +140,6 @@ litespeedtechnol-cyberpanel-20-04
 saltcorn-20-04
 eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
-supabase
 botguardo-botguardgatekeep
 meilisas-meilisearch-10
 rabbitmq
@@ -148,7 +147,6 @@ ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 plesk-20-04
 plesk-pleskcentos-7-9
-rocketchat-20-04
 discourse-20-04
 flexifyio-flexifyiomulticl-20-04
 linuxgsm
@@ -167,11 +165,13 @@ flowforge
 origintrail-origintraildkgma
 caprover-18-04
 ispmanager-ispmanager6
-supernetworks-spr
 ossrs-srs
 3cxcommunication-3cx
 doteamaccount-pocketbase
+supernetworks-spr
 lamp-20-04
+supabase
+rocketchat-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
