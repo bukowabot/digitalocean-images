@@ -130,8 +130,6 @@ edgedb
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 kandralabs-zulip-18-04
-antmedia-antmediaserverco-18-04
-antmedia-antmediaserveren-18-04
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 hollaex-hollaexkit
@@ -166,12 +164,14 @@ origintrail-origintraildkgma
 caprover-18-04
 ispmanager-ispmanager6
 ossrs-srs
-3cxcommunication-3cx
 doteamaccount-pocketbase
 supernetworks-spr
 lamp-20-04
 supabase
 rocketchat-20-04
+antmedia-antmediaserverco-18-04
+antmedia-antmediaserveren-18-04
+3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
 ````yaml
