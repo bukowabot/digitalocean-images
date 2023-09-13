@@ -1061,7 +1061,6 @@
         "c2-32vcpu-64gb",
         "m3-16vcpu-128gb",
         "c-32-intel",
-        "c2-32vcpu-64gb-intel",
         "c-48",
         "m-24vcpu-192gb",
         "g-32vcpu-128gb",
