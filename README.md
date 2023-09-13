@@ -162,7 +162,6 @@ origintrail-origintraildkgma
 caprover-18-04
 ispmanager-ispmanager6
 ossrs-srs
-doteamaccount-pocketbase
 bitwarden
 supernetworks-spr
 lamp-20-04
@@ -172,6 +171,8 @@ antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 edgedb
 3cxcommunication-3cx
+doteamaccount-pocketbase
+yeastar-ypsps1
 ````
 sizes.json.sizes[].slug
 ````yaml
