@@ -4961,37 +4961,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-09-12T17:46:20Z",
-      "description": "PocketBase 0.18.4 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 140309648,
-      "min_disk_size": 25,
-      "name": "PocketBase 0.18.4 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.18,
-      "slug": "doteamaccount-pocketbase",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-09-13T09:41:41Z",
       "description": "YPSPS-1 83.11.0.30 on Ubuntu 20.04 LTS",
       "distribution": "Ubuntu",
@@ -5021,12 +4990,74 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-09-15T19:50:21Z",
+      "description": "PocketBase 0.18.5 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140502196,
+      "min_disk_size": 25,
+      "name": "PocketBase 0.18.5 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.18,
+      "slug": "doteamaccount-pocketbase",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-09-15T20:14:35Z",
+      "description": "Ubuntu 18.04-eol x86 image",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140505039,
+      "min_disk_size": 7,
+      "name": "18.04-eol x64",
+      "public": true,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 0.44,
+      "slug": "ubuntu-18-04-x64-eol",
+      "status": "available",
+      "tags": [],
+      "type": "api_only"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 162
+    "total": 163
   }
 }
