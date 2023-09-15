@@ -798,7 +798,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -866,7 +865,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -1167,7 +1165,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -1189,7 +1186,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -1328,6 +1324,7 @@
         "ams3",
         "blr1",
         "fra1",
+        "nyc3",
         "sfo3",
         "syd1",
         "tor1"
@@ -1466,7 +1463,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -1488,7 +1484,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -1726,7 +1721,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -2003,6 +1997,7 @@
       "price_hourly": 1.9494,
       "price_monthly": 1310,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "nyc1",
@@ -2071,6 +2066,7 @@
       "price_hourly": 2.18155,
       "price_monthly": 1466,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "nyc1",

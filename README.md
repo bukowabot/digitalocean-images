@@ -171,8 +171,9 @@ antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 edgedb
 3cxcommunication-3cx
-doteamaccount-pocketbase
 yeastar-ypsps1
+doteamaccount-pocketbase
+ubuntu-18-04-x64-eol
 ````
 sizes.json.sizes[].slug
 ````yaml
