@@ -34,7 +34,6 @@ callabacloud-callabacloudlive
 litespeedtechnol-openlitespeedrai-20-04
 sharklabs-piholevpn
 logstore
-searchblox-searchbloxenterp-7-6
 almalinux-8-x64
 sharklabs-openmptcprouter
 shellhub
@@ -161,7 +160,6 @@ flowforge
 origintrail-origintraildkgma
 caprover-18-04
 ispmanager-ispmanager6
-ossrs-srs
 bitwarden
 supernetworks-spr
 lamp-20-04
@@ -172,8 +170,10 @@ antmedia-antmediaserveren-18-04
 edgedb
 3cxcommunication-3cx
 yeastar-ypsps1
-doteamaccount-pocketbase
+searchblox-searchbloxenterp-7-6
 ubuntu-18-04-x64-eol
+ossrs-srs
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -294,7 +294,8 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.27.4
-1.26.7
-1.25.12
+1.28.2
+1.27.6
+1.26.9
+1.25.14
 ````
