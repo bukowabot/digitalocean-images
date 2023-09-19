@@ -127,7 +127,6 @@ osmosislabs-osmosis
 litespeedtechnol-openlitespeedwor-20-04
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
-kandralabs-zulip-18-04
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 hollaex-hollaexkit
@@ -173,7 +172,9 @@ yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 ubuntu-18-04-x64-eol
 ossrs-srs
+elasticsearch
 doteamaccount-pocketbase
+kandralabs-zulip-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
