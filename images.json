@@ -3597,37 +3597,6 @@
       "type": "base"
     },
     {
-      "created_at": "2023-07-07T11:41:18Z",
-      "description": "Zulip 7.2 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 136062003,
-      "min_disk_size": 50,
-      "name": "Zulip 7.2 on Ubuntu 20.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 4.54,
-      "slug": "kandralabs-zulip-18-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-07-19T04:36:55Z",
       "description": "NirvaShare 4.0 on Ubuntu 20.04 (LTS)",
       "distribution": "Ubuntu",
@@ -5023,6 +4992,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-09-18T15:13:32Z",
+      "description": "ElasticSearch on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140687401,
+      "min_disk_size": 25,
+      "name": "ElasticSearch on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.7,
+      "slug": "elasticsearch",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-09-18T21:41:50Z",
       "description": "PocketBase 0.18.6 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -5052,12 +5052,43 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-09-19T13:33:53Z",
+      "description": "Zulip 7.4 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140748571,
+      "min_disk_size": 50,
+      "name": "Zulip 7.4 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.6,
+      "slug": "kandralabs-zulip-18-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 163
+    "total": 164
   }
 }
