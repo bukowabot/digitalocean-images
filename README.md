@@ -90,7 +90,6 @@ easypanel
 cpanel-cpanelwhmforalma
 azuracast-20-04
 ibsurgeon-hqbirdfirebirdv3
-appwrite-20-04
 jitsiserver-20-04
 origintrail-origintrailnode
 jelastic-jelasticpaas-7
@@ -157,7 +156,6 @@ mongodb-18-04
 passboltsa-passboltce-20-04
 flowforge
 origintrail-origintraildkgma
-caprover-18-04
 ispmanager-ispmanager6
 bitwarden
 supernetworks-spr
@@ -170,8 +168,10 @@ edgedb
 3cxcommunication-3cx
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
+appwrite-20-04
 ubuntu-18-04-x64-eol
 ossrs-srs
+caprover-18-04
 elasticsearch
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
