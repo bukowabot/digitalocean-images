@@ -172,9 +172,10 @@ appwrite-20-04
 ubuntu-18-04-x64-eol
 ossrs-srs
 caprover-18-04
-elasticsearch
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
+sharklabs-kibana
+elasticsearch
 ````
 sizes.json.sizes[].slug
 ````yaml
