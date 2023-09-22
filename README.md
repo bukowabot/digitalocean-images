@@ -169,7 +169,6 @@ edgedb
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
-ubuntu-18-04-x64-eol
 ossrs-srs
 caprover-18-04
 doteamaccount-pocketbase

@@ -4899,37 +4899,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-09-15T20:14:35Z",
-      "description": "Ubuntu 18.04-eol x86 image",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 140505039,
-      "min_disk_size": 7,
-      "name": "18.04-eol x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.44,
-      "slug": "ubuntu-18-04-x64-eol",
-      "status": "available",
-      "tags": [],
-      "type": "api_only"
-    },
-    {
       "created_at": "2023-09-16T13:46:08Z",
       "description": "SRS 5.9.27 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5120,6 +5089,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 165
+    "total": 164
   }
 }
