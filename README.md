@@ -100,7 +100,6 @@ ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv4
 mjmair-inventree
 gravitl-netmaker
-cloudron-20-04
 fedora-38-x64
 severalnines-clustercontrol-20-04
 docker-20-04
@@ -128,7 +127,6 @@ neuralmagic-deepsparseinfere
 centos-stream-8-x64
 nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
-hollaex-hollaexkit
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 saltcorn-20-04
@@ -157,7 +155,6 @@ passboltsa-passboltce-20-04
 flowforge
 origintrail-origintraildkgma
 ispmanager-ispmanager6
-bitwarden
 supernetworks-spr
 lamp-20-04
 supabase
@@ -169,12 +166,17 @@ edgedb
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
+hollaex-hollaexkit
 ossrs-srs
 caprover-18-04
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
 sharklabs-kibana
 elasticsearch
+ubuntu-23-04-x64
+bitwarden
+cloudron-20-04
+sharklabs-logstash
 ````
 sizes.json.sizes[].slug
 ````yaml
