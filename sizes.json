@@ -1,7 +1,7 @@
 {
   "links": {},
   "meta": {
-    "total": 97
+    "total": 95
   },
   "sizes": [
     {
@@ -1319,26 +1319,6 @@
     },
     {
       "available": true,
-      "description": "Basic AMD",
-      "disk": 800,
-      "memory": 65536,
-      "price_hourly": 0.5,
-      "price_monthly": 336,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "nyc3",
-        "sfo3",
-        "syd1",
-        "tor1"
-      ],
-      "slug": "s-16vcpu-64gb-amd",
-      "transfer": 10,
-      "vcpus": 16
-    },
-    {
-      "available": true,
       "description": "Memory-Optimized",
       "disk": 200,
       "memory": 65536,
@@ -1407,26 +1387,6 @@
       ],
       "slug": "c2-16vcpu-32gb",
       "transfer": 7,
-      "vcpus": 16
-    },
-    {
-      "available": true,
-      "description": "Basic Intel",
-      "disk": 1280,
-      "memory": 65536,
-      "price_hourly": 0.57143,
-      "price_monthly": 384,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "nyc3",
-        "sfo3",
-        "syd1",
-        "tor1"
-      ],
-      "slug": "s-16vcpu-64gb-intel",
-      "transfer": 10,
       "vcpus": 16
     },
     {

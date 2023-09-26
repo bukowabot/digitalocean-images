@@ -237,11 +237,9 @@ so-4vcpu-32gb
 m6-4vcpu-32gb
 gd-8vcpu-32gb
 so1_5-4vcpu-32gb
-s-16vcpu-64gb-amd
 m-8vcpu-64gb
 c-16
 c2-16vcpu-32gb
-s-16vcpu-64gb-intel
 m3-8vcpu-64gb
 c-16-intel
 c2-16vcpu-32gb-intel
