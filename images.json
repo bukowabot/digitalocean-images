@@ -3101,37 +3101,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-06-15T03:20:26Z",
-      "description": "Keitaro 10.0.9.1 on CentOS 9 Stream",
-      "distribution": "CentOS",
-      "error_message": "",
-      "id": 134659075,
-      "min_disk_size": 50,
-      "name": "Keitaro 10.0.9.1 on CentOS 9 Stream",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 9.25,
-      "slug": "apliteni-keitaro",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-06-15T17:11:34Z",
       "description": "QuestDB 7.2 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4403,37 +4372,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-08-31T15:34:19Z",
-      "description": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 139549252,
-      "min_disk_size": 25,
-      "name": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.9,
-      "slug": "origintrail-origintraildkgma",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-09-01T05:11:10Z",
       "description": "Ispmanager 6 6.80.0 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4806,6 +4744,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-09-15T08:46:17Z",
+      "description": "OriginTrail DKG testnet node 6 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140492804,
+      "min_disk_size": 25,
+      "name": "OriginTrail DKG testnet node 6 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.88,
+      "slug": "origintrail-origintraildkgte",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2023-09-15T12:53:21Z",
       "description": "HollaEx Kit 2.8.0 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -4832,6 +4801,37 @@
       ],
       "size_gigabytes": 3.11,
       "slug": "hollaex-hollaexkit",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-09-15T15:47:35Z",
+      "description": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 140498883,
+      "min_disk_size": 25,
+      "name": "OriginTrail DKG mainnet node 6 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.88,
+      "slug": "origintrail-origintraildkgma",
       "status": "available",
       "tags": [],
       "type": "application"
@@ -5145,12 +5145,43 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-09-26T00:19:15Z",
+      "description": "Keitaro 10.1.2 on CentOS 9 Stream",
+      "distribution": "CentOS",
+      "error_message": "",
+      "id": 141163103,
+      "min_disk_size": 50,
+      "name": "Keitaro 10.1.2 on CentOS 9 Stream",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 8.9,
+      "slug": "apliteni-keitaro",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 166
+    "total": 167
   }
 }
