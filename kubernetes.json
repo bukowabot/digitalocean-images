@@ -132,6 +132,14 @@
         "slug": "gd-2vcpu-8gb"
       },
       {
+        "name": "g-2vcpu-8gb-intel",
+        "slug": "g-2vcpu-8gb-intel"
+      },
+      {
+        "name": "gd-2vcpu-8gb-intel",
+        "slug": "gd-2vcpu-8gb-intel"
+      },
+      {
         "name": "s-4vcpu-16gb-amd",
         "slug": "s-4vcpu-16gb-amd"
       },
@@ -188,6 +196,14 @@
         "slug": "gd-4vcpu-16gb"
       },
       {
+        "name": "g-4vcpu-16gb-intel",
+        "slug": "g-4vcpu-16gb-intel"
+      },
+      {
+        "name": "gd-4vcpu-16gb-intel",
+        "slug": "gd-4vcpu-16gb-intel"
+      },
+      {
         "name": "so1_5-2vcpu-16gb",
         "slug": "so1_5-2vcpu-16gb"
       },
@@ -232,6 +248,14 @@
         "slug": "gd-8vcpu-32gb"
       },
       {
+        "name": "g-8vcpu-32gb-intel",
+        "slug": "g-8vcpu-32gb-intel"
+      },
+      {
+        "name": "gd-8vcpu-32gb-intel",
+        "slug": "gd-8vcpu-32gb-intel"
+      },
+      {
         "name": "so1_5-4vcpu-32gb",
         "slug": "so1_5-4vcpu-32gb"
       },
@@ -266,6 +290,14 @@
       {
         "name": "gd-16vcpu-64gb",
         "slug": "gd-16vcpu-64gb"
+      },
+      {
+        "name": "g-16vcpu-64gb-intel",
+        "slug": "g-16vcpu-64gb-intel"
+      },
+      {
+        "name": "gd-16vcpu-64gb-intel",
+        "slug": "gd-16vcpu-64gb-intel"
       },
       {
         "name": "so1_5-8vcpu-64gb",
@@ -312,12 +344,20 @@
         "slug": "gd-32vcpu-128gb"
       },
       {
+        "name": "g-32vcpu-128gb-intel",
+        "slug": "g-32vcpu-128gb-intel"
+      },
+      {
         "name": "m3-24vcpu-192gb",
         "slug": "m3-24vcpu-192gb"
       },
       {
         "name": "g-40vcpu-160gb",
         "slug": "g-40vcpu-160gb"
+      },
+      {
+        "name": "gd-32vcpu-128gb-intel",
+        "slug": "gd-32vcpu-128gb-intel"
       },
       {
         "name": "so1_5-16vcpu-128gb",
@@ -346,6 +386,14 @@
       {
         "name": "m3-32vcpu-256gb",
         "slug": "m3-32vcpu-256gb"
+      },
+      {
+        "name": "g-48vcpu-192gb-intel",
+        "slug": "g-48vcpu-192gb-intel"
+      },
+      {
+        "name": "gd-48vcpu-192gb-intel",
+        "slug": "gd-48vcpu-192gb-intel"
       },
       {
         "name": "so1_5-24vcpu-192gb",

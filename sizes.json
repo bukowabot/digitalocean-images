@@ -1,7 +1,7 @@
 {
   "links": {},
   "meta": {
-    "total": 95
+    "total": 107
   },
   "sizes": [
     {
@@ -626,6 +626,46 @@
     },
     {
       "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 30,
+      "memory": 8192,
+      "price_hourly": 0.1131,
+      "price_monthly": 76,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-2vcpu-8gb-intel",
+      "transfer": 4,
+      "vcpus": 2
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 60,
+      "memory": 8192,
+      "price_hourly": 0.11756,
+      "price_monthly": 79,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-2vcpu-8gb-intel",
+      "transfer": 4,
+      "vcpus": 2
+    },
+    {
+      "available": true,
       "description": "Basic AMD",
       "disk": 200,
       "memory": 16384,
@@ -995,6 +1035,46 @@
     },
     {
       "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 60,
+      "memory": 16384,
+      "price_hourly": 0.2247,
+      "price_monthly": 151,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-4vcpu-16gb-intel",
+      "transfer": 5,
+      "vcpus": 4
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 120,
+      "memory": 16384,
+      "price_hourly": 0.23512,
+      "price_monthly": 158,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-4vcpu-16gb-intel",
+      "transfer": 5,
+      "vcpus": 4
+    },
+    {
+      "available": true,
       "description": "Storage-Optimized 1.5x SSD",
       "disk": 450,
       "memory": 16384,
@@ -1295,6 +1375,46 @@
     },
     {
       "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 120,
+      "memory": 32768,
+      "price_hourly": 0.4494,
+      "price_monthly": 302,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-8vcpu-32gb-intel",
+      "transfer": 6,
+      "vcpus": 8
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 240,
+      "memory": 32768,
+      "price_hourly": 0.47173,
+      "price_monthly": 317,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-8vcpu-32gb-intel",
+      "transfer": 6,
+      "vcpus": 8
+    },
+    {
+      "available": true,
       "description": "Storage-Optimized 1.5x SSD",
       "disk": 900,
       "memory": 32768,
@@ -1550,6 +1670,46 @@
         "tor1"
       ],
       "slug": "gd-16vcpu-64gb",
+      "transfer": 7,
+      "vcpus": 16
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 240,
+      "memory": 65536,
+      "price_hourly": 0.9003,
+      "price_monthly": 605,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-16vcpu-64gb-intel",
+      "transfer": 7,
+      "vcpus": 16
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 480,
+      "memory": 65536,
+      "price_hourly": 0.94345,
+      "price_monthly": 634,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-16vcpu-64gb-intel",
       "transfer": 7,
       "vcpus": 16
     },
@@ -1887,6 +2047,26 @@
     },
     {
       "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 480,
+      "memory": 131072,
+      "price_hourly": 1.8006,
+      "price_monthly": 1210,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-32vcpu-128gb-intel",
+      "transfer": 8,
+      "vcpus": 32
+    },
+    {
+      "available": true,
       "description": "Memory-Optimized 3x SSD",
       "disk": 1800,
       "memory": 196608,
@@ -1932,6 +2112,26 @@
       "slug": "g-40vcpu-160gb",
       "transfer": 9,
       "vcpus": 40
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 960,
+      "memory": 131072,
+      "price_hourly": 1.8869,
+      "price_monthly": 1268,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-32vcpu-128gb-intel",
+      "transfer": 8,
+      "vcpus": 32
     },
     {
       "available": true,
@@ -2120,6 +2320,46 @@
       "slug": "m3-32vcpu-256gb",
       "transfer": 10,
       "vcpus": 32
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel",
+      "disk": 720,
+      "memory": 196608,
+      "price_hourly": 2.6994,
+      "price_monthly": 1814,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "g-48vcpu-192gb-intel",
+      "transfer": 9,
+      "vcpus": 48
+    },
+    {
+      "available": true,
+      "description": "General Purpose — Premium Intel 2x SSD",
+      "disk": 1440,
+      "memory": 196608,
+      "price_hourly": 2.82887,
+      "price_monthly": 1901,
+      "regions": [
+        "blr1",
+        "fra1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "syd1",
+        "tor1"
+      ],
+      "slug": "gd-48vcpu-192gb-intel",
+      "transfer": 11,
+      "vcpus": 48
     },
     {
       "available": true,
