@@ -111,7 +111,6 @@ sharklabs-jupyternotebook
 victoriametrics-victoriametricss
 dreamfactory
 dokku-20-04
-apliteni-keitaro
 questdb-20-04
 sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
@@ -153,7 +152,6 @@ mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
 passboltsa-passboltce-20-04
 flowforge
-origintrail-origintraildkgma
 ispmanager-ispmanager6
 supernetworks-spr
 lamp-20-04
@@ -166,7 +164,9 @@ edgedb
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
+origintrail-origintraildkgte
 hollaex-hollaexkit
+origintrail-origintraildkgma
 ossrs-srs
 caprover-18-04
 doteamaccount-pocketbase
@@ -177,6 +177,7 @@ ubuntu-23-04-x64
 bitwarden
 cloudron-20-04
 sharklabs-logstash
+apliteni-keitaro
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -207,6 +208,8 @@ s-4vcpu-8gb-intel
 g-2vcpu-8gb
 s-4vcpu-8gb-240gb-intel
 gd-2vcpu-8gb
+g-2vcpu-8gb-intel
+gd-2vcpu-8gb-intel
 s-4vcpu-16gb-amd
 m-2vcpu-16gb
 c-4
@@ -223,6 +226,8 @@ s-8vcpu-16gb-480gb-intel
 so-2vcpu-16gb
 m6-2vcpu-16gb
 gd-4vcpu-16gb
+g-4vcpu-16gb-intel
+gd-4vcpu-16gb-intel
 so1_5-2vcpu-16gb
 s-8vcpu-32gb-amd
 m-4vcpu-32gb
@@ -236,6 +241,8 @@ g-8vcpu-32gb
 so-4vcpu-32gb
 m6-4vcpu-32gb
 gd-8vcpu-32gb
+g-8vcpu-32gb-intel
+gd-8vcpu-32gb-intel
 so1_5-4vcpu-32gb
 m-8vcpu-64gb
 c-16
@@ -247,6 +254,8 @@ g-16vcpu-64gb
 so-8vcpu-64gb
 m6-8vcpu-64gb
 gd-16vcpu-64gb
+g-16vcpu-64gb-intel
+gd-16vcpu-64gb-intel
 so1_5-8vcpu-64gb
 m-16vcpu-128gb
 c-32
@@ -261,8 +270,10 @@ so-16vcpu-128gb
 m6-16vcpu-128gb
 gd-32vcpu-128gb
 c2-48vcpu-96gb
+g-32vcpu-128gb-intel
 m3-24vcpu-192gb
 g-40vcpu-160gb
+gd-32vcpu-128gb-intel
 so1_5-16vcpu-128gb
 c-48-intel
 m-32vcpu-256gb
@@ -271,6 +282,8 @@ c2-48vcpu-96gb-intel
 so-24vcpu-192gb
 m6-24vcpu-192gb
 m3-32vcpu-256gb
+g-48vcpu-192gb-intel
+gd-48vcpu-192gb-intel
 so1_5-24vcpu-192gb
 so-32vcpu-256gb
 m6-32vcpu-256gb
