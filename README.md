@@ -169,7 +169,6 @@ hollaex-hollaexkit
 origintrail-origintraildkgma
 ossrs-srs
 caprover-18-04
-doteamaccount-pocketbase
 kandralabs-zulip-18-04
 sharklabs-kibana
 elasticsearch
@@ -178,6 +177,7 @@ bitwarden
 cloudron-20-04
 sharklabs-logstash
 apliteni-keitaro
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
