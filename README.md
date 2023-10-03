@@ -101,7 +101,6 @@ ibsurgeon-hqbirdfirebirdv4
 mjmair-inventree
 gravitl-netmaker
 fedora-38-x64
-severalnines-clustercontrol-20-04
 docker-20-04
 activepieces
 wpclouddeploy
@@ -120,7 +119,6 @@ rockylinux-8-x64
 rockylinux-9-x64
 debian-11-x64
 litespeedtechnol-openlitespeeddru
-osmosislabs-osmosis
 litespeedtechnol-openlitespeedwor-20-04
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
@@ -132,7 +130,6 @@ saltcorn-20-04
 eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
 botguardo-botguardgatekeep
-meilisas-meilisearch-10
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
@@ -150,8 +147,6 @@ postalsystemso-emailengine
 haltdos-haltdoswafpro
 mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
-passboltsa-passboltce-20-04
-flowforge
 ispmanager-ispmanager6
 supernetworks-spr
 lamp-20-04
@@ -159,7 +154,6 @@ supabase
 rocketchat-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
-edgedb
 3cxcommunication-3cx
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
@@ -177,6 +171,12 @@ bitwarden
 cloudron-20-04
 sharklabs-logstash
 apliteni-keitaro
+meilisas-meilisearch-10
+passboltsa-passboltce-20-04
+flowforge
+osmosislabs-osmosis
+edgedb
+severalnines-clustercontrol-20-04
 doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
