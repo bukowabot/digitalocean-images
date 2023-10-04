@@ -5147,13 +5147,13 @@
       "type": "application"
     },
     {
-      "created_at": "2023-09-29T15:35:04Z",
-      "description": "PocketBase 0.18.8 on Ubuntu 22.04",
+      "created_at": "2023-10-01T01:06:30Z",
+      "description": "PocketBase 0.18.9 on Ubuntu 22.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 141385012,
+      "id": 141487399,
       "min_disk_size": 25,
-      "name": "PocketBase 0.18.8 on Ubuntu 22.04",
+      "name": "PocketBase 0.18.9 on Ubuntu 22.04",
       "public": false,
       "regions": [
         "tor1",
