@@ -159,7 +159,6 @@ yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
 origintrail-origintraildkgte
-hollaex-hollaexkit
 origintrail-origintraildkgma
 ossrs-srs
 caprover-18-04
@@ -178,6 +177,7 @@ osmosislabs-osmosis
 edgedb
 severalnines-clustercontrol-20-04
 doteamaccount-pocketbase
+hollaex-hollaexkit
 ````
 sizes.json.sizes[].slug
 ````yaml
