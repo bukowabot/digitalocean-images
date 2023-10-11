@@ -21,7 +21,6 @@ rstudio-20-04
 invoiceninja-20-0-4
 microwebercms-microweber-20-04
 wordsmythcreatio-aresmush
-ghost-20-04
 appsmith-18-04
 npool
 perforce-perforcehelixcor
@@ -148,7 +147,6 @@ haltdos-haltdoswafpro
 mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
 ispmanager-ispmanager6
-supernetworks-spr
 lamp-20-04
 supabase
 rocketchat-20-04
@@ -176,8 +174,10 @@ flowforge
 osmosislabs-osmosis
 edgedb
 severalnines-clustercontrol-20-04
-doteamaccount-pocketbase
 hollaex-hollaexkit
+supernetworks-spr
+doteamaccount-pocketbase
+ghost-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
