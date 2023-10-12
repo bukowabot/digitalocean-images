@@ -128,7 +128,6 @@ litespeedtechnol-cyberpanel-20-04
 saltcorn-20-04
 eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
-botguardo-botguardgatekeep
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
@@ -178,6 +177,7 @@ hollaex-hollaexkit
 supernetworks-spr
 doteamaccount-pocketbase
 ghost-20-04
+botguardo-botguardgatekeep
 ````
 sizes.json.sizes[].slug
 ````yaml
