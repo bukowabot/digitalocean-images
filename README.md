@@ -175,9 +175,9 @@ edgedb
 severalnines-clustercontrol-20-04
 hollaex-hollaexkit
 supernetworks-spr
-doteamaccount-pocketbase
 ghost-20-04
 botguardo-botguardgatekeep
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
