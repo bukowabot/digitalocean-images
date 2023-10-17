@@ -163,7 +163,6 @@ kandralabs-zulip-18-04
 sharklabs-kibana
 elasticsearch
 ubuntu-23-04-x64
-bitwarden
 cloudron-20-04
 sharklabs-logstash
 apliteni-keitaro
@@ -176,8 +175,9 @@ severalnines-clustercontrol-20-04
 hollaex-hollaexkit
 supernetworks-spr
 ghost-20-04
-botguardo-botguardgatekeep
+bitwarden
 doteamaccount-pocketbase
+botguardo-botguardgatekeep
 ````
 sizes.json.sizes[].slug
 ````yaml
