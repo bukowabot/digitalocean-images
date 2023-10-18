@@ -176,8 +176,8 @@ hollaex-hollaexkit
 supernetworks-spr
 ghost-20-04
 bitwarden
-doteamaccount-pocketbase
 botguardo-botguardgatekeep
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
