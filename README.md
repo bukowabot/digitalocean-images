@@ -177,6 +177,7 @@ supernetworks-spr
 ghost-20-04
 bitwarden
 botguardo-botguardgatekeep
+sharklabs-erpodoo
 doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
