@@ -5147,37 +5147,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-10-18T23:47:31Z",
-      "description": "ERP Odoo 16 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 142622461,
-      "min_disk_size": 25,
-      "name": "ERP Odoo 16 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 4.4,
-      "slug": "sharklabs-erpodoo",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-10-19T01:06:13Z",
       "description": "PocketBase 0.19.0 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -5204,6 +5173,24 @@
       ],
       "size_gigabytes": 2.19,
       "slug": "doteamaccount-pocketbase",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2023-10-20T18:02:24Z",
+      "description": "Odoo ERP 16 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 142737922,
+      "min_disk_size": 25,
+      "name": "Odoo ERP 16 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "nyc3"
+      ],
+      "size_gigabytes": 4.4,
+      "slug": "sharklabs-erpodoo",
       "status": "available",
       "tags": [],
       "type": "application"
