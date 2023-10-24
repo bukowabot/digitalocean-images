@@ -118,7 +118,6 @@ rockylinux-8-x64
 rockylinux-9-x64
 debian-11-x64
 litespeedtechnol-openlitespeeddru
-litespeedtechnol-openlitespeedwor-20-04
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 nirvatosoftware-nirvashare-20-04
@@ -138,7 +137,6 @@ flexifyio-flexifyiomulticl-20-04
 linuxgsm
 codelathe-filecloud-20-04
 harperdb-18-04
-aqtraplatform
 haltdos-haltdosprowaf
 sandflysecurity-20-04
 postalsystemso-emailengine
@@ -176,9 +174,11 @@ hollaex-hollaexkit
 supernetworks-spr
 ghost-20-04
 bitwarden
+aqtraplatform
 botguardo-botguardgatekeep
 doteamaccount-pocketbase
 sharklabs-erpodoo
+litespeedtechnol-openlitespeedwor-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
