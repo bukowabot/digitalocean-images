@@ -103,7 +103,6 @@ fedora-38-x64
 docker-20-04
 activepieces
 wpclouddeploy
-almalinux-9-x64
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
 victoriametrics-victoriametricss
@@ -114,7 +113,6 @@ sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
 debian-12-x64
-rockylinux-8-x64
 rockylinux-9-x64
 debian-11-x64
 litespeedtechnol-openlitespeeddru
@@ -179,6 +177,8 @@ botguardo-botguardgatekeep
 doteamaccount-pocketbase
 sharklabs-erpodoo
 litespeedtechnol-openlitespeedwor-20-04
+almalinux-9-x64
+rockylinux-8-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
