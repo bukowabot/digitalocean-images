@@ -4992,6 +4992,37 @@
       "type": "application"
     },
     {
+      "created_at": "2023-10-16T14:54:36Z",
+      "description": "Ubuntu 23.10 x64",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 142476112,
+      "min_disk_size": 7,
+      "name": "23.10 x64",
+      "public": true,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 0.82,
+      "slug": "ubuntu-23-10-x64",
+      "status": "available",
+      "tags": [],
+      "type": "base"
+    },
+    {
       "created_at": "2023-10-17T09:40:29Z",
       "description": "Aqtra Platform 0.8.20 on Ubuntu 18.04+",
       "distribution": "Ubuntu",
@@ -5213,6 +5244,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 168
+    "total": 169
   }
 }
