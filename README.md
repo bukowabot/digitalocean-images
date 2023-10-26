@@ -172,6 +172,7 @@ hollaex-hollaexkit
 supernetworks-spr
 ghost-20-04
 bitwarden
+ubuntu-23-10-x64
 aqtraplatform
 botguardo-botguardgatekeep
 doteamaccount-pocketbase
