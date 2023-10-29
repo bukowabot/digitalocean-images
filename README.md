@@ -153,7 +153,6 @@ searchblox-searchbloxenterp-7-6
 appwrite-20-04
 origintrail-origintraildkgte
 origintrail-origintraildkgma
-ossrs-srs
 caprover-18-04
 kandralabs-zulip-18-04
 sharklabs-kibana
@@ -164,7 +163,6 @@ sharklabs-logstash
 apliteni-keitaro
 meilisas-meilisearch-10
 passboltsa-passboltce-20-04
-flowforge
 osmosislabs-osmosis
 edgedb
 severalnines-clustercontrol-20-04
@@ -180,6 +178,8 @@ sharklabs-erpodoo
 litespeedtechnol-openlitespeedwor-20-04
 almalinux-9-x64
 rockylinux-8-x64
+flowforge
+ossrs-srs
 ````
 sizes.json.sizes[].slug
 ````yaml
