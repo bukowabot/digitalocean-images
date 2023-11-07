@@ -180,6 +180,7 @@ doteamaccount-pocketbase
 ossrs-srs
 harperdb-18-04
 flexifyio-flexifyiomulticl-20-04
+mariadb
 ````
 sizes.json.sizes[].slug
 ````yaml
