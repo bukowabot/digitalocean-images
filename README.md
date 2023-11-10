@@ -101,7 +101,6 @@ gravitl-netmaker
 fedora-38-x64
 docker-20-04
 activepieces
-wpclouddeploy
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
 victoriametrics-victoriametricss
@@ -176,7 +175,9 @@ flowforge
 ossrs-srs
 harperdb-18-04
 flexifyio-flexifyiomulticl-20-04
+spinupwp
 kuyio-konnectvpna
+wpclouddeploy
 doteamaccount-pocketbase
 mariadb
 bitwarden
