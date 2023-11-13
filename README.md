@@ -70,7 +70,6 @@ fastpanel-deb-9
 haltdos-haltdoscommunity
 phpmyadmin-20-04
 optimajet-workflowserver-18-04
-devrel-teleport-20-04
 analythium-shinyproxy-20-04
 nextcloudgmbh-nextcloud
 mern
@@ -182,6 +181,7 @@ doteamaccount-pocketbase
 mariadb
 bitwarden
 passboltsa-passboltce-20-04
+devrel-teleport-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
