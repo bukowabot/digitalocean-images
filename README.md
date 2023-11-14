@@ -67,7 +67,6 @@ runcloud-runcloud2004-20-04
 optimajet-workflowserver3
 rubyonrails-20-04
 fastpanel-deb-9
-haltdos-haltdoscommunity
 phpmyadmin-20-04
 optimajet-workflowserver-18-04
 analythium-shinyproxy-20-04
@@ -177,11 +176,12 @@ flexifyio-flexifyiomulticl-20-04
 spinupwp
 kuyio-konnectvpna
 wpclouddeploy
-doteamaccount-pocketbase
 mariadb
 bitwarden
 passboltsa-passboltce-20-04
+doteamaccount-pocketbase
 devrel-teleport-20-04
+haltdos-haltdoscommunity
 ````
 sizes.json.sizes[].slug
 ````yaml
