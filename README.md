@@ -179,9 +179,10 @@ wpclouddeploy
 mariadb
 bitwarden
 passboltsa-passboltce-20-04
-doteamaccount-pocketbase
 devrel-teleport-20-04
 haltdos-haltdoscommunity
+doteamaccount-pocketbase
+yeastar-yeastarpseriesph
 ````
 sizes.json.sizes[].slug
 ````yaml
