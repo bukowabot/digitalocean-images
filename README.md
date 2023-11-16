@@ -139,8 +139,6 @@ ispmanager-ispmanager6
 lamp-20-04
 supabase
 rocketchat-20-04
-antmedia-antmediaserverco-18-04
-antmedia-antmediaserveren-18-04
 3cxcommunication-3cx
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
@@ -183,6 +181,8 @@ devrel-teleport-20-04
 haltdos-haltdoscommunity
 doteamaccount-pocketbase
 yeastar-yeastarpseriesph
+antmedia-antmediaserverco-18-04
+antmedia-antmediaserveren-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
