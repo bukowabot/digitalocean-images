@@ -146,7 +146,6 @@ appwrite-20-04
 origintrail-origintraildkgte
 origintrail-origintraildkgma
 caprover-18-04
-kandralabs-zulip-18-04
 sharklabs-kibana
 elasticsearch
 ubuntu-23-04-x64
@@ -183,6 +182,7 @@ doteamaccount-pocketbase
 yeastar-yeastarpseriesph
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
+kandralabs-zulip-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
