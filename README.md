@@ -119,7 +119,6 @@ caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
 saltcorn-20-04
-eltrino-magento2opensour-20-04
 devdojo-laravel-20-04
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
@@ -169,7 +168,6 @@ rockylinux-8-x64
 flowforge
 ossrs-srs
 harperdb-18-04
-flexifyio-flexifyiomulticl-20-04
 spinupwp
 kuyio-konnectvpna
 wpclouddeploy
@@ -182,6 +180,8 @@ doteamaccount-pocketbase
 yeastar-yeastarpseriesph
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
+flexifyio-flexifyiomulticl-20-04
+eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
 ````
 sizes.json.sizes[].slug
