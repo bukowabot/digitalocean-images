@@ -177,10 +177,11 @@ passboltsa-passboltce-20-04
 devrel-teleport-20-04
 haltdos-haltdoscommunity
 doteamaccount-pocketbase
-yeastar-yeastarpseriesph
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 flexifyio-flexifyiomulticl-20-04
+yeastar-yeastarpseriesph
+csmm-20-04
 eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
 ````
