@@ -72,7 +72,6 @@ optimajet-workflowserver-18-04
 analythium-shinyproxy-20-04
 nextcloudgmbh-nextcloud
 mern
-wordpress-20-04
 kromit-titra-20-04
 mean
 flask
@@ -165,7 +164,6 @@ sharklabs-erpodoo
 litespeedtechnol-openlitespeedwor-20-04
 almalinux-9-x64
 rockylinux-8-x64
-flowforge
 ossrs-srs
 harperdb-18-04
 spinupwp
@@ -173,7 +171,6 @@ kuyio-konnectvpna
 wpclouddeploy
 mariadb
 bitwarden
-passboltsa-passboltce-20-04
 devrel-teleport-20-04
 haltdos-haltdoscommunity
 doteamaccount-pocketbase
@@ -184,6 +181,10 @@ yeastar-yeastarpseriesph
 csmm-20-04
 eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
+passboltsa-passboltce-20-04
+flowforge
+clickhouse
+wordpress-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
