@@ -185,6 +185,7 @@ passboltsa-passboltce-20-04
 flowforge
 clickhouse
 wordpress-20-04
+fedora-39-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
