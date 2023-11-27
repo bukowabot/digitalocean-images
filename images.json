@@ -5393,12 +5393,43 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2023-11-26T21:05:46Z",
+      "description": "Fedora 39 x64",
+      "distribution": "Fedora",
+      "error_message": "",
+      "id": 145090142,
+      "min_disk_size": 15,
+      "name": "39 x64",
+      "public": true,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 0.61,
+      "slug": "fedora-39-x64",
+      "status": "available",
+      "tags": [],
+      "type": "base"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 174
+    "total": 175
   }
 }
