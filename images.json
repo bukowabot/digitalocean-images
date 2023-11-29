@@ -5424,12 +5424,43 @@
       "status": "available",
       "tags": [],
       "type": "base"
+    },
+    {
+      "created_at": "2023-11-29T09:43:26Z",
+      "description": "Anaconda 2023.09-0 on Ubuntu 22.04 (LTS)",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 145252637,
+      "min_disk_size": 25,
+      "name": "Anaconda 2023.09-0 on Ubuntu 22.04 (LTS)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 11.53,
+      "slug": "sharklabs-anaconda",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 175
+    "total": 176
   }
 }
