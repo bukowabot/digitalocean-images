@@ -186,6 +186,7 @@ flowforge
 clickhouse
 wordpress-20-04
 fedora-39-x64
+sharklabs-anaconda
 ````
 sizes.json.sizes[].slug
 ````yaml
