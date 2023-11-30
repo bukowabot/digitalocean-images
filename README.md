@@ -131,7 +131,6 @@ haltdos-haltdosprowaf
 sandflysecurity-20-04
 postalsystemso-emailengine
 haltdos-haltdoswafpro
-mgtcommercegmbh-cloudpanel2ubunt
 mongodb-18-04
 ispmanager-ispmanager6
 lamp-20-04
@@ -155,7 +154,6 @@ osmosislabs-osmosis
 edgedb
 severalnines-clustercontrol-20-04
 hollaex-hollaexkit
-supernetworks-spr
 ghost-20-04
 ubuntu-23-10-x64
 aqtraplatform
@@ -186,7 +184,9 @@ flowforge
 clickhouse
 wordpress-20-04
 fedora-39-x64
+supernetworks-spr
 sharklabs-anaconda
+mgtcommercegmbh-cloudpanel2ubunt
 ````
 sizes.json.sizes[].slug
 ````yaml
