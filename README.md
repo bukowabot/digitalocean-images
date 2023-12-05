@@ -49,7 +49,6 @@ m3o-micro
 stretchshop
 softlab24-opensourcesocial-18-04
 test433
-mastodon-18-04
 akaunting-20-04
 znuny-znunylts-10
 znuny
@@ -156,7 +155,6 @@ severalnines-clustercontrol-20-04
 hollaex-hollaexkit
 ghost-20-04
 ubuntu-23-10-x64
-aqtraplatform
 botguardo-botguardgatekeep
 sharklabs-erpodoo
 litespeedtechnol-openlitespeedwor-20-04
@@ -185,8 +183,10 @@ clickhouse
 wordpress-20-04
 fedora-39-x64
 supernetworks-spr
+aqtraplatform
 sharklabs-anaconda
 mgtcommercegmbh-cloudpanel2ubunt
+mastodon-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
