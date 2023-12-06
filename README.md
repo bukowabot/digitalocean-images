@@ -37,7 +37,6 @@ almalinux-8-x64
 sharklabs-openmptcprouter
 shellhub
 soos-soosdastdroplet
-fedora-37-x64
 flashphoner-7-6
 varnishsoftware-varnishcache-18-04
 nodejs-20-04
@@ -135,7 +134,6 @@ ispmanager-ispmanager6
 lamp-20-04
 supabase
 rocketchat-20-04
-3cxcommunication-3cx
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
@@ -160,7 +158,6 @@ sharklabs-erpodoo
 litespeedtechnol-openlitespeedwor-20-04
 almalinux-9-x64
 rockylinux-8-x64
-ossrs-srs
 harperdb-18-04
 spinupwp
 kuyio-konnectvpna
@@ -187,6 +184,8 @@ aqtraplatform
 sharklabs-anaconda
 mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
+ossrs-srs
+3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
 ````yaml
