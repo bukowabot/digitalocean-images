@@ -163,7 +163,6 @@ spinupwp
 kuyio-konnectvpna
 wpclouddeploy
 mariadb
-bitwarden
 devrel-teleport-20-04
 haltdos-haltdoscommunity
 doteamaccount-pocketbase
@@ -186,6 +185,7 @@ mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
 ossrs-srs
 3cxcommunication-3cx
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
