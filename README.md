@@ -60,7 +60,6 @@ ibsurgeon-hqbirdfirebird
 lemp-20-04
 openvpn-18-04
 kasmtechnologies-kasmworkspaces-18-04
-django-20-04
 runcloud-runcloud2004-20-04
 optimajet-workflowserver3
 rubyonrails-20-04
@@ -72,7 +71,6 @@ nextcloudgmbh-nextcloud
 mern
 kromit-titra-20-04
 mean
-flask
 photoprism-20-04
 ubuntu-22-04-x64
 sharklabs-testproject
@@ -143,7 +141,6 @@ caprover-18-04
 sharklabs-kibana
 elasticsearch
 ubuntu-23-04-x64
-cloudron-20-04
 sharklabs-logstash
 apliteni-keitaro
 meilisas-meilisearch-10
@@ -186,6 +183,10 @@ mastodon-18-04
 ossrs-srs
 3cxcommunication-3cx
 bitwarden
+cloudron-20-04
+ubuntudesktopgno
+flask
+django-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
