@@ -130,7 +130,6 @@ haltdos-haltdoswafpro
 mongodb-18-04
 ispmanager-ispmanager6
 lamp-20-04
-supabase
 rocketchat-20-04
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
@@ -162,7 +161,6 @@ wpclouddeploy
 mariadb
 devrel-teleport-20-04
 haltdos-haltdoscommunity
-doteamaccount-pocketbase
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 flexifyio-flexifyiomulticl-20-04
@@ -187,6 +185,8 @@ cloudron-20-04
 ubuntudesktopgno
 flask
 django-20-04
+doteamaccount-pocketbase
+supabase
 ````
 sizes.json.sizes[].slug
 ````yaml
