@@ -146,7 +146,6 @@ meilisas-meilisearch-10
 osmosislabs-osmosis
 edgedb
 severalnines-clustercontrol-20-04
-hollaex-hollaexkit
 ghost-20-04
 ubuntu-23-10-x64
 botguardo-botguardgatekeep
@@ -175,6 +174,7 @@ wordpress-20-04
 fedora-39-x64
 supernetworks-spr
 aqtraplatform
+deskpro
 sharklabs-anaconda
 mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
@@ -187,6 +187,7 @@ flask
 django-20-04
 doteamaccount-pocketbase
 supabase
+hollaex-hollaexkit
 ````
 sizes.json.sizes[].slug
 ````yaml
