@@ -188,6 +188,8 @@ django-20-04
 doteamaccount-pocketbase
 supabase
 hollaex-hollaexkit
+axlabs-1clicknodeforneo
+sharklabs-codeserver1
 ````
 sizes.json.sizes[].slug
 ````yaml
