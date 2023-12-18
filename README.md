@@ -166,7 +166,6 @@ flexifyio-flexifyiomulticl-20-04
 yeastar-yeastarpseriesph
 csmm-20-04
 eltrino-magento2opensour-20-04
-kandralabs-zulip-18-04
 passboltsa-passboltce-20-04
 flowforge
 clickhouse
@@ -189,6 +188,8 @@ doteamaccount-pocketbase
 supabase
 hollaex-hollaexkit
 axlabs-1clicknodeforneo
+codertechnologie-vscodeserver
+kandralabs-zulip-18-04
 sharklabs-codeserver1
 ````
 sizes.json.sizes[].slug
