@@ -38,7 +38,6 @@ sharklabs-openmptcprouter
 shellhub
 soos-soosdastdroplet
 flashphoner-7-6
-varnishsoftware-varnishcache-18-04
 nodejs-20-04
 smartarget-wordpresswoocomm
 wikijs-18-04
@@ -191,6 +190,7 @@ axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
 kandralabs-zulip-18-04
 sharklabs-codeserver1
+varnishsoftware-varnishcache-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
