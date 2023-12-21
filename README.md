@@ -117,7 +117,6 @@ devdojo-laravel-20-04
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
-plesk-20-04
 plesk-pleskcentos-7-9
 discourse-20-04
 linuxgsm
@@ -186,10 +185,12 @@ django-20-04
 doteamaccount-pocketbase
 supabase
 hollaex-hollaexkit
+plesk-20-04
 axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
 kandralabs-zulip-18-04
 sharklabs-codeserver1
+quantrocket
 varnishsoftware-varnishcache-18-04
 ````
 sizes.json.sizes[].slug
