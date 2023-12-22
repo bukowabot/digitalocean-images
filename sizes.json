@@ -1792,7 +1792,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1816,7 +1815,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1908,7 +1906,6 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "syd1",
         "tor1"
       ],
       "slug": "c-48",
@@ -2043,14 +2040,12 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "ams3",
         "blr1",
         "fra1",
         "lon1",
         "nyc1",
         "nyc3",
         "sfo2",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
