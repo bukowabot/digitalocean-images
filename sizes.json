@@ -1488,6 +1488,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1511,6 +1512,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1790,6 +1792,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1813,6 +1816,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -1897,7 +1901,16 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
-        "syd1"
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "sfo3",
+        "syd1",
+        "tor1"
       ],
       "slug": "c-48",
       "transfer": 11,
@@ -2031,7 +2044,16 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
-        "syd1"
+        "ams3",
+        "blr1",
+        "fra1",
+        "lon1",
+        "nyc1",
+        "nyc3",
+        "sfo2",
+        "sfo3",
+        "syd1",
+        "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
       "transfer": 11,
@@ -2165,7 +2187,9 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
+        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -2233,7 +2257,9 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
+        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -2325,7 +2351,9 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
+        "sfo3",
         "syd1",
         "tor1"
       ],
@@ -2345,7 +2373,9 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
+        "sfo3",
         "syd1",
         "tor1"
       ],
