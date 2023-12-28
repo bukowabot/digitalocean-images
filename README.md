@@ -117,7 +117,6 @@ devdojo-laravel-20-04
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
-plesk-pleskcentos-7-9
 discourse-20-04
 linuxgsm
 codelathe-filecloud-20-04
@@ -163,7 +162,6 @@ antmedia-antmediaserveren-18-04
 flexifyio-flexifyiomulticl-20-04
 yeastar-yeastarpseriesph
 csmm-20-04
-eltrino-magento2opensour-20-04
 passboltsa-passboltce-20-04
 clickhouse
 wordpress-20-04
@@ -192,6 +190,9 @@ ossrs-srs
 quantrocket
 varnishsoftware-varnishcache-18-04
 flowforge
+eltrino-magento2opensour-20-04
+bevywise-bevywisemqttrout
+plesk-pleskcentos-7-9
 ````
 sizes.json.sizes[].slug
 ````yaml
