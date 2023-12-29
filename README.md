@@ -79,15 +79,12 @@ sharklabs-dropletnfsserver
 easypanel
 cpanel-cpanelwhmforalma
 azuracast-20-04
-ibsurgeon-hqbirdfirebirdv3
 jitsiserver-20-04
 origintrail-origintrailnode
 jelastic-jelasticpaas-7
 zabbix-zabbixproxy64
 zabbix-zabbixserver64
 zabbix-zabbixserver60
-ibsurgeon-hqbirdfirebirdv2
-ibsurgeon-hqbirdfirebirdv4
 mjmair-inventree
 gravitl-netmaker
 fedora-38-x64
@@ -172,6 +169,9 @@ deskpro
 sharklabs-anaconda
 mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
+ibsurgeon-hqbirdfirebirdv2
+ibsurgeon-hqbirdfirebirdv3
+ibsurgeon-hqbirdfirebirdv4
 3cxcommunication-3cx
 bitwarden
 cloudron-20-04
@@ -190,9 +190,9 @@ ossrs-srs
 quantrocket
 varnishsoftware-varnishcache-18-04
 flowforge
-eltrino-magento2opensour-20-04
 bevywise-bevywisemqttrout
 plesk-pleskcentos-7-9
+eltrino-magento2opensour-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
