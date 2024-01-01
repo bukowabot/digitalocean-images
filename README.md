@@ -185,7 +185,6 @@ axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
 kandralabs-zulip-18-04
 sharklabs-codeserver1
-doteamaccount-pocketbase
 ossrs-srs
 quantrocket
 varnishsoftware-varnishcache-18-04
@@ -193,6 +192,7 @@ flowforge
 bevywise-bevywisemqttrout
 plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
