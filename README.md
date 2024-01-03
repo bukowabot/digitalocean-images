@@ -175,7 +175,6 @@ ibsurgeon-hqbirdfirebirdv4
 3cxcommunication-3cx
 bitwarden
 cloudron-20-04
-ubuntudesktopgno
 flask
 django-20-04
 supabase
@@ -193,6 +192,7 @@ bevywise-bevywisemqttrout
 plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
 doteamaccount-pocketbase
+ubuntudesktopgno
 ````
 sizes.json.sizes[].slug
 ````yaml
