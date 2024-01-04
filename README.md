@@ -193,6 +193,7 @@ plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
 doteamaccount-pocketbase
 ubuntudesktopgno
+rackware-rackwarecloudmig
 ````
 sizes.json.sizes[].slug
 ````yaml
