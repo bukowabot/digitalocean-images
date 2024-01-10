@@ -5612,37 +5612,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-01-04T01:08:37Z",
-      "description": "PocketBase 0.20.4 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 147504746,
-      "min_disk_size": 25,
-      "name": "PocketBase 0.20.4 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.2,
-      "slug": "doteamaccount-pocketbase",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-01-04T08:30:25Z",
       "description": "RackWare Cloud Migration 7.4.5.6 on CentOS 7.x",
       "distribution": "CentOS",
@@ -5672,12 +5641,74 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-01-06T01:06:24Z",
+      "description": "PocketBase 0.20.5 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 147628915,
+      "min_disk_size": 25,
+      "name": "PocketBase 0.20.5 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.2,
+      "slug": "doteamaccount-pocketbase",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-01-09T22:52:04Z",
+      "description": "GitLab Enterprise Edition on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 147866501,
+      "min_disk_size": 80,
+      "name": "GitLab Enterprise Edition on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.07,
+      "slug": "gitlab-gitlabenterprise-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 183
+    "total": 184
   }
 }
