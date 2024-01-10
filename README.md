@@ -192,8 +192,9 @@ bevywise-bevywisemqttrout
 plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
 ubuntudesktopgno
-doteamaccount-pocketbase
 rackware-rackwarecloudmig
+doteamaccount-pocketbase
+gitlab-gitlabenterprise-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
