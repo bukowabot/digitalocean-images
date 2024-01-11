@@ -1560,7 +1560,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-16-intel",
@@ -1582,7 +1581,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-16vcpu-32gb-intel",
@@ -1700,7 +1698,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "g-16vcpu-64gb-intel",
@@ -1722,7 +1719,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "gd-16vcpu-64gb-intel",
@@ -1857,14 +1853,13 @@
       "price_hourly": 1.3006,
       "price_monthly": 874,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "c-32-intel",
       "transfer": 9,
@@ -1878,14 +1873,13 @@
       "price_hourly": 1.45536,
       "price_monthly": 978,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "c2-32vcpu-64gb-intel",
       "transfer": 9,
@@ -1903,7 +1897,8 @@
         "blr1",
         "fra1",
         "lon1",
-        "syd1",
+        "sfo2",
+        "sfo3",
         "tor1"
       ],
       "slug": "c-48",
@@ -2042,7 +2037,8 @@
         "blr1",
         "fra1",
         "lon1",
-        "syd1",
+        "sfo2",
+        "sfo3",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb",
@@ -2063,9 +2059,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "g-32vcpu-128gb-intel",
       "transfer": 8,
@@ -2133,9 +2127,7 @@
         "nyc1",
         "nyc3",
         "sfo2",
-        "sfo3",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "gd-32vcpu-128gb-intel",
       "transfer": 8,
@@ -2173,11 +2165,12 @@
       "price_hourly": 1.9494,
       "price_monthly": 1310,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
+        "nyc3",
         "sfo2",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "c-48-intel",
       "transfer": 11,
@@ -2239,11 +2232,11 @@
       "price_hourly": 2.18155,
       "price_monthly": 1466,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
-        "sfo2",
-        "syd1",
-        "tor1"
+        "nyc3",
+        "sfo2"
       ],
       "slug": "c2-48vcpu-96gb-intel",
       "transfer": 11,
@@ -2329,12 +2322,13 @@
       "price_hourly": 2.6994,
       "price_monthly": 1814,
       "regions": [
+        "ams3",
         "blr1",
+        "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
-        "sfo3",
-        "syd1",
-        "tor1"
+        "sfo3"
       ],
       "slug": "g-48vcpu-192gb-intel",
       "transfer": 9,
@@ -2348,11 +2342,11 @@
       "price_hourly": 2.82887,
       "price_monthly": 1901,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
-        "sfo2",
-        "syd1",
-        "tor1"
+        "nyc3",
+        "sfo2"
       ],
       "slug": "gd-48vcpu-192gb-intel",
       "transfer": 11,

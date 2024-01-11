@@ -102,7 +102,6 @@ zeslecp-7
 debian-12-x64
 rockylinux-9-x64
 debian-11-x64
-litespeedtechnol-openlitespeeddru
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
 nirvatosoftware-nirvashare-20-04
@@ -173,7 +172,6 @@ ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv4
 3cxcommunication-3cx
-bitwarden
 cloudron-20-04
 flask
 django-20-04
@@ -195,6 +193,9 @@ ubuntudesktopgno
 rackware-rackwarecloudmig
 doteamaccount-pocketbase
 gitlab-gitlabenterprise-20-04
+litespeedtechnol-openlitespeeddru
+bitwarden
+3cxcommunication-3cxv18
 ````
 sizes.json.sizes[].slug
 ````yaml
