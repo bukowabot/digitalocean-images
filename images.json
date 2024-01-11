@@ -2822,37 +2822,6 @@
       "type": "base"
     },
     {
-      "created_at": "2023-07-03T07:30:51Z",
-      "description": "OpenLiteSpeed Drupal 10.1.0 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 135807164,
-      "min_disk_size": 25,
-      "name": "OpenLiteSpeed Drupal 10.1.0 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.11,
-      "slug": "litespeedtechnol-openlitespeeddru",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-07-06T13:56:41Z",
       "description": "DeepSparse Inference Runtime 1.5.2 on Ubuntu 22.10",
       "distribution": "Ubuntu",
@@ -5023,37 +4992,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-12-07T15:25:30Z",
-      "description": "Bitwarden 2023.12.0 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 145771617,
-      "min_disk_size": 50,
-      "name": "Bitwarden 2023.12.0 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.48,
-      "slug": "bitwarden",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-12-11T14:02:14Z",
       "description": "Cloudron 7.6.2 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -5703,12 +5641,105 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-01-10T02:43:24Z",
+      "description": "OpenLiteSpeed Drupal 10.2.0 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 147879189,
+      "min_disk_size": 25,
+      "name": "OpenLiteSpeed Drupal 10.2.0 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.14,
+      "slug": "litespeedtechnol-openlitespeeddru",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-01-10T22:19:21Z",
+      "description": "Bitwarden 2024.1.0 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 147930281,
+      "min_disk_size": 50,
+      "name": "Bitwarden 2024.1.0 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.48,
+      "slug": "bitwarden",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-01-11T12:44:01Z",
+      "description": "3CX-V18 18.0.9.20 on Debian 10 (Buster)",
+      "distribution": "Debian",
+      "error_message": "",
+      "id": 147974724,
+      "min_disk_size": 25,
+      "name": "3CX-V18 18.0.9.20 on Debian 10 (Buster)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.38,
+      "slug": "3cxcommunication-3cxv18",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 184
+    "total": 185
   }
 }
