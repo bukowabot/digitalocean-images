@@ -165,7 +165,6 @@ fedora-39-x64
 supernetworks-spr
 aqtraplatform
 deskpro
-sharklabs-anaconda
 mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
 ibsurgeon-hqbirdfirebirdv2
@@ -191,11 +190,12 @@ plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
 ubuntudesktopgno
 rackware-rackwarecloudmig
-doteamaccount-pocketbase
 gitlab-gitlabenterprise-20-04
 litespeedtechnol-openlitespeeddru
 bitwarden
 3cxcommunication-3cxv18
+sharklabs-anaconda
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml

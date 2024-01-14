@@ -888,7 +888,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -957,7 +956,6 @@
         "nyc1",
         "nyc3",
         "sfo3",
-        "sgp1",
         "syd1",
         "tor1"
       ],
@@ -1253,6 +1251,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "syd1",
@@ -1274,6 +1273,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "syd1",
@@ -1391,6 +1391,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "syd1",
@@ -1412,6 +1413,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "syd1",
@@ -1553,6 +1555,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "tor1"
@@ -1573,6 +1576,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "tor1"
@@ -1689,6 +1693,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "tor1"
@@ -1709,6 +1714,7 @@
         "blr1",
         "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "tor1"
@@ -1845,6 +1851,7 @@
       "price_hourly": 1.3006,
       "price_monthly": 874,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
         "sfo2",
@@ -1862,6 +1869,7 @@
       "price_hourly": 1.45536,
       "price_monthly": 978,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
         "sfo2",
@@ -1879,9 +1887,11 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "lon1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "sgp1",
@@ -2019,9 +2029,11 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
+        "ams3",
         "blr1",
         "fra1",
         "lon1",
+        "nyc3",
         "sfo2",
         "sfo3",
         "sgp1",
@@ -2039,9 +2051,10 @@
       "price_hourly": 1.8006,
       "price_monthly": 1210,
       "regions": [
+        "ams3",
         "blr1",
-        "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3"
       ],
@@ -2105,9 +2118,10 @@
       "price_hourly": 1.8869,
       "price_monthly": 1268,
       "regions": [
+        "ams3",
         "blr1",
-        "fra1",
         "nyc1",
+        "nyc3",
         "sfo2",
         "sfo3"
       ],
@@ -2299,6 +2313,7 @@
       "price_hourly": 2.6994,
       "price_monthly": 1814,
       "regions": [
+        "ams3",
         "blr1",
         "nyc1",
         "sfo2"
@@ -2315,6 +2330,7 @@
       "price_hourly": 2.82887,
       "price_monthly": 1901,
       "regions": [
+        "ams3",
         "nyc1",
         "sfo2"
       ],
