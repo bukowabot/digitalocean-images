@@ -194,8 +194,8 @@ gitlab-gitlabenterprise-20-04
 litespeedtechnol-openlitespeeddru
 bitwarden
 3cxcommunication-3cxv18
-sharklabs-anaconda
 doteamaccount-pocketbase
+sharklabs-anaconda
 ````
 sizes.json.sizes[].slug
 ````yaml
