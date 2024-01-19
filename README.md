@@ -190,12 +190,12 @@ plesk-pleskcentos-7-9
 eltrino-magento2opensour-20-04
 ubuntudesktopgno
 rackware-rackwarecloudmig
-gitlab-gitlabenterprise-20-04
 litespeedtechnol-openlitespeeddru
 bitwarden
 3cxcommunication-3cxv18
 doteamaccount-pocketbase
 sharklabs-anaconda
+gitlab-gitlabenterprise-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
