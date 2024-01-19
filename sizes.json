@@ -1165,7 +1165,6 @@
         "ams3",
         "blr1",
         "fra1",
-        "nyc3",
         "sfo3",
         "syd1",
         "tor1"
@@ -1984,10 +1983,11 @@
       "price_hourly": 1.5,
       "price_monthly": 1008,
       "regions": [
+        "ams3",
+        "blr1",
         "fra1",
         "lon1",
         "nyc1",
-        "nyc3",
         "sfo2",
         "sgp1",
         "syd1",
@@ -2131,10 +2131,11 @@
       "price_hourly": 1.67857,
       "price_monthly": 1128,
       "regions": [
+        "ams3",
+        "blr1",
         "fra1",
         "lon1",
         "nyc1",
-        "nyc3",
         "sfo2",
         "sgp1",
         "syd1",
