@@ -1628,7 +1628,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-16-intel",
@@ -1651,7 +1650,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-16vcpu-32gb-intel",
@@ -1939,13 +1937,11 @@
       "price_monthly": 874,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-32-intel",
@@ -1962,13 +1958,11 @@
       "price_monthly": 978,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-32vcpu-64gb-intel",
@@ -1989,6 +1983,7 @@
         "fra1",
         "lon1",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -2136,6 +2131,7 @@
         "fra1",
         "lon1",
         "sfo2",
+        "sfo3",
         "sgp1",
         "syd1",
         "tor1"
@@ -2160,7 +2156,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "g-32vcpu-128gb-intel",
@@ -2233,7 +2228,6 @@
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "gd-32vcpu-128gb-intel",
@@ -2275,13 +2269,11 @@
       "price_monthly": 1310,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c-48-intel",
@@ -2348,13 +2340,11 @@
       "price_monthly": 1466,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "c2-48vcpu-96gb-intel",
@@ -2446,13 +2436,11 @@
       "price_monthly": 1814,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "g-48vcpu-192gb-intel",
@@ -2469,13 +2457,11 @@
       "price_monthly": 1901,
       "regions": [
         "ams3",
-        "blr1",
         "fra1",
         "nyc1",
         "nyc3",
         "sfo2",
         "sfo3",
-        "syd1",
         "tor1"
       ],
       "slug": "gd-48vcpu-192gb-intel",
