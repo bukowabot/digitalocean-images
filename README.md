@@ -23,7 +23,6 @@ microwebercms-microweber-20-04
 wordsmythcreatio-aresmush
 appsmith-18-04
 npool
-perforce-perforcehelixcor
 litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedjoo-20-04
 botguardo-botguardingressc
@@ -107,7 +106,6 @@ nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
 litespeedtechnol-cyberpanel-20-04
-saltcorn-20-04
 devdojo-laravel-20-04
 rabbitmq
 ascensiosystemsi-onlyofficeeditor-18-04-4
@@ -140,7 +138,6 @@ ghost-20-04
 ubuntu-23-10-x64
 botguardo-botguardgatekeep
 sharklabs-erpodoo
-litespeedtechnol-openlitespeedwor-20-04
 almalinux-9-x64
 rockylinux-8-x64
 harperdb-18-04
@@ -174,7 +171,6 @@ supabase
 plesk-20-04
 axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
-kandralabs-zulip-18-04
 sharklabs-codeserver1
 ossrs-srs
 quantrocket
@@ -187,15 +183,19 @@ rackware-rackwarecloudmig
 litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
 3cxcommunication-3cxv18
-doteamaccount-pocketbase
 sharklabs-anaconda
 edgedb
 flowforge
-bitwarden
 hollaex-hollaexkit
 gitlab-gitlabenterprise-20-04
 flexifyio-flexifyiomulticl-20-04
 analythium-shinyproxy-20-04
+litespeedtechnol-openlitespeedwor-20-04
+perforce-perforcehelixcor
+saltcorn-20-04
+doteamaccount-pocketbase
+kandralabs-zulip-18-04
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
