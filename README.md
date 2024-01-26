@@ -75,7 +75,6 @@ openblocks
 farm
 sharklabs-dropletnfsserver
 easypanel
-cpanel-cpanelwhmforalma
 azuracast-20-04
 jitsiserver-20-04
 origintrail-origintrailnode
@@ -196,6 +195,7 @@ saltcorn-20-04
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
 bitwarden
+cpanel-cpanelwhmforalma
 ````
 sizes.json.sizes[].slug
 ````yaml
