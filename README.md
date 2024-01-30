@@ -24,7 +24,6 @@ wordsmythcreatio-aresmush
 appsmith-18-04
 npool
 litespeedtechnol-openlitespeeddja-20-04
-litespeedtechnol-openlitespeedjoo-20-04
 botguardo-botguardingressc
 intel-intelgprofilercr
 litespeedtechnol-openlitespeednod-20-04
@@ -157,7 +156,6 @@ fedora-39-x64
 supernetworks-spr
 aqtraplatform
 deskpro
-mgtcommercegmbh-cloudpanel2ubunt
 mastodon-18-04
 ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv3
@@ -190,12 +188,16 @@ gitlab-gitlabenterprise-20-04
 flexifyio-flexifyiomulticl-20-04
 analythium-shinyproxy-20-04
 litespeedtechnol-openlitespeedwor-20-04
+mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
 saltcorn-20-04
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
 bitwarden
+tebex-tebexrconadapter
 cpanel-cpanelwhmforalma
+victoriametrics-victorialogssing
+litespeedtechnol-openlitespeedjoo-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
