@@ -181,7 +181,6 @@ litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
 3cxcommunication-3cxv18
 sharklabs-anaconda
-edgedb
 flowforge
 hollaex-hollaexkit
 gitlab-gitlabenterprise-20-04
@@ -194,6 +193,7 @@ saltcorn-20-04
 doteamaccount-pocketbase
 kandralabs-zulip-18-04
 bitwarden
+edgedb
 tebex-tebexrconadapter
 cpanel-cpanelwhmforalma
 victoriametrics-victorialogssing
