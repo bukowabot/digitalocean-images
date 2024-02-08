@@ -198,6 +198,7 @@ tebex-tebexrconadapter
 cpanel-cpanelwhmforalma
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
+border0
 ````
 sizes.json.sizes[].slug
 ````yaml

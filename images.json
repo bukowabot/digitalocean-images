@@ -5796,12 +5796,43 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-02-05T02:42:50Z",
+      "description": "Border0 1.1-603 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 149515260,
+      "min_disk_size": 25,
+      "name": "Border0 1.1-603 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.23,
+      "slug": "border0",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
     "pages": {}
   },
   "meta": {
-    "total": 187
+    "total": 188
   }
 }
