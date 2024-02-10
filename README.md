@@ -183,7 +183,6 @@ analythium-shinyproxy-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
 saltcorn-20-04
-doteamaccount-pocketbase
 kandralabs-zulip-18-04
 edgedb
 tebex-tebexrconadapter
@@ -201,6 +200,7 @@ antmedia-antmediaserveren-18-04
 litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
 bitwarden
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
