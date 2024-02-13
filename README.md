@@ -201,6 +201,8 @@ litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
 bitwarden
 doteamaccount-pocketbase
+temporal
+jenkins
 ````
 sizes.json.sizes[].slug
 ````yaml
