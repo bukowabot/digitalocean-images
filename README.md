@@ -82,7 +82,6 @@ zabbix-zabbixserver60
 mjmair-inventree
 gravitl-netmaker
 fedora-38-x64
-docker-20-04
 activepieces
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
@@ -203,6 +202,7 @@ bitwarden
 doteamaccount-pocketbase
 temporal
 jenkins
+docker-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
