@@ -108,7 +108,6 @@ discourse-20-04
 linuxgsm
 codelathe-filecloud-20-04
 haltdos-haltdosprowaf
-sandflysecurity-20-04
 postalsystemso-emailengine
 haltdos-haltdoswafpro
 mongodb-18-04
@@ -143,7 +142,6 @@ devrel-teleport-20-04
 haltdos-haltdoscommunity
 yeastar-yeastarpseriesph
 csmm-20-04
-passboltsa-passboltce-20-04
 clickhouse
 wordpress-20-04
 fedora-39-x64
@@ -174,7 +172,6 @@ rackware-rackwarecloudmig
 litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
 3cxcommunication-3cxv18
-sharklabs-anaconda
 flowforge
 gitlab-gitlabenterprise-20-04
 flexifyio-flexifyiomulticl-20-04
@@ -201,7 +198,10 @@ litespeedtechnol-cyberpanel-20-04
 bitwarden
 doteamaccount-pocketbase
 temporal
+sandflysecurity-20-04
+sharklabs-anaconda
 jenkins
+passboltsa-passboltce-20-04
 docker-20-04
 ````
 sizes.json.sizes[].slug
