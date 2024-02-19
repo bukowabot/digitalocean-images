@@ -113,7 +113,6 @@ haltdos-haltdoswafpro
 mongodb-18-04
 ispmanager-ispmanager6
 lamp-20-04
-rocketchat-20-04
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
 appwrite-20-04
@@ -191,6 +190,7 @@ border0
 fastpanel-deb-9
 microwebercms-microweber-20-04
 hollaex-hollaexkit
+rocketchat-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 litespeedtechnol-openlitespeedwor-20-04
