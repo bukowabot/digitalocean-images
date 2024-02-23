@@ -151,7 +151,6 @@ mastodon-18-04
 ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv4
-3cxcommunication-3cx
 cloudron-20-04
 flask
 django-20-04
@@ -203,6 +202,7 @@ kandralabs-zulip-18-04
 flowforge
 flexifyio-flexifyiomulticl-20-04
 eltrino-magento2opensour-20-04
+3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
 ````yaml
