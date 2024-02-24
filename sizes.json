@@ -472,8 +472,7 @@
         "fra1",
         "nyc3",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-2vcpu-8gb-160gb-intel",
       "transfer": 5,
@@ -545,8 +544,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-4vcpu-8gb-intel",
       "transfer": 5,
@@ -594,8 +592,7 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-4vcpu-8gb-240gb-intel",
       "transfer": 6,
@@ -710,8 +707,7 @@
         "blr1",
         "fra1",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-4vcpu-16gb-320gb-intel",
       "transfer": 8,
@@ -732,9 +728,7 @@
         "lon1",
         "nyc1",
         "sfo3",
-        "sgp1",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-8vcpu-16gb-480gb-intel",
       "transfer": 9,
@@ -774,8 +768,7 @@
         "blr1",
         "fra1",
         "sfo3",
-        "syd1",
-        "tor1"
+        "syd1"
       ],
       "slug": "s-8vcpu-32gb-640gb-intel",
       "transfer": 10,
