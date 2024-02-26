@@ -1,7 +1,7 @@
 {
   "links": {},
   "meta": {
-    "total": 33
+    "total": 29
   },
   "sizes": [
     {
@@ -472,7 +472,8 @@
         "fra1",
         "nyc3",
         "sfo3",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "s-2vcpu-8gb-160gb-intel",
       "transfer": 5,
@@ -544,7 +545,8 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "s-4vcpu-8gb-intel",
       "transfer": 5,
@@ -592,7 +594,8 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "s-4vcpu-8gb-240gb-intel",
       "transfer": 6,
@@ -693,86 +696,6 @@
       "slug": "c-4",
       "transfer": 5,
       "vcpus": 4
-    },
-    {
-      "available": true,
-      "description": "Basic Intel",
-      "disk": 320,
-      "memory": 16384,
-      "networking_througput": 2000,
-      "price_hourly": 0.14286,
-      "price_monthly": 96,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "sfo3",
-        "syd1"
-      ],
-      "slug": "s-4vcpu-16gb-320gb-intel",
-      "transfer": 8,
-      "vcpus": 4
-    },
-    {
-      "available": true,
-      "description": "Basic Intel",
-      "disk": 480,
-      "memory": 16384,
-      "networking_througput": 2000,
-      "price_hourly": 0.19048,
-      "price_monthly": 128,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "lon1",
-        "nyc1",
-        "sfo3",
-        "syd1"
-      ],
-      "slug": "s-8vcpu-16gb-480gb-intel",
-      "transfer": 9,
-      "vcpus": 8
-    },
-    {
-      "available": true,
-      "description": "Basic AMD",
-      "disk": 400,
-      "memory": 32768,
-      "networking_througput": 2000,
-      "price_hourly": 0.25,
-      "price_monthly": 168,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "nyc3",
-        "sfo3",
-        "syd1",
-        "tor1"
-      ],
-      "slug": "s-8vcpu-32gb-amd",
-      "transfer": 10,
-      "vcpus": 8
-    },
-    {
-      "available": true,
-      "description": "Basic Intel",
-      "disk": 640,
-      "memory": 32768,
-      "networking_througput": 2000,
-      "price_hourly": 0.28571,
-      "price_monthly": 192,
-      "regions": [
-        "ams3",
-        "blr1",
-        "fra1",
-        "sfo3",
-        "syd1"
-      ],
-      "slug": "s-8vcpu-32gb-640gb-intel",
-      "transfer": 10,
-      "vcpus": 8
     }
   ]
 }

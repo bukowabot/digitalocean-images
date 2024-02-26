@@ -235,10 +235,6 @@ gd-2vcpu-8gb
 s-4vcpu-16gb-amd
 m-2vcpu-16gb
 c-4
-s-4vcpu-16gb-320gb-intel
-s-8vcpu-16gb-480gb-intel
-s-8vcpu-32gb-amd
-s-8vcpu-32gb-640gb-intel
 ````
 regions.json.regions[].slug
 ````yaml
