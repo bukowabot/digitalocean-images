@@ -142,22 +142,6 @@
       {
         "name": "c-4-8GiB",
         "slug": "c-4"
-      },
-      {
-        "name": "s-4vcpu-16gb-320gb-intel",
-        "slug": "s-4vcpu-16gb-320gb-intel"
-      },
-      {
-        "name": "s-8vcpu-16gb-480gb-intel",
-        "slug": "s-8vcpu-16gb-480gb-intel"
-      },
-      {
-        "name": "s-8vcpu-32gb-amd",
-        "slug": "s-8vcpu-32gb-amd"
-      },
-      {
-        "name": "s-8vcpu-32gb-640gb-intel",
-        "slug": "s-8vcpu-32gb-640gb-intel"
       }
     ],
     "versions": [
