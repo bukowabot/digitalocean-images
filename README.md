@@ -106,12 +106,10 @@ ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 discourse-20-04
 linuxgsm
-codelathe-filecloud-20-04
 haltdos-haltdosprowaf
 postalsystemso-emailengine
 haltdos-haltdoswafpro
 mongodb-18-04
-ispmanager-ispmanager6
 lamp-20-04
 yeastar-ypsps1
 searchblox-searchbloxenterp-7-6
@@ -122,7 +120,6 @@ caprover-18-04
 sharklabs-kibana
 elasticsearch
 sharklabs-logstash
-apliteni-keitaro
 meilisas-meilisearch-10
 osmosislabs-osmosis
 severalnines-clustercontrol-20-04
@@ -155,7 +152,6 @@ cloudron-20-04
 flask
 django-20-04
 supabase
-plesk-20-04
 axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
 sharklabs-codeserver1
@@ -163,7 +159,6 @@ quantrocket
 varnishsoftware-varnishcache-18-04
 jelastic-virtuozzoapplica
 bevywise-bevywisemqttrout
-plesk-pleskcentos-7-9
 ubuntudesktopgno
 rackware-rackwarecloudmig
 litespeedtechnol-openlitespeeddru
@@ -190,7 +185,6 @@ antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
-bitwarden
 doteamaccount-pocketbase
 temporal
 sandflysecurity-20-04
@@ -201,8 +195,14 @@ docker-20-04
 kandralabs-zulip-18-04
 flowforge
 flexifyio-flexifyiomulticl-20-04
+ispmanager-ispmanager6
+apliteni-keitaro
 eltrino-magento2opensour-20-04
 3cxcommunication-3cx
+bitwarden
+codelathe-filecloud-20-04
+plesk-20-04
+plesk-pleskcentos-7-9
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -258,5 +258,4 @@ kubernetes.json.options.versions[].kubernetes_version
 1.29.1
 1.28.6
 1.27.10
-1.26.13
 ````

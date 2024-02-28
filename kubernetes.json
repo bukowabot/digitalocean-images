@@ -174,16 +174,6 @@
           "ha-control-plane",
           "token-authentication"
         ]
-      },
-      {
-        "kubernetes_version": "1.26.13",
-        "slug": "1.26.13-do.0",
-        "supported_features": [
-          "cluster-autoscaler",
-          "docr-integration",
-          "ha-control-plane",
-          "token-authentication"
-        ]
       }
     ]
   }
