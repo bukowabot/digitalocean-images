@@ -203,6 +203,7 @@ bitwarden
 codelathe-filecloud-20-04
 plesk-20-04
 plesk-pleskcentos-7-9
+sharklabs-counterstrike2
 ````
 sizes.json.sizes[].slug
 ````yaml
