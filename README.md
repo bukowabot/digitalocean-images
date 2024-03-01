@@ -122,7 +122,6 @@ elasticsearch
 sharklabs-logstash
 meilisas-meilisearch-10
 osmosislabs-osmosis
-severalnines-clustercontrol-20-04
 ghost-20-04
 ubuntu-23-10-x64
 botguardo-botguardgatekeep
@@ -201,6 +200,7 @@ eltrino-magento2opensour-20-04
 3cxcommunication-3cx
 bitwarden
 codelathe-filecloud-20-04
+severalnines-clustercontrol-20-04
 plesk-20-04
 plesk-pleskcentos-7-9
 sharklabs-counterstrike2
