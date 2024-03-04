@@ -5364,37 +5364,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-02-12T01:06:32Z",
-      "description": "PocketBase 0.21.3 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 149960658,
-      "min_disk_size": 25,
-      "name": "PocketBase 0.21.3 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.21,
-      "slug": "doteamaccount-pocketbase",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-02-12T19:16:51Z",
       "description": "Temporal 1.22.4 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -5860,6 +5829,68 @@
       "type": "application"
     },
     {
+      "created_at": "2024-02-27T00:00:39Z",
+      "description": "Chevereto 4 on Ubuntu 22.04 LTS",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 150917015,
+      "min_disk_size": 25,
+      "name": "Chevereto 4 on Ubuntu 22.04 LTS",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.94,
+      "slug": "chevereto-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-02-27T01:06:49Z",
+      "description": "PocketBase 0.22.0 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 150927470,
+      "min_disk_size": 25,
+      "name": "PocketBase 0.22.0 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.21,
+      "slug": "doteamaccount-pocketbase",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
       "created_at": "2024-02-28T02:14:42Z",
       "description": "ClusterControl 1.9.8 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5988,6 +6019,6 @@
     "pages": {}
   },
   "meta": {
-    "total": 193
+    "total": 194
   }
 }

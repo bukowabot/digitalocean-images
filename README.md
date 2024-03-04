@@ -184,7 +184,6 @@ antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
-doteamaccount-pocketbase
 temporal
 sandflysecurity-20-04
 sharklabs-anaconda
@@ -200,6 +199,8 @@ eltrino-magento2opensour-20-04
 3cxcommunication-3cx
 bitwarden
 codelathe-filecloud-20-04
+chevereto-20-04
+doteamaccount-pocketbase
 severalnines-clustercontrol-20-04
 plesk-20-04
 plesk-pleskcentos-7-9
