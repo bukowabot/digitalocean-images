@@ -555,8 +555,6 @@
         "gd-16vcpu-64gb-intel",
         "so1_5-8vcpu-64gb",
         "m-16vcpu-128gb",
-        "c-32",
-        "c2-32vcpu-64gb",
         "m3-16vcpu-128gb",
         "c-32-intel",
         "c2-32vcpu-64gb-intel",
