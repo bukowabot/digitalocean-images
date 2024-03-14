@@ -192,7 +192,6 @@ flexifyio-flexifyiomulticl-20-04
 ispmanager-ispmanager6
 apliteni-keitaro
 3cxcommunication-3cx
-bitwarden
 codelathe-filecloud-20-04
 eltrino-magento2opensour-20-04
 chevereto-20-04
@@ -207,6 +206,7 @@ aqtraplatform
 doteamaccount-pocketbase
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
