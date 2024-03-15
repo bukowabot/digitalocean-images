@@ -70,7 +70,6 @@ ubuntu-22-04-x64
 sharklabs-testproject
 openblocks
 farm
-sharklabs-dropletnfsserver
 easypanel
 azuracast-20-04
 jitsiserver-20-04
@@ -170,7 +169,6 @@ tebex-tebexrconadapter
 cpanel-cpanelwhmforalma
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
-ossrs-srs
 eummena-moodle-10
 border0
 fastpanel-deb-9
@@ -187,10 +185,8 @@ jenkins
 passboltsa-passboltce-20-04
 docker-20-04
 kandralabs-zulip-18-04
-flowforge
 flexifyio-flexifyiomulticl-20-04
 ispmanager-ispmanager6
-apliteni-keitaro
 3cxcommunication-3cx
 codelathe-filecloud-20-04
 eltrino-magento2opensour-20-04
@@ -203,10 +199,14 @@ chevereto-xrdebug
 sandflysecurity-20-04
 sharklabs-counterstrike2
 aqtraplatform
-doteamaccount-pocketbase
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 bitwarden
+doteamaccount-pocketbase
+apliteni-keitaro
+ossrs-srs
+sharklabs-dropletnfsserver
+flowforge
 ````
 sizes.json.sizes[].slug
 ````yaml
