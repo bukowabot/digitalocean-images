@@ -96,7 +96,6 @@ rockylinux-9-x64
 debian-11-x64
 neuralmagic-deepsparseinfere
 centos-stream-8-x64
-nirvatosoftware-nirvashare-20-04
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
 devdojo-laravel-20-04
@@ -125,7 +124,6 @@ botguardo-botguardgatekeep
 sharklabs-erpodoo
 almalinux-9-x64
 rockylinux-8-x64
-harperdb-18-04
 spinupwp
 kuyio-konnectvpna
 wpclouddeploy
@@ -202,11 +200,13 @@ aqtraplatform
 ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 bitwarden
-doteamaccount-pocketbase
 apliteni-keitaro
 ossrs-srs
 sharklabs-dropletnfsserver
 flowforge
+nirvatosoftware-nirvashare-20-04
+doteamaccount-pocketbase
+harperdb-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
