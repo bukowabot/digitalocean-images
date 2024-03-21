@@ -164,7 +164,6 @@ perforce-perforcehelixcor
 saltcorn-20-04
 edgedb
 tebex-tebexrconadapter
-cpanel-cpanelwhmforalma
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
 eummena-moodle-10
@@ -202,6 +201,7 @@ ascensiosystem-onlyoffice-18-04
 bitwarden
 apliteni-keitaro
 ossrs-srs
+cpanel-cpanelwhmforalma
 sharklabs-dropletnfsserver
 flowforge
 nirvatosoftware-nirvashare-20-04
