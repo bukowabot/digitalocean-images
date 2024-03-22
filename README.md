@@ -186,7 +186,6 @@ flexifyio-flexifyiomulticl-20-04
 ispmanager-ispmanager6
 3cxcommunication-3cx
 codelathe-filecloud-20-04
-eltrino-magento2opensour-20-04
 chevereto-20-04
 severalnines-clustercontrol-20-04
 ibsurgeon-hqbirdfirebirdv5
@@ -207,6 +206,8 @@ flowforge
 nirvatosoftware-nirvashare-20-04
 doteamaccount-pocketbase
 harperdb-18-04
+eltrino-magento2opensour-20-04
+airflow
 ````
 sizes.json.sizes[].slug
 ````yaml
