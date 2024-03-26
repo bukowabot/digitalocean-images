@@ -162,7 +162,6 @@ analythium-shinyproxy-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
 saltcorn-20-04
-edgedb
 tebex-tebexrconadapter
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
@@ -181,7 +180,6 @@ sharklabs-anaconda
 jenkins
 passboltsa-passboltce-20-04
 docker-20-04
-kandralabs-zulip-18-04
 flexifyio-flexifyiomulticl-20-04
 ispmanager-ispmanager6
 3cxcommunication-3cx
@@ -200,13 +198,15 @@ ascensiosystem-onlyoffice-18-04
 bitwarden
 apliteni-keitaro
 ossrs-srs
-cpanel-cpanelwhmforalma
 sharklabs-dropletnfsserver
 flowforge
+edgedb
 nirvatosoftware-nirvashare-20-04
 doteamaccount-pocketbase
 harperdb-18-04
 eltrino-magento2opensour-20-04
+kandralabs-zulip-18-04
+cpanel-cpanelwhmforalma
 airflow
 ````
 sizes.json.sizes[].slug
