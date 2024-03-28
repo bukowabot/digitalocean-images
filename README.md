@@ -203,11 +203,11 @@ nirvatosoftware-nirvashare-20-04
 harperdb-18-04
 eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
-doteamaccount-pocketbase
 cpanel-cpanelwhmforalma
 airflow
 bitwarden
 devrel-teleport-20-04
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
