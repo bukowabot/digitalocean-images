@@ -149,7 +149,6 @@ codertechnologie-vscodeserver
 sharklabs-codeserver1
 quantrocket
 varnishsoftware-varnishcache-18-04
-jelastic-virtuozzoapplica
 bevywise-bevywisemqttrout
 ubuntudesktopgno
 rackware-rackwarecloudmig
@@ -168,7 +167,6 @@ eummena-moodle-10
 border0
 fastpanel-deb-9
 microwebercms-microweber-20-04
-hollaex-hollaexkit
 rocketchat-20-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
@@ -187,7 +185,6 @@ chevereto-20-04
 severalnines-clustercontrol-20-04
 ibsurgeon-hqbirdfirebirdv5
 plesk-20-04
-plesk-pleskcentos-7-9
 chevereto-xrdebug
 sandflysecurity-20-04
 sharklabs-counterstrike2
@@ -200,14 +197,19 @@ sharklabs-dropletnfsserver
 flowforge
 edgedb
 nirvatosoftware-nirvashare-20-04
-harperdb-18-04
 eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
 cpanel-cpanelwhmforalma
 airflow
 bitwarden
 devrel-teleport-20-04
+hollaex-hollaexkit
+jelastic-virtuozzoapplica
+plesk-plesktest
+plesk-pleskcentos-7-9
+harperdb-18-04
 doteamaccount-pocketbase
+multiversx-multiversxobserv
 ````
 sizes.json.sizes[].slug
 ````yaml
