@@ -173,7 +173,6 @@ antmedia-antmediaserveren-18-04
 litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
 temporal
-sharklabs-anaconda
 jenkins
 passboltsa-passboltce-20-04
 docker-20-04
@@ -210,6 +209,7 @@ plesk-pleskcentos-7-9
 harperdb-18-04
 doteamaccount-pocketbase
 multiversx-multiversxobserv
+sharklabs-anaconda
 ````
 sizes.json.sizes[].slug
 ````yaml
