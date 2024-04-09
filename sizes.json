@@ -60,6 +60,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
@@ -156,6 +157,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
@@ -252,6 +254,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
@@ -348,6 +351,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
@@ -419,6 +423,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "nyc3",
         "sfo3",
         "syd1",
@@ -510,6 +515,7 @@
       "regions": [
         "ams3",
         "blr1",
+        "fra1",
         "lon1",
         "nyc1",
         "nyc3",
