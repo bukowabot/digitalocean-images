@@ -103,7 +103,6 @@ rabbitmq
 discourse-20-04
 linuxgsm
 haltdos-haltdosprowaf
-postalsystemso-emailengine
 haltdos-haltdoswafpro
 mongodb-18-04
 lamp-20-04
@@ -113,7 +112,6 @@ appwrite-20-04
 origintrail-origintraildkgte
 origintrail-origintraildkgma
 caprover-18-04
-sharklabs-kibana
 elasticsearch
 sharklabs-logstash
 meilisas-meilisearch-10
@@ -129,7 +127,6 @@ kuyio-konnectvpna
 wpclouddeploy
 mariadb
 haltdos-haltdoscommunity
-yeastar-yeastarpseriesph
 csmm-20-04
 clickhouse
 wordpress-20-04
@@ -140,7 +137,6 @@ mastodon-18-04
 ibsurgeon-hqbirdfirebirdv2
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv4
-cloudron-20-04
 flask
 django-20-04
 supabase
@@ -192,9 +188,7 @@ ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 apliteni-keitaro
 ossrs-srs
-sharklabs-dropletnfsserver
 flowforge
-edgedb
 nirvatosoftware-nirvashare-20-04
 eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
@@ -205,11 +199,17 @@ devrel-teleport-20-04
 hollaex-hollaexkit
 jelastic-virtuozzoapplica
 plesk-plesktest
-plesk-pleskcentos-7-9
 harperdb-18-04
-doteamaccount-pocketbase
+postalsystemso-emailengine
+plesk-pleskcentos-7-9
+edgedb
+cloudron-20-04
 multiversx-multiversxobserv
+doteamaccount-pocketbase
+yeastar-yeastarpseriesph
 sharklabs-anaconda
+sharklabs-kibana
+sharklabs-dropletnfsserver
 ````
 sizes.json.sizes[].slug
 ````yaml
