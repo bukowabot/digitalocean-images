@@ -45,7 +45,6 @@ stretchshop
 softlab24-opensourcesocial-18-04
 test433
 akaunting-20-04
-znuny-znunylts-10
 znuny
 nginx
 playboxtechnolog-ottstream
@@ -99,7 +98,6 @@ centos-stream-8-x64
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
 devdojo-laravel-20-04
-rabbitmq
 discourse-20-04
 linuxgsm
 haltdos-haltdosprowaf
@@ -113,7 +111,6 @@ origintrail-origintraildkgte
 origintrail-origintraildkgma
 caprover-18-04
 elasticsearch
-sharklabs-logstash
 meilisas-meilisearch-10
 osmosislabs-osmosis
 ghost-20-04
@@ -194,13 +191,13 @@ eltrino-magento2opensour-20-04
 kandralabs-zulip-18-04
 cpanel-cpanelwhmforalma
 airflow
-bitwarden
 devrel-teleport-20-04
 hollaex-hollaexkit
 jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
 postalsystemso-emailengine
+znuny-znunylts-10
 plesk-pleskcentos-7-9
 edgedb
 cloudron-20-04
@@ -209,7 +206,11 @@ doteamaccount-pocketbase
 yeastar-yeastarpseriesph
 sharklabs-anaconda
 sharklabs-kibana
+sharklabs-logstash
 sharklabs-dropletnfsserver
+rabbitmq
+bitwarden
+drakkarsoftware-octobot
 ````
 sizes.json.sizes[].slug
 ````yaml
