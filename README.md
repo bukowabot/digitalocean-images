@@ -36,7 +36,6 @@ shellhub
 soos-soosdastdroplet
 flashphoner-7-6
 nodejs-20-04
-smartarget-wordpresswoocomm
 wikijs-18-04
 mpdev-testingupdateapp
 warpspeedvpn-wpcontroller
@@ -211,6 +210,7 @@ sharklabs-dropletnfsserver
 rabbitmq
 bitwarden
 drakkarsoftware-octobot
+smartarget-wordpresswoocomm
 ````
 sizes.json.sizes[].slug
 ````yaml
