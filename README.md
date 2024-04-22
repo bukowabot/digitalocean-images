@@ -22,7 +22,6 @@ invoiceninja-20-0-4
 wordsmythcreatio-aresmush
 appsmith-18-04
 npool
-litespeedtechnol-openlitespeeddja-20-04
 botguardo-botguardingressc
 intel-intelgprofilercr
 litespeedtechnol-openlitespeednod-20-04
@@ -211,6 +210,7 @@ tips4designsrl-uxwizz
 sharklabs-valkey
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
