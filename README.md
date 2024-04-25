@@ -113,7 +113,6 @@ meilisas-meilisearch-10
 osmosislabs-osmosis
 ghost-20-04
 ubuntu-23-10-x64
-botguardo-botguardgatekeep
 sharklabs-erpodoo
 almalinux-9-x64
 rockylinux-8-x64
@@ -210,7 +209,8 @@ tips4designsrl-uxwizz
 sharklabs-valkey
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
-bitwarden
+botguardo-botguardgatekeep
+znuny-znunylts-10
 ````
 sizes.json.sizes[].slug
 ````yaml
