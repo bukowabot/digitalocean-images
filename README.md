@@ -137,7 +137,6 @@ supabase
 axlabs-1clicknodeforneo
 codertechnologie-vscodeserver
 sharklabs-codeserver1
-quantrocket
 bevywise-bevywisemqttrout
 ubuntudesktopgno
 rackware-rackwarecloudmig
@@ -199,11 +198,8 @@ yeastar-yeastarpseriesph
 sharklabs-anaconda
 sharklabs-kibana
 sharklabs-logstash
-sharklabs-dropletnfsserver
-rabbitmq
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
-doteamaccount-pocketbase
 varnishsoftware-varnishcache-18-04
 tips4designsrl-uxwizz
 sharklabs-valkey
@@ -211,6 +207,10 @@ antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
 botguardo-botguardgatekeep
 znuny-znunylts-10
+sharklabs-dropletnfsserver
+litespeedtechnol-openlitespeeddja-20-04
+cpanel-cpanelwhmforubun
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
