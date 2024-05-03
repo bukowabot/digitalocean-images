@@ -169,7 +169,6 @@ codelathe-filecloud-20-04
 chevereto-20-04
 severalnines-clustercontrol-20-04
 ibsurgeon-hqbirdfirebirdv5
-plesk-20-04
 chevereto-xrdebug
 sandflysecurity-20-04
 sharklabs-counterstrike2
@@ -190,7 +189,6 @@ jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
 postalsystemso-emailengine
-plesk-pleskcentos-7-9
 edgedb
 cloudron-20-04
 multiversx-multiversxobserv
@@ -211,6 +209,8 @@ sharklabs-dropletnfsserver
 litespeedtechnol-openlitespeeddja-20-04
 cpanel-cpanelwhmforubun
 bitwarden
+superinverse-statusnook
+doteamaccount-pocketbase
 ````
 sizes.json.sizes[].slug
 ````yaml
