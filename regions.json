@@ -771,7 +771,6 @@
         "m6-24vcpu-192gb",
         "m-32vcpu-256gb-intel",
         "m3-32vcpu-256gb",
-        "so1_5-24vcpu-192gb-intel",
         "m3-32vcpu-256gb-intel",
         "g-48vcpu-192gb-intel",
         "gd-48vcpu-192gb-intel",
@@ -779,7 +778,6 @@
         "so-32vcpu-256gb-intel",
         "so-32vcpu-256gb",
         "m6-32vcpu-256gb",
-        "so1_5-32vcpu-256gb-intel",
         "so1_5-32vcpu-256gb"
       ],
       "slug": "fra1"
