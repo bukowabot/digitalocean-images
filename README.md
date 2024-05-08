@@ -103,7 +103,6 @@ haltdos-haltdoswafpro
 mongodb-18-04
 lamp-20-04
 yeastar-ypsps1
-searchblox-searchbloxenterp-7-6
 appwrite-20-04
 origintrail-origintraildkgte
 origintrail-origintraildkgma
@@ -144,7 +143,6 @@ litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
 3cxcommunication-3cxv18
 gitlab-gitlabenterprise-20-04
-analythium-shinyproxy-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
 saltcorn-20-04
@@ -211,6 +209,8 @@ rabbitmq
 plesk-pleskcentos-7-9
 plesk-20-04
 blueskysocialpds
+sharklabs-kibana
+sharklabs-logstash
 ````
 sizes.json.sizes[].slug
 ````yaml
