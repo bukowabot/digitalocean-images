@@ -141,7 +141,6 @@ ubuntudesktopgno
 rackware-rackwarecloudmig
 litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
-3cxcommunication-3cxv18
 gitlab-gitlabenterprise-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
@@ -162,7 +161,6 @@ passboltsa-passboltce-20-04
 docker-20-04
 flexifyio-flexifyiomulticl-20-04
 ispmanager-ispmanager6
-3cxcommunication-3cx
 codelathe-filecloud-20-04
 chevereto-20-04
 severalnines-clustercontrol-20-04
@@ -211,6 +209,8 @@ plesk-20-04
 blueskysocialpds
 sharklabs-kibana
 sharklabs-logstash
+doteamaccount-pocketbase
+smartarget-prestashop
 ````
 sizes.json.sizes[].slug
 ````yaml
