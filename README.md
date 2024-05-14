@@ -77,7 +77,6 @@ zabbix-zabbixserver64
 zabbix-zabbixserver60
 mjmair-inventree
 gravitl-netmaker
-fedora-38-x64
 activepieces
 chaarmiworlds-metaverse
 sharklabs-jupyternotebook
@@ -211,6 +210,7 @@ sharklabs-kibana
 sharklabs-logstash
 doteamaccount-pocketbase
 smartarget-prestashop
+bitwarden
 ````
 sizes.json.sizes[].slug
 ````yaml
