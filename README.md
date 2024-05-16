@@ -197,9 +197,7 @@ rabbitmq
 plesk-pleskcentos-7-9
 plesk-20-04
 blueskysocialpds
-sharklabs-kibana
 smartarget-prestashop
-bitwarden
 tips4designsrl-uxwizz
 searchblox-searchbloxenterp-7-6
 analythium-shinyproxy-20-04
@@ -211,6 +209,8 @@ edgedb
 eltrino-magento2opensour-20-04
 flexifyio-flexifyiomulticl-20-04
 sharklabs-dropletnfsserver
+doteamaccount-pocketbase
+3cxcommunication-3cx
 ````
 sizes.json.sizes[].slug
 ````yaml
