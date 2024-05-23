@@ -197,7 +197,6 @@ rabbitmq
 plesk-pleskcentos-7-9
 plesk-20-04
 blueskysocialpds
-smartarget-prestashop
 tips4designsrl-uxwizz
 searchblox-searchbloxenterp-7-6
 analythium-shinyproxy-20-04
@@ -211,6 +210,7 @@ flexifyio-flexifyiomulticl-20-04
 sharklabs-dropletnfsserver
 doteamaccount-pocketbase
 3cxcommunication-3cx
+rocketchat-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
