@@ -5767,37 +5767,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-05-06T04:35:18Z",
-      "description": "PrestaShop 8.1.5 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 155583804,
-      "min_disk_size": 25,
-      "name": "PrestaShop 8.1.5 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.31,
-      "slug": "smartarget-prestashop",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-05-06T22:05:36Z",
       "description": "UXWizz 6.1.0 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-05-13T07:12:03Z",
+      "description": "Rocket.Chat 6.8.0 on Ubuntu 20.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 156069846,
+      "min_disk_size": 25,
+      "name": "Rocket.Chat 6.8.0 on Ubuntu 20.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 5.6,
+      "slug": "rocketchat-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 210
+    "total": 211
   }
 }
