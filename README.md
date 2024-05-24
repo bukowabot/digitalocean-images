@@ -140,7 +140,6 @@ rackware-rackwarecloudmig
 litespeedtechnol-openlitespeeddru
 swarmfoundation-swarmlightnode
 gitlab-gitlabenterprise-20-04
-mgtcommercegmbh-cloudpanel2ubunt
 perforce-perforcehelixcor
 saltcorn-20-04
 tebex-tebexrconadapter
@@ -158,7 +157,6 @@ docker-20-04
 ispmanager-ispmanager6
 codelathe-filecloud-20-04
 chevereto-20-04
-severalnines-clustercontrol-20-04
 ibsurgeon-hqbirdfirebirdv5
 chevereto-xrdebug
 sandflysecurity-20-04
@@ -211,6 +209,8 @@ sharklabs-dropletnfsserver
 doteamaccount-pocketbase
 3cxcommunication-3cx
 rocketchat-20-04
+monetdbsolutions-monetdb
+victoriametrics-victoriametricss
 ````
 sizes.json.sizes[].slug
 ````yaml
