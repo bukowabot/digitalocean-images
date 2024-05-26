@@ -225,6 +225,7 @@
         "c2-4vcpu-8gb",
         "s-8vcpu-16gb",
         "m3-2vcpu-16gb",
+        "s-8vcpu-16gb-amd",
         "s-8vcpu-16gb-intel",
         "g-4vcpu-16gb",
         "s-8vcpu-16gb-480gb-intel",
