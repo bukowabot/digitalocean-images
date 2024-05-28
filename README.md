@@ -142,7 +142,6 @@ swarmfoundation-swarmlightnode
 gitlab-gitlabenterprise-20-04
 perforce-perforcehelixcor
 saltcorn-20-04
-tebex-tebexrconadapter
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
 eummena-moodle-10
@@ -202,15 +201,16 @@ analythium-shinyproxy-20-04
 fastpanel-deb-9
 zabbix-zabbixserver62
 kandralabs-zulip-18-04
-edgedb
 eltrino-magento2opensour-20-04
 flexifyio-flexifyiomulticl-20-04
-sharklabs-dropletnfsserver
 doteamaccount-pocketbase
 3cxcommunication-3cx
 rocketchat-20-04
 monetdbsolutions-monetdb
 victoriametrics-victoriametricss
+sharklabs-paperminecraftse
+sharklabs-kibana
+flowforge
 ````
 sizes.json.sizes[].slug
 ````yaml
