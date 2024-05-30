@@ -188,7 +188,6 @@ botguardo-botguardgatekeep
 znuny-znunylts-10
 litespeedtechnol-openlitespeeddja-20-04
 cpanel-cpanelwhmforubun
-ubuntu-24-04-x64
 quantrocket
 rabbitmq
 plesk-pleskcentos-7-9
@@ -211,6 +210,7 @@ victoriametrics-victoriametricss
 sharklabs-paperminecraftse
 sharklabs-kibana
 flowforge
+flowforge-flowfuse
 ````
 sizes.json.sizes[].slug
 ````yaml
