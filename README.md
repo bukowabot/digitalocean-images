@@ -180,7 +180,6 @@ smartarget-wordpresswoocomm
 varnishsoftware-varnishcache-18-04
 antmedia-antmediaserverco-18-04
 antmedia-antmediaserveren-18-04
-botguardo-botguardgatekeep
 znuny-znunylts-10
 litespeedtechnol-openlitespeeddja-20-04
 cpanel-cpanelwhmforubun
@@ -211,6 +210,7 @@ smartarget-prestashop
 multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
+minecraftforgeed
 ````
 sizes.json.sizes[].slug
 ````yaml
