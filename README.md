@@ -89,7 +89,6 @@ debian-12-x64
 rockylinux-9-x64
 debian-11-x64
 neuralmagic-deepsparseinfere
-centos-stream-8-x64
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
 devdojo-laravel-20-04
@@ -211,6 +210,7 @@ multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
+sharklabs-logstash
 ````
 sizes.json.sizes[].slug
 ````yaml
