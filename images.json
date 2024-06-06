@@ -2419,37 +2419,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-07-06T17:52:03Z",
-      "description": "CentOS Stream 8 x64",
-      "distribution": "CentOS",
-      "error_message": "",
-      "id": 136004902,
-      "min_disk_size": 10,
-      "name": "8 Stream x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.7,
-      "slug": "centos-stream-8-x64",
-      "status": "available",
-      "tags": [],
-      "type": "base"
-    },
-    {
       "created_at": "2023-07-19T15:10:33Z",
       "description": "Caligrafy 2.0 on 22.10",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-05-24T00:24:57Z",
+      "description": "LogStash on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 156813639,
+      "min_disk_size": 25,
+      "name": "LogStash on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.02,
+      "slug": "sharklabs-logstash",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 213
+    "total": 212
   }
 }
