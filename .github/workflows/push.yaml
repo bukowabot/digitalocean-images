@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c
+        uses: actions/checkout@b80ff79f1755d06ba70441c368a6fe801f5f3a62
         with:
           fetch-depth: 0
 
@@ -22,14 +22,14 @@ jobs:
         run: |
           ./generate.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@c8254de74fb2d4577fe54a38cde3186515e9931c
+      - uses: stefanzweifel/git-auto-commit-action@7d0ca8f849305c56d36f992cfb1519b1af5b33f8
         with:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
           commit_message: automatic generation
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@bd8c6b06eba6b3d25d72b7a1767993c0aeee42e7
+        uses: peaceiris/actions-gh-pages@0b7567fde6f7517edcc13d8ffa2d89cd8734d47c
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
