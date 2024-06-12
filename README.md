@@ -193,7 +193,6 @@ analythium-shinyproxy-20-04
 fastpanel-deb-9
 zabbix-zabbixserver62
 kandralabs-zulip-18-04
-eltrino-magento2opensour-20-04
 flexifyio-flexifyiomulticl-20-04
 3cxcommunication-3cx
 rocketchat-20-04
@@ -202,7 +201,6 @@ victoriametrics-victoriametricss
 sharklabs-paperminecraftse
 sharklabs-valkey
 flowforge
-flowforge-flowfuse
 superinverse-statusnook
 bitwarden
 smartarget-prestashop
@@ -210,7 +208,9 @@ multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
-sharklabs-logstash
+sharklabs-dropletnfsserver
+tebex-tebexrconadapter
+edgedb
 ````
 sizes.json.sizes[].slug
 ````yaml
