@@ -49,7 +49,6 @@ stacksfoundation-stacksblockchain
 seatablegmbh-seatable
 openboxes-openboxesserver
 ibsurgeon-hqbirdfirebird
-lemp-20-04
 openvpn-18-04
 kasmtechnologies-kasmworkspaces-18-04
 runcloud-runcloud2004-20-04
@@ -156,7 +155,6 @@ codelathe-filecloud-20-04
 chevereto-20-04
 ibsurgeon-hqbirdfirebirdv5
 chevereto-xrdebug
-sandflysecurity-20-04
 sharklabs-counterstrike2
 aqtraplatform
 ascensiosystemsi-onlyofficeeditor-18-04-4
@@ -208,9 +206,11 @@ multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
-sharklabs-dropletnfsserver
 tebex-tebexrconadapter
 edgedb
+hollaex-hollaexkit
+apliteni-keitaro
+ubuntu-24-04-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
