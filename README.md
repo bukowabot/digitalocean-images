@@ -149,7 +149,6 @@ litespeedtechnol-cyberpanel-20-04
 temporal
 jenkins
 passboltsa-passboltce-20-04
-docker-20-04
 ispmanager-ispmanager6
 codelathe-filecloud-20-04
 chevereto-20-04
@@ -211,6 +210,7 @@ edgedb
 hollaex-hollaexkit
 apliteni-keitaro
 ubuntu-24-04-x64
+rabbitmq
 ````
 sizes.json.sizes[].slug
 ````yaml

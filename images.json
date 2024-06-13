@@ -4279,37 +4279,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-02-15T14:29:00Z",
-      "description": "Docker 25.0.3 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 150187231,
-      "min_disk_size": 25,
-      "name": "Docker 25.0.3 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 4.23,
-      "slug": "docker-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-02-21T05:56:02Z",
       "description": "Ispmanager 6 6.90.2 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "base"
+    },
+    {
+      "created_at": "2024-06-01T00:08:03Z",
+      "description": "RabbitMQ 3.13.3 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 157368521,
+      "min_disk_size": 25,
+      "name": "RabbitMQ 3.13.3 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.21,
+      "slug": "rabbitmq",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
