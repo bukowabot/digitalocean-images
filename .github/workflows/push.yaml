@@ -26,3 +26,4 @@ jobs:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
           commit_message: automatic generation
+          token: ${{ secrets.PUSHER_TOKEN }}
