@@ -21,15 +21,12 @@ get "regions" "regions.json"
 get "kubernetes/options" "kubernetes.json"
 
 rm README.md || true
-printf "https://bukowa.github.io/digitalocean-images/\n\n" >> README.md
-printf "Referral \$200 link\n\n" >> README.md
-echo '<a href="https://www.digitalocean.com/?refcode=97c5fc2f1bd1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>' >> README.md
 printf "\n\n" >> README.md
 
-printf "[images](./images.json) ||| " >> README.md
-printf "[sizes](./sizes.json) ||| " >> README.md
-printf "[regions](./regions.json) |||\n\n" >> README.md
-printf "[kubernetes](./kubernetes.json)\n\n" >> README.md
+printf "[images](./images.json)         \n\n " >> README.md
+printf "[sizes](./sizes.json)           \n\n " >> README.md
+printf "[regions](./regions.json)       \n\n" >> README.md
+printf "[kubernetes](./kubernetes.json) \n\n" >> README.md
 
 simple "images.json" ".images[].slug"
 simple "sizes.json" ".sizes[].slug"
