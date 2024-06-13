@@ -27,4 +27,4 @@ jobs:
           # Defaults to "Apply automatic changes"
           commit_message: automatic generation
           token: ${{ secrets.PUSHER_TOKEN }}
-          commit_author: bukowabot@users.noreply.github.com
+          commit_author: bukowabot bukowabot@users.noreply.github.com
