@@ -30,6 +30,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@0b7567fde6f7517edcc13d8ffa2d89cd8734d47c
         with:
-          github_token: ${{ secrets.PUSHER_TOKEN }}
+          personal_token: ${{ secrets.PUSHER_TOKEN }}
           publish_dir: .
           enable_jekyll: true
