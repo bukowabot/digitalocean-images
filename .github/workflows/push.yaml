@@ -26,10 +26,3 @@ jobs:
           # Optional. Commit message for the created commit.
           # Defaults to "Apply automatic changes"
           commit_message: automatic generation
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@0b7567fde6f7517edcc13d8ffa2d89cd8734d47c
-        with:
-          personal_token: ${{ secrets.PUSHER_TOKEN }}
-          publish_dir: .
-          enable_jekyll: true
