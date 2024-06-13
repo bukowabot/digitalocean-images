@@ -1,13 +1,12 @@
-https://bukowa.github.io/digitalocean-images/
-
-Referral $200 link
-
-<a href="https://www.digitalocean.com/?refcode=97c5fc2f1bd1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 
-[images](./images.json) ||| [sizes](./sizes.json) ||| [regions](./regions.json) |||
+[images](./images.json)         
 
-[kubernetes](./kubernetes.json)
+ [sizes](./sizes.json)           
+
+ [regions](./regions.json)       
+
+[kubernetes](./kubernetes.json) 
 
 images.json.images[].slug
 ````yaml
