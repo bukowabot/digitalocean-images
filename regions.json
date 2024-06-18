@@ -616,6 +616,7 @@
         "so-16vcpu-128gb",
         "m6-16vcpu-128gb",
         "gd-32vcpu-128gb",
+        "c2-48vcpu-96gb",
         "g-32vcpu-128gb-intel",
         "m3-24vcpu-192gb",
         "g-40vcpu-160gb",
