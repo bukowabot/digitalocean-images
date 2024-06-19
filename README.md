@@ -267,3 +267,4 @@ kubernetes.json.options.versions[].kubernetes_version
 1.28.10
 1.27.14
 ````
+|
