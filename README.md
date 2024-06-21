@@ -168,7 +168,6 @@ harperdb-18-04
 postalsystemso-emailengine
 cloudron-20-04
 multiversx-multiversxobserv
-yeastar-yeastarpseriesph
 sharklabs-anaconda
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
@@ -210,6 +209,7 @@ hollaex-hollaexkit
 apliteni-keitaro
 ubuntu-24-04-x64
 rabbitmq
+depomo-chartbrew
 ````
 sizes.json.sizes[].slug
 ````yaml
