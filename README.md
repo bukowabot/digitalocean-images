@@ -118,7 +118,6 @@ csmm-20-04
 clickhouse
 wordpress-20-04
 fedora-39-x64
-supernetworks-spr
 deskpro
 mastodon-18-04
 ibsurgeon-hqbirdfirebirdv2
@@ -183,7 +182,6 @@ plesk-20-04
 blueskysocialpds
 tips4designsrl-uxwizz
 searchblox-searchbloxenterp-7-6
-analythium-shinyproxy-20-04
 3cxcommunication-3cxv18
 fastpanel-deb-9
 zabbix-zabbixserver62
@@ -210,6 +208,8 @@ apliteni-keitaro
 ubuntu-24-04-x64
 rabbitmq
 depomo-chartbrew
+botguardo-botguardgatekeep
+hashicorpvault
 ````
 sizes.json.sizes[].slug
 ````yaml
