@@ -266,4 +266,3 @@ kubernetes.json.options.versions[].kubernetes_version
 1.29.5
 1.28.10
 ````
-trigger
