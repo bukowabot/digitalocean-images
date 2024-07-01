@@ -60,7 +60,6 @@ mern
 kromit-titra-20-04
 mean
 photoprism-20-04
-ubuntu-22-04-x64
 sharklabs-testproject
 openblocks
 farm
@@ -113,7 +112,6 @@ spinupwp
 kuyio-konnectvpna
 wpclouddeploy
 mariadb
-haltdos-haltdoscommunity
 csmm-20-04
 clickhouse
 wordpress-20-04
@@ -140,7 +138,6 @@ saltcorn-20-04
 victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
 eummena-moodle-10
-border0
 microwebercms-microweber-20-04
 litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
@@ -167,7 +164,6 @@ harperdb-18-04
 postalsystemso-emailengine
 cloudron-20-04
 multiversx-multiversxobserv
-sharklabs-anaconda
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
 varnishsoftware-varnishcache-18-04
@@ -188,7 +184,6 @@ zabbix-zabbixserver62
 kandralabs-zulip-18-04
 flexifyio-flexifyiomulticl-20-04
 3cxcommunication-3cx
-rocketchat-20-04
 monetdbsolutions-monetdb
 victoriametrics-victoriametricss
 sharklabs-paperminecraftse
@@ -205,11 +200,16 @@ tebex-tebexrconadapter
 edgedb
 hollaex-hollaexkit
 apliteni-keitaro
-ubuntu-24-04-x64
 rabbitmq
 depomo-chartbrew
 botguardo-botguardgatekeep
 hashicorpvault
+sandflysecurity-20-04
+flowforge-flowfuse
+docker-20-04
+eltrino-magento2opensour-20-04
+sharklabs-kibana
+decyphertekio-jenkinscicd
 ````
 sizes.json.sizes[].slug
 ````yaml
