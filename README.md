@@ -101,7 +101,6 @@ origintrail-origintraildkgte
 origintrail-origintraildkgma
 caprover-18-04
 elasticsearch
-meilisas-meilisearch-10
 osmosislabs-osmosis
 ghost-20-04
 ubuntu-23-10-x64
@@ -206,10 +205,11 @@ botguardo-botguardgatekeep
 hashicorpvault
 sandflysecurity-20-04
 flowforge-flowfuse
-docker-20-04
 eltrino-magento2opensour-20-04
 sharklabs-kibana
 decyphertekio-jenkinscicd
+decyphertekio-misp
+decyphertekio-uptimekuma
 ````
 sizes.json.sizes[].slug
 ````yaml

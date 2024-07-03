@@ -2822,37 +2822,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-09-28T12:45:13Z",
-      "description": "MeiliSearch 1.4.0 on Debian 11 (Bullseye)",
-      "distribution": "Debian",
-      "error_message": "",
-      "id": 141322652,
-      "min_disk_size": 25,
-      "name": "MeiliSearch 1.4.0 on Debian 11 (Bullseye)",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 1.65,
-      "slug": "meilisas-meilisearch-10",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-09-28T15:16:44Z",
       "description": "Osmosis 19.2.0 on Ubuntu 22.04",
       "distribution": "Ubuntu",
@@ -6077,37 +6046,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-06-10T16:14:04Z",
-      "description": "Docker on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 158062325,
-      "min_disk_size": 25,
-      "name": "Docker on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 4.28,
-      "slug": "docker-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-06-12T13:57:30Z",
       "description": "Magento 2 Open Source 1.6.11 on Ubuntu 20.04 (LTS)",
       "distribution": "Ubuntu",
@@ -6199,6 +6137,68 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-06-12T17:31:03Z",
+      "description": "MISP 2.4.192 on Debian 12",
+      "distribution": "Debian",
+      "error_message": "",
+      "id": 158206509,
+      "min_disk_size": 60,
+      "name": "MISP 2.4.192 on Debian 12",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.11,
+      "slug": "decyphertekio-misp",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-06-12T19:38:01Z",
+      "description": "Uptime Kuma 1.23.13 on Debian 12",
+      "distribution": "Debian",
+      "error_message": "",
+      "id": 158207607,
+      "min_disk_size": 50,
+      "name": "Uptime Kuma 1.23.13 on Debian 12",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.11,
+      "slug": "decyphertekio-uptimekuma",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 219
+    "total": 221
   }
 }
