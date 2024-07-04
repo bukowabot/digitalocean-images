@@ -10,7 +10,6 @@
 
 images.json.images[].slug
 ````yaml
-centos-7-x64
 debian-10-x64
 convoy
 ubuntu-20-04-x64
@@ -210,6 +209,7 @@ sharklabs-kibana
 decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
+plesk-pleskalmalinux
 ````
 sizes.json.sizes[].slug
 ````yaml

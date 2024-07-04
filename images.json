@@ -1,37 +1,6 @@
 {
   "images": [
     {
-      "created_at": "2022-04-18T21:32:47Z",
-      "description": "CentOS 7 x64",
-      "distribution": "CentOS",
-      "error_message": "",
-      "id": 106433672,
-      "min_disk_size": 9,
-      "name": "7 x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.43,
-      "slug": "centos-7-x64",
-      "status": "available",
-      "tags": [],
-      "type": "base"
-    },
-    {
       "created_at": "2022-04-20T20:16:10Z",
       "description": "Debian 10 Image",
       "distribution": "Debian",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-06-13T15:57:30Z",
+      "description": "Plesk (AlmaLinux) 18.0.61 on AlmaLinux 9",
+      "distribution": "AlmaLinux",
+      "error_message": "",
+      "id": 158269219,
+      "min_disk_size": 25,
+      "name": "Plesk (AlmaLinux) 18.0.61 on AlmaLinux 9",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.39,
+      "slug": "plesk-pleskalmalinux",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 221
+    "total": 220
   }
 }
