@@ -1,37 +1,6 @@
 {
   "images": [
     {
-      "created_at": "2022-04-20T20:16:10Z",
-      "description": "Debian 10 Image",
-      "distribution": "Debian",
-      "error_message": "",
-      "id": 106569146,
-      "min_disk_size": 7,
-      "name": "10 x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.35,
-      "slug": "debian-10-x64",
-      "status": "available",
-      "tags": [],
-      "type": "base"
-    },
-    {
       "created_at": "2022-07-11T09:54:32Z",
       "description": "Convoy 0.6.0 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5953,6 +5922,37 @@
       "type": "application"
     },
     {
+      "created_at": "2024-06-13T17:45:34Z",
+      "description": "ML in a Box Single GPU",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 158278081,
+      "min_disk_size": 25,
+      "name": "ML in a Box Single GPU",
+      "public": true,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 9.21,
+      "slug": "mliab-single-gpu",
+      "status": "available",
+      "tags": [],
+      "type": "api_only"
+    },
+    {
       "created_at": "2024-06-19T03:04:30Z",
       "description": "Yeastar P-Series Phone System 83.13.0.30 on Ubuntu 20.04 LTS",
       "distribution": "Ubuntu",
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 220
+    "total": 221
   }
 }

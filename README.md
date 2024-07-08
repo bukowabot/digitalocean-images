@@ -10,7 +10,6 @@
 
 images.json.images[].slug
 ````yaml
-debian-10-x64
 convoy
 ubuntu-20-04-x64
 nakama-18-04
@@ -202,6 +201,7 @@ eltrino-magento2opensour-20-04
 decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
+mliab-single-gpu
 yeastar-yeastarpseriesph
 sharklabs-dropletnfsserver
 nodejs-20-04
