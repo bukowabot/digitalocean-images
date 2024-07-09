@@ -170,14 +170,12 @@ cpanel-cpanelwhmforubun
 quantrocket
 plesk-pleskcentos-7-9
 blueskysocialpds
-tips4designsrl-uxwizz
 searchblox-searchbloxenterp-7-6
 3cxcommunication-3cxv18
 fastpanel-deb-9
 zabbix-zabbixserver62
 kandralabs-zulip-18-04
 flexifyio-flexifyiomulticl-20-04
-3cxcommunication-3cx
 monetdbsolutions-monetdb
 victoriametrics-victoriametricss
 sharklabs-paperminecraftse
@@ -210,6 +208,8 @@ lemp-20-04
 haltdos-haltdoscommunity
 border0
 analythium-shinyproxy-20-04
+supernetworks-spr
+sharklabs-conduktorconsole
 ````
 sizes.json.sizes[].slug
 ````yaml
