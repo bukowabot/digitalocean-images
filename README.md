@@ -79,7 +79,6 @@ questdb-20-04
 sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
-debian-12-x64
 rockylinux-9-x64
 debian-11-x64
 neuralmagic-deepsparseinfere
@@ -189,7 +188,6 @@ mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
 tebex-tebexrconadapter
 edgedb
-hollaex-hollaexkit
 apliteni-keitaro
 depomo-chartbrew
 hashicorpvault
@@ -210,6 +208,8 @@ border0
 analythium-shinyproxy-20-04
 supernetworks-spr
 sharklabs-conduktorconsole
+sharklabs-anaconda
+multiversx-multiversxtestne
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -262,7 +262,7 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.30.1
-1.29.5
-1.28.10
+1.30.2
+1.29.6
+1.28.11
 ````
