@@ -99,7 +99,6 @@ caprover-18-04
 elasticsearch
 osmosislabs-osmosis
 ghost-20-04
-ubuntu-23-10-x64
 sharklabs-erpodoo
 almalinux-9-x64
 rockylinux-8-x64
@@ -199,7 +198,6 @@ decyphertekio-misp
 decyphertekio-uptimekuma
 mliab-single-gpu
 yeastar-yeastarpseriesph
-sharklabs-dropletnfsserver
 nodejs-20-04
 docker-20-04
 lemp-20-04
@@ -210,6 +208,8 @@ supernetworks-spr
 sharklabs-conduktorconsole
 sharklabs-anaconda
 multiversx-multiversxtestne
+fedora-40-x64
+rocketchat-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
