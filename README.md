@@ -108,7 +108,6 @@ wpclouddeploy
 mariadb
 csmm-20-04
 clickhouse
-wordpress-20-04
 fedora-39-x64
 deskpro
 mastodon-18-04
@@ -198,9 +197,7 @@ decyphertekio-misp
 decyphertekio-uptimekuma
 mliab-single-gpu
 yeastar-yeastarpseriesph
-nodejs-20-04
 docker-20-04
-lemp-20-04
 haltdos-haltdoscommunity
 border0
 analythium-shinyproxy-20-04
@@ -210,6 +207,9 @@ sharklabs-anaconda
 multiversx-multiversxtestne
 fedora-40-x64
 rocketchat-20-04
+meilisas-meilisearch-10
+plesk-20-04
+plesk-pleskalmalinux
 ````
 sizes.json.sizes[].slug
 ````yaml
