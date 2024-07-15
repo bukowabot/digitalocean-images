@@ -159,8 +159,6 @@ multiversx-multiversxobserv
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
 varnishsoftware-varnishcache-18-04
-antmedia-antmediaserverco-18-04
-antmedia-antmediaserveren-18-04
 znuny-znunylts-10
 litespeedtechnol-openlitespeeddja-20-04
 cpanel-cpanelwhmforubun
@@ -210,6 +208,8 @@ rocketchat-20-04
 meilisas-meilisearch-10
 plesk-20-04
 plesk-pleskalmalinux
+ubuntu-22-04-x64
+sharklabs-keycloak
 ````
 sizes.json.sizes[].slug
 ````yaml
