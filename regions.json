@@ -583,6 +583,7 @@
         "s-8vcpu-32gb-640gb-intel",
         "m3-4vcpu-32gb",
         "c-8-intel",
+        "m3-4vcpu-32gb-intel",
         "c2-8vcpu-16gb-intel",
         "g-8vcpu-32gb",
         "so-4vcpu-32gb",
