@@ -187,8 +187,6 @@ edgedb
 apliteni-keitaro
 depomo-chartbrew
 hashicorpvault
-sandflysecurity-20-04
-flowforge-flowfuse
 eltrino-magento2opensour-20-04
 decyphertekio-jenkinscicd
 decyphertekio-misp
@@ -202,7 +200,6 @@ supernetworks-spr
 sharklabs-conduktorconsole
 sharklabs-anaconda
 fedora-40-x64
-rocketchat-20-04
 multiversx-multiversxtestne
 meilisas-meilisearch-10
 plesk-20-04
@@ -210,6 +207,9 @@ plesk-pleskalmalinux
 ubuntu-22-04-x64
 sharklabs-keycloak
 botguardo-botguardgatekeep
+bitwarden
+axlabs-1clicknodeforneo
+rabbitmq
 ````
 sizes.json.sizes[].slug
 ````yaml
