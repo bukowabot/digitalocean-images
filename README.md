@@ -209,7 +209,7 @@ sharklabs-keycloak
 botguardo-botguardgatekeep
 bitwarden
 axlabs-1clicknodeforneo
-rabbitmq
+hollaex-hollaexkit
 ````
 sizes.json.sizes[].slug
 ````yaml

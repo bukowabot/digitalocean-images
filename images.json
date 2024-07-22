@@ -6170,13 +6170,13 @@
       "type": "application"
     },
     {
-      "created_at": "2024-07-05T00:19:55Z",
-      "description": "RabbitMQ 3.13.4 on Ubuntu 22.04",
+      "created_at": "2024-07-05T11:00:42Z",
+      "description": "HollaEx Kit 2.11.3 on Ubuntu 20.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 159821774,
-      "min_disk_size": 25,
-      "name": "RabbitMQ 3.13.4 on Ubuntu 22.04",
+      "id": 159850202,
+      "min_disk_size": 160,
+      "name": "HollaEx Kit 2.11.3 on Ubuntu 20.04",
       "public": false,
       "regions": [
         "tor1",
@@ -6194,8 +6194,8 @@
         "ams3",
         "ams2"
       ],
-      "size_gigabytes": 1.85,
-      "slug": "rabbitmq",
+      "size_gigabytes": 3.21,
+      "slug": "hollaex-hollaexkit",
       "status": "available",
       "tags": [],
       "type": "application"
