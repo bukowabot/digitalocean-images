@@ -111,9 +111,6 @@ clickhouse
 fedora-39-x64
 deskpro
 mastodon-18-04
-ibsurgeon-hqbirdfirebirdv2
-ibsurgeon-hqbirdfirebirdv3
-ibsurgeon-hqbirdfirebirdv4
 flask
 django-20-04
 supabase
@@ -139,7 +136,6 @@ passboltsa-passboltce-20-04
 ispmanager-ispmanager6
 codelathe-filecloud-20-04
 chevereto-20-04
-ibsurgeon-hqbirdfirebirdv5
 chevereto-xrdebug
 sharklabs-counterstrike2
 aqtraplatform
@@ -149,7 +145,6 @@ ossrs-srs
 nirvatosoftware-nirvashare-20-04
 cpanel-cpanelwhmforalma
 airflow
-devrel-teleport-20-04
 jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
@@ -210,6 +205,11 @@ botguardo-botguardgatekeep
 bitwarden
 axlabs-1clicknodeforneo
 hollaex-hollaexkit
+openpanel
+mliab-multi-gpu
+mjmair-inventree
+3cxcommunication-3cx
+tips4designsrl-uxwizz
 ````
 sizes.json.sizes[].slug
 ````yaml
