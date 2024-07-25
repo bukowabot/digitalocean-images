@@ -149,7 +149,6 @@ jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
 postalsystemso-emailengine
-cloudron-20-04
 multiversx-multiversxobserv
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
@@ -167,7 +166,6 @@ zabbix-zabbixserver62
 kandralabs-zulip-18-04
 flexifyio-flexifyiomulticl-20-04
 monetdbsolutions-monetdb
-victoriametrics-victoriametricss
 sharklabs-paperminecraftse
 sharklabs-valkey
 flowforge
@@ -210,6 +208,8 @@ mliab-multi-gpu
 mjmair-inventree
 3cxcommunication-3cx
 tips4designsrl-uxwizz
+ubuntu-24-04-x64
+debian-12-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
