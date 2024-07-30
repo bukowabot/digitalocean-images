@@ -84,7 +84,6 @@ debian-11-x64
 neuralmagic-deepsparseinfere
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
-devdojo-laravel-20-04
 discourse-20-04
 linuxgsm
 haltdos-haltdosprowaf
@@ -163,7 +162,6 @@ searchblox-searchbloxenterp-7-6
 3cxcommunication-3cxv18
 fastpanel-deb-9
 zabbix-zabbixserver62
-kandralabs-zulip-18-04
 flexifyio-flexifyiomulticl-20-04
 monetdbsolutions-monetdb
 sharklabs-paperminecraftse
@@ -180,7 +178,6 @@ edgedb
 apliteni-keitaro
 depomo-chartbrew
 hashicorpvault
-eltrino-magento2opensour-20-04
 decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
@@ -205,11 +202,14 @@ axlabs-1clicknodeforneo
 hollaex-hollaexkit
 openpanel
 mliab-multi-gpu
-mjmair-inventree
 3cxcommunication-3cx
 tips4designsrl-uxwizz
 ubuntu-24-04-x64
 debian-12-x64
+doteamaccount-pocketbase
+wordpress-20-04
+docker-20-04
+sharklabs-kibana
 ````
 sizes.json.sizes[].slug
 ````yaml
