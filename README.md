@@ -206,10 +206,10 @@ mliab-multi-gpu
 tips4designsrl-uxwizz
 ubuntu-24-04-x64
 debian-12-x64
-doteamaccount-pocketbase
 wordpress-20-04
 docker-20-04
-sharklabs-kibana
+antmedia-antmediaserveren-18-04
+antmedia-antmediaserverco-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
