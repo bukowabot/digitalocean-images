@@ -151,7 +151,6 @@ postalsystemso-emailengine
 multiversx-multiversxobserv
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
-varnishsoftware-varnishcache-18-04
 znuny-znunylts-10
 litespeedtechnol-openlitespeeddja-20-04
 cpanel-cpanelwhmforubun
@@ -207,9 +206,10 @@ tips4designsrl-uxwizz
 ubuntu-24-04-x64
 debian-12-x64
 wordpress-20-04
-docker-20-04
 antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
+ibsurgeon-hqbirdfirebirdv5
+sandflysecurity-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
