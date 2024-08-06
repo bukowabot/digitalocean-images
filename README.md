@@ -123,7 +123,6 @@ swarmfoundation-swarmlightnode
 gitlab-gitlabenterprise-20-04
 perforce-perforcehelixcor
 saltcorn-20-04
-victoriametrics-victorialogssing
 litespeedtechnol-openlitespeedjoo-20-04
 eummena-moodle-10
 microwebercms-microweber-20-04
@@ -210,6 +209,7 @@ antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
 ibsurgeon-hqbirdfirebirdv5
 sandflysecurity-20-04
+ibsurgeon-hqbirdfirebirdv4
 ````
 sizes.json.sizes[].slug
 ````yaml
