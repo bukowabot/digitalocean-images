@@ -72,7 +72,6 @@ zabbix-zabbixserver60
 gravitl-netmaker
 activepieces
 chaarmiworlds-metaverse
-sharklabs-jupyternotebook
 dreamfactory
 dokku-20-04
 questdb-20-04
@@ -97,7 +96,6 @@ origintrail-origintraildkgma
 caprover-18-04
 elasticsearch
 osmosislabs-osmosis
-ghost-20-04
 sharklabs-erpodoo
 almalinux-9-x64
 rockylinux-8-x64
@@ -210,6 +208,8 @@ antmedia-antmediaserverco-18-04
 ibsurgeon-hqbirdfirebirdv5
 sandflysecurity-20-04
 ibsurgeon-hqbirdfirebirdv4
+ibsurgeon-hqbirdfirebirdv3
+ibsurgeon-hqbirdfirebirdv2
 ````
 sizes.json.sizes[].slug
 ````yaml
