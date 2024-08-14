@@ -206,10 +206,10 @@ wordpress-20-04
 antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
 ibsurgeon-hqbirdfirebirdv5
-sandflysecurity-20-04
 ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv2
+babybuddy
 ````
 sizes.json.sizes[].slug
 ````yaml

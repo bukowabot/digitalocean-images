@@ -6077,37 +6077,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-07-15T23:52:30Z",
-      "description": "Sandfly Security 5.1.0 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 160613727,
-      "min_disk_size": 50,
-      "name": "Sandfly Security 5.1.0 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.76,
-      "slug": "sandflysecurity-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-07-16T03:01:28Z",
       "description": "HQbird Firebird v4.0 4.0.5.3109-11.0.0703 on CentOS 9.x",
       "distribution": "CentOS",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-07-20T23:11:16Z",
+      "description": "Baby Buddy 2.5.0 on Ubuntu 24.04 (LTS)",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 160978396,
+      "min_disk_size": 25,
+      "name": "Baby Buddy 2.5.0 on Ubuntu 24.04 (LTS)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.91,
+      "slug": "babybuddy",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 225
+    "total": 226
   }
 }
