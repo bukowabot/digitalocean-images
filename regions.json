@@ -67,6 +67,7 @@
         "m-4vcpu-32gb",
         "c-8",
         "c2-8vcpu-16gb",
+        "s-8vcpu-32gb-640gb-intel",
         "m-4vcpu-32gb-intel",
         "m3-4vcpu-32gb",
         "c-8-intel",
