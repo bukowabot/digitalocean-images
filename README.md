@@ -150,7 +150,6 @@ drakkarsoftware-octobot
 smartarget-wordpresswoocomm
 znuny-znunylts-10
 litespeedtechnol-openlitespeeddja-20-04
-cpanel-cpanelwhmforubun
 quantrocket
 plesk-pleskcentos-7-9
 blueskysocialpds
@@ -186,7 +185,6 @@ supernetworks-spr
 sharklabs-conduktorconsole
 sharklabs-anaconda
 fedora-40-x64
-multiversx-multiversxtestne
 meilisas-meilisearch-10
 plesk-20-04
 plesk-pleskalmalinux
@@ -210,6 +208,8 @@ ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv2
 babybuddy
+rabbitmq
+nodejs-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
