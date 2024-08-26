@@ -191,9 +191,7 @@ plesk-pleskalmalinux
 ubuntu-22-04-x64
 sharklabs-keycloak
 botguardo-botguardgatekeep
-bitwarden
 axlabs-1clicknodeforneo
-hollaex-hollaexkit
 openpanel
 mliab-multi-gpu
 3cxcommunication-3cx
@@ -201,8 +199,6 @@ tips4designsrl-uxwizz
 ubuntu-24-04-x64
 debian-12-x64
 wordpress-20-04
-antmedia-antmediaserveren-18-04
-antmedia-antmediaserverco-18-04
 ibsurgeon-hqbirdfirebirdv5
 ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv3
@@ -210,6 +206,10 @@ ibsurgeon-hqbirdfirebirdv2
 babybuddy
 rabbitmq
 nodejs-20-04
+planesoftware-planecommunityed
+devrel-teleport-20-04
+eltrino-magento2opensour-20-04
+victoriametrics-victoriametricss
 ````
 sizes.json.sizes[].slug
 ````yaml
