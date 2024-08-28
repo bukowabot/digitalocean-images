@@ -146,8 +146,8 @@
     ],
     "versions": [
       {
-        "kubernetes_version": "1.30.2",
-        "slug": "1.30.2-do.0",
+        "kubernetes_version": "1.30.4",
+        "slug": "1.30.4-do.0",
         "supported_features": [
           "cluster-autoscaler",
           "docr-integration",
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "kubernetes_version": "1.29.6",
-        "slug": "1.29.6-do.0",
+        "kubernetes_version": "1.29.8",
+        "slug": "1.29.8-do.0",
         "supported_features": [
           "cluster-autoscaler",
           "docr-integration",
@@ -166,8 +166,8 @@
         ]
       },
       {
-        "kubernetes_version": "1.28.11",
-        "slug": "1.28.11-do.0",
+        "kubernetes_version": "1.28.13",
+        "slug": "1.28.13-do.0",
         "supported_features": [
           "cluster-autoscaler",
           "docr-integration",
