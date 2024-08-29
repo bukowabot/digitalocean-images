@@ -109,7 +109,6 @@ fedora-39-x64
 deskpro
 mastodon-18-04
 flask
-django-20-04
 supabase
 codertechnologie-vscodeserver
 sharklabs-codeserver1
@@ -124,11 +123,9 @@ saltcorn-20-04
 litespeedtechnol-openlitespeedjoo-20-04
 eummena-moodle-10
 microwebercms-microweber-20-04
-litespeedtechnol-openlitespeedwor-20-04
 litespeedtechnol-cyberpanel-20-04
 temporal
 jenkins
-passboltsa-passboltce-20-04
 ispmanager-ispmanager6
 codelathe-filecloud-20-04
 chevereto-20-04
@@ -185,7 +182,6 @@ supernetworks-spr
 sharklabs-conduktorconsole
 sharklabs-anaconda
 fedora-40-x64
-meilisas-meilisearch-10
 plesk-20-04
 plesk-pleskalmalinux
 ubuntu-22-04-x64
@@ -210,6 +206,10 @@ planesoftware-planecommunityed
 devrel-teleport-20-04
 eltrino-magento2opensour-20-04
 victoriametrics-victoriametricss
+devdojo-laravel-20-04
+mjmair-inventree
+varnishsoftware-varnishcache-18-04
+flowforge-flowfuse
 ````
 sizes.json.sizes[].slug
 ````yaml
