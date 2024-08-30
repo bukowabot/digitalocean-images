@@ -209,7 +209,7 @@ victoriametrics-victoriametricss
 devdojo-laravel-20-04
 mjmair-inventree
 varnishsoftware-varnishcache-18-04
-flowforge-flowfuse
+kandralabs-zulip-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml

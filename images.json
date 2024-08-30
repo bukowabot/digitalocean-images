@@ -6170,13 +6170,13 @@
       "type": "application"
     },
     {
-      "created_at": "2024-08-02T16:16:49Z",
-      "description": "FlowFuse 2.7.1 on Ubuntu 22.04",
+      "created_at": "2024-08-03T01:28:43Z",
+      "description": "Zulip 9.1 on Ubuntu 22.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 161941990,
-      "min_disk_size": 25,
-      "name": "FlowFuse 2.7.1 on Ubuntu 22.04",
+      "id": 161970080,
+      "min_disk_size": 50,
+      "name": "Zulip 9.1 on Ubuntu 22.04",
       "public": false,
       "regions": [
         "tor1",
@@ -6194,8 +6194,8 @@
         "ams3",
         "ams2"
       ],
-      "size_gigabytes": 7.25,
-      "slug": "flowforge-flowfuse",
+      "size_gigabytes": 5.28,
+      "slug": "kandralabs-zulip-18-04",
       "status": "available",
       "tags": [],
       "type": "application"
