@@ -262,7 +262,8 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.30.4
-1.29.8
-1.28.13
+1.31.1
+1.30.5
+1.29.9
+1.28.14
 ````
