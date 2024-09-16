@@ -16,7 +16,6 @@ nakama-18-04
 bigcloud-odoo
 rstudio-20-04
 invoiceninja-20-0-4
-wordsmythcreatio-aresmush
 appsmith-18-04
 npool
 botguardo-botguardingressc
@@ -210,6 +209,7 @@ autopanel-postfix
 sandflysecurity-20-04
 sharklabs-kibana
 sharklabs-logstash
+sharklabs-dropletnfsserver
 ````
 sizes.json.sizes[].slug
 ````yaml
