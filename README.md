@@ -146,7 +146,6 @@ searchblox-searchbloxenterp-7-6
 3cxcommunication-3cxv18
 fastpanel-deb-9
 zabbix-zabbixserver62
-flexifyio-flexifyiomulticl-20-04
 monetdbsolutions-monetdb
 sharklabs-paperminecraftse
 sharklabs-valkey
@@ -157,7 +156,6 @@ multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
-tebex-tebexrconadapter
 edgedb
 apliteni-keitaro
 depomo-chartbrew
@@ -196,11 +194,9 @@ rabbitmq
 nodejs-20-04
 planesoftware-planecommunityed
 devrel-teleport-20-04
-eltrino-magento2opensour-20-04
 victoriametrics-victoriametricss
 devdojo-laravel-20-04
 varnishsoftware-varnishcache-18-04
-kandralabs-zulip-18-04
 victoriametrics-victorialogssing
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
@@ -210,6 +206,10 @@ sandflysecurity-20-04
 sharklabs-kibana
 sharklabs-logstash
 sharklabs-dropletnfsserver
+lemp-20-04
+docker-20-04
+cpanel-cpanelwhmforubun
+laravelforge
 ````
 sizes.json.sizes[].slug
 ````yaml
