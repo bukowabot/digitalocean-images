@@ -4745,12 +4745,12 @@
     },
     {
       "created_at": "2024-06-13T17:45:34Z",
-      "description": "ML in a Box Single GPU",
+      "description": "ML in a Box Single GPU Base Image",
       "distribution": "Ubuntu",
       "error_message": "",
       "id": 158278081,
       "min_disk_size": 25,
-      "name": "ML in a Box Single GPU",
+      "name": "ML in a Box Single GPU Base Image",
       "public": true,
       "regions": [
         "tor1",
