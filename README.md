@@ -157,7 +157,6 @@ severalnines-clustercontrol-20-04
 mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
 edgedb
-apliteni-keitaro
 depomo-chartbrew
 hashicorpvault
 decyphertekio-jenkinscicd
@@ -206,10 +205,11 @@ sandflysecurity-20-04
 sharklabs-kibana
 sharklabs-logstash
 sharklabs-dropletnfsserver
-lemp-20-04
-docker-20-04
 cpanel-cpanelwhmforubun
 laravelforge
+laravelforge-laravelforgeubun
+cloudron-20-04
+multiversx-multiversxtestne
 ````
 sizes.json.sizes[].slug
 ````yaml
