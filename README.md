@@ -162,7 +162,6 @@ hashicorpvault
 decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
-mliab-single-gpu
 yeastar-yeastarpseriesph
 haltdos-haltdoscommunity
 border0
@@ -178,7 +177,6 @@ sharklabs-keycloak
 botguardo-botguardgatekeep
 axlabs-1clicknodeforneo
 openpanel
-mliab-multi-gpu
 3cxcommunication-3cx
 tips4designsrl-uxwizz
 ubuntu-24-04-x64
@@ -202,14 +200,16 @@ sharklabs-jupyternotebook
 ghost-20-04
 autopanel-postfix
 sandflysecurity-20-04
-sharklabs-kibana
-sharklabs-logstash
-sharklabs-dropletnfsserver
 cpanel-cpanelwhmforubun
 laravelforge
 laravelforge-laravelforgeubun
 cloudron-20-04
 multiversx-multiversxtestne
+pirichaintechnol-pirisubchainsnod
+autopanel-selfhostedemails
+sharklabs-ollamawithopenwe
+meilisas-meilisearch-10
+litespeedtechnol-openlitespeedwor-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
