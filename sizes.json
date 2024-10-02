@@ -18,7 +18,7 @@
         }
       ],
       "memory": 512,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.00595,
       "price_monthly": 4,
       "regions": [
@@ -47,7 +47,7 @@
         }
       ],
       "memory": 1024,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.00893,
       "price_monthly": 6,
       "regions": [
@@ -82,7 +82,7 @@
         }
       ],
       "memory": 1024,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.01042,
       "price_monthly": 7,
       "regions": [
@@ -116,7 +116,7 @@
         }
       ],
       "memory": 1024,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.01042,
       "price_monthly": 7,
       "regions": [
@@ -150,7 +150,7 @@
         }
       ],
       "memory": 1024,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.0119,
       "price_monthly": 8,
       "regions": [
@@ -184,7 +184,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.01786,
       "price_monthly": 12,
       "regions": [
@@ -219,7 +219,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.02083,
       "price_monthly": 14,
       "regions": [
@@ -253,7 +253,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.02083,
       "price_monthly": 14,
       "regions": [
@@ -287,7 +287,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.02381,
       "price_monthly": 16,
       "regions": [
@@ -321,7 +321,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.02679,
       "price_monthly": 18,
       "regions": [
@@ -356,7 +356,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.03125,
       "price_monthly": 21,
       "regions": [
@@ -390,7 +390,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.03125,
       "price_monthly": 21,
       "regions": [
@@ -424,7 +424,7 @@
         }
       ],
       "memory": 2048,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.03571,
       "price_monthly": 24,
       "regions": [
@@ -458,7 +458,7 @@
         }
       ],
       "memory": 4096,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.03571,
       "price_monthly": 24,
       "regions": [
@@ -493,7 +493,7 @@
         }
       ],
       "memory": 4096,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.04167,
       "price_monthly": 28,
       "regions": [
@@ -527,7 +527,7 @@
         }
       ],
       "memory": 4096,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.04167,
       "price_monthly": 28,
       "regions": [
@@ -561,7 +561,7 @@
         }
       ],
       "memory": 4096,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.04762,
       "price_monthly": 32,
       "regions": [
@@ -595,7 +595,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.0625,
       "price_monthly": 42,
       "regions": [
@@ -627,7 +627,7 @@
         }
       ],
       "memory": 4096,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.0625,
       "price_monthly": 42,
       "regions": [
@@ -662,7 +662,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.07143,
       "price_monthly": 48,
       "regions": [
@@ -694,7 +694,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.07143,
       "price_monthly": 48,
       "regions": [
@@ -729,7 +729,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.08333,
       "price_monthly": 56,
       "regions": [
@@ -763,7 +763,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.08333,
       "price_monthly": 56,
       "regions": [
@@ -797,7 +797,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.09375,
       "price_monthly": 63,
       "regions": [
@@ -832,7 +832,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.09524,
       "price_monthly": 64,
       "regions": [
@@ -866,7 +866,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.10119,
       "price_monthly": 68,
       "regions": [
@@ -901,7 +901,7 @@
         }
       ],
       "memory": 16384,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.125,
       "price_monthly": 84,
       "regions": [
@@ -932,7 +932,7 @@
         }
       ],
       "memory": 16384,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.125,
       "price_monthly": 84,
       "regions": [
@@ -967,7 +967,7 @@
         }
       ],
       "memory": 8192,
-      "networking_througput": 2000,
+      "networking_throughput": 2000,
       "price_hourly": 0.125,
       "price_monthly": 84,
       "regions": [
