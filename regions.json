@@ -301,7 +301,8 @@
         "so-32vcpu-256gb",
         "m6-32vcpu-256gb",
         "so1_5-32vcpu-256gb-intel",
-        "so1_5-32vcpu-256gb"
+        "so1_5-32vcpu-256gb",
+        "gpu-h100x1-80gb"
       ],
       "slug": "nyc2"
     },
@@ -1217,7 +1218,9 @@
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
         "so-48vcpu-384gb-intel",
-        "gpu-h100x8-640gb-contracted"
+        "gpu-h100x1-80gb",
+        "gpu-h100x8-640gb-contracted",
+        "gpu-h100x8-640gb"
       ],
       "slug": "tor1"
     },
