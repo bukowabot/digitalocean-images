@@ -192,14 +192,12 @@ nodejs-20-04
 planesoftware-planecommunityed
 devrel-teleport-20-04
 victoriametrics-victoriametricss
-devdojo-laravel-20-04
 varnishsoftware-varnishcache-18-04
 victoriametrics-victorialogssing
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
 ghost-20-04
 autopanel-postfix
-sandflysecurity-20-04
 cpanel-cpanelwhmforubun
 laravelforge
 laravelforge-laravelforgeubun
@@ -210,6 +208,8 @@ autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
 meilisas-meilisearch-10
 litespeedtechnol-openlitespeedwor-20-04
+passboltsa-passboltce-20-04
+django-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
