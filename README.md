@@ -177,9 +177,7 @@ sharklabs-keycloak
 botguardo-botguardgatekeep
 axlabs-1clicknodeforneo
 openpanel
-3cxcommunication-3cx
 tips4designsrl-uxwizz
-ubuntu-24-04-x64
 debian-12-x64
 wordpress-20-04
 ibsurgeon-hqbirdfirebirdv5
@@ -210,6 +208,8 @@ meilisas-meilisearch-10
 litespeedtechnol-openlitespeedwor-20-04
 passboltsa-passboltce-20-04
 django-20-04
+hollaex-hollaexkit
+perforce-perforcehelixcor
 ````
 sizes.json.sizes[].slug
 ````yaml
