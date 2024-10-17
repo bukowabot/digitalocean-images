@@ -40,7 +40,6 @@ znuny
 nginx
 playboxtechnolog-ottstream
 stacksfoundation-stacksblockchain
-seatablegmbh-seatable
 openboxes-openboxesserver
 ibsurgeon-hqbirdfirebird
 openvpn-18-04
@@ -192,7 +191,6 @@ planesoftware-planecommunityed
 devrel-teleport-20-04
 victoriametrics-victoriametricss
 varnishsoftware-varnishcache-18-04
-victoriametrics-victorialogssing
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
 ghost-20-04
@@ -210,6 +208,8 @@ litespeedtechnol-openlitespeedwor-20-04
 passboltsa-passboltce-20-04
 django-20-04
 hollaex-hollaexkit
+perforce-perforcehelixcor
+litespeedtechnol-openlitespeedjoo-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
