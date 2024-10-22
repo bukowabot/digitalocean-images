@@ -1768,37 +1768,6 @@
       "type": "application"
     },
     {
-      "created_at": "2023-05-31T14:44:41Z",
-      "description": "Metaverse 0.95b1 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 133725325,
-      "min_disk_size": 25,
-      "name": "Metaverse 0.95b1 on Ubuntu 20.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.71,
-      "slug": "chaarmiworlds-metaverse",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2023-06-07T19:54:08Z",
       "description": "DreamFactory 5.0.1 on Ubuntu 20.04.6",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-09-04T01:14:59Z",
+      "description": "OpenLiteSpeed Drupal 11.0.1 on Ubuntu 24.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 164559676,
+      "min_disk_size": 25,
+      "name": "OpenLiteSpeed Drupal 11.0.1 on Ubuntu 24.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.94,
+      "slug": "litespeedtechnol-openlitespeeddru",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 247
+    "total": 262
   }
 }

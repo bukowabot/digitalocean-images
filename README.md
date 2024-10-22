@@ -67,7 +67,6 @@ zabbix-zabbixserver64
 zabbix-zabbixserver60
 gravitl-netmaker
 activepieces
-chaarmiworlds-metaverse
 dreamfactory
 dokku-20-04
 questdb-20-04
@@ -210,6 +209,7 @@ django-20-04
 hollaex-hollaexkit
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeedjoo-20-04
+litespeedtechnol-openlitespeeddru
 ````
 sizes.json.sizes[].slug
 ````yaml
