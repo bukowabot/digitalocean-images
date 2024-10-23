@@ -188,7 +188,6 @@ rabbitmq
 nodejs-20-04
 planesoftware-planecommunityed
 devrel-teleport-20-04
-victoriametrics-victoriametricss
 varnishsoftware-varnishcache-18-04
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
@@ -210,6 +209,7 @@ hollaex-hollaexkit
 perforce-perforcehelixcor
 litespeedtechnol-openlitespeedjoo-20-04
 litespeedtechnol-openlitespeeddru
+litespeedtechnol-openlitespeednod-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
