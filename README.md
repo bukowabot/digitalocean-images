@@ -74,7 +74,6 @@ sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
 rockylinux-9-x64
-debian-11-x64
 neuralmagic-deepsparseinfere
 caligrafybypostc-caligrafy
 thegrampsproject-grampsweb
@@ -100,7 +99,6 @@ wpclouddeploy
 mariadb
 csmm-20-04
 clickhouse
-fedora-39-x64
 deskpro
 mastodon-18-04
 flask
@@ -167,7 +165,6 @@ analythium-shinyproxy-20-04
 supernetworks-spr
 sharklabs-conduktorconsole
 sharklabs-anaconda
-fedora-40-x64
 plesk-20-04
 plesk-pleskalmalinux
 ubuntu-22-04-x64
@@ -177,7 +174,6 @@ axlabs-1clicknodeforneo
 openpanel
 tips4designsrl-uxwizz
 ubuntu-24-04-x64
-debian-12-x64
 wordpress-20-04
 ibsurgeon-hqbirdfirebirdv5
 ibsurgeon-hqbirdfirebirdv4
@@ -210,6 +206,10 @@ perforce-perforcehelixcor
 litespeedtechnol-openlitespeedjoo-20-04
 litespeedtechnol-openlitespeeddru
 litespeedtechnol-openlitespeednod-20-04
+litespeedtechnol-openlitespeeddja-20-04
+litespeedtechnol-openlitespeedrai-20-04
+wordsmythcreatio-aresmush
+postalsystemso-emailengine
 ````
 sizes.json.sizes[].slug
 ````yaml
