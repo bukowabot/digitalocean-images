@@ -265,5 +265,4 @@ kubernetes.json.options.versions[].kubernetes_version
 1.31.1
 1.30.5
 1.29.9
-1.28.14
 ````
