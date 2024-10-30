@@ -113,7 +113,6 @@ gitlab-gitlabenterprise-20-04
 saltcorn-20-04
 eummena-moodle-10
 microwebercms-microweber-20-04
-litespeedtechnol-cyberpanel-20-04
 temporal
 jenkins
 ispmanager-ispmanager6
@@ -164,7 +163,6 @@ border0
 analythium-shinyproxy-20-04
 supernetworks-spr
 sharklabs-conduktorconsole
-sharklabs-anaconda
 plesk-20-04
 plesk-pleskalmalinux
 ubuntu-22-04-x64
@@ -197,7 +195,6 @@ multiversx-multiversxtestne
 pirichaintechnol-pirisubchainsnod
 autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
-meilisas-meilisearch-10
 litespeedtechnol-openlitespeedwor-20-04
 passboltsa-passboltce-20-04
 django-20-04
@@ -210,6 +207,9 @@ litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedrai-20-04
 wordsmythcreatio-aresmush
 postalsystemso-emailengine
+rocketchat-20-04
+uibakery
+askarlabs-passwordlab
 ````
 sizes.json.sizes[].slug
 ````yaml
