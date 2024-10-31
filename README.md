@@ -163,8 +163,6 @@ border0
 analythium-shinyproxy-20-04
 supernetworks-spr
 sharklabs-conduktorconsole
-plesk-20-04
-plesk-pleskalmalinux
 ubuntu-22-04-x64
 sharklabs-keycloak
 botguardo-botguardgatekeep
@@ -210,6 +208,8 @@ postalsystemso-emailengine
 rocketchat-20-04
 uibakery
 askarlabs-passwordlab
+antmedia-antmediaserveren-18-04
+antmedia-antmediaserverco-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
