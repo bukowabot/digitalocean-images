@@ -121,7 +121,6 @@ chevereto-20-04
 chevereto-xrdebug
 sharklabs-counterstrike2
 aqtraplatform
-ascensiosystemsi-onlyofficeeditor-18-04-4
 ascensiosystem-onlyoffice-18-04
 ossrs-srs
 nirvatosoftware-nirvashare-20-04
@@ -210,6 +209,7 @@ uibakery
 askarlabs-passwordlab
 antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
+laravel-forge-ubuntu-22-04
 ````
 sizes.json.sizes[].slug
 ````yaml
