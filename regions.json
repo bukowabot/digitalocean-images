@@ -307,7 +307,8 @@
         "m6-32vcpu-256gb",
         "so1_5-32vcpu-256gb-intel",
         "gpu-h100x1-80gb",
-        "so1_5-32vcpu-256gb"
+        "so1_5-32vcpu-256gb",
+        "gpu-h100x8-640gb"
       ],
       "slug": "nyc2"
     },
