@@ -188,7 +188,6 @@ cpanel-cpanelwhmforubun
 laravelforge
 laravelforge-laravelforgeubun
 cloudron-20-04
-multiversx-multiversxtestne
 pirichaintechnol-pirisubchainsnod
 autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
@@ -210,6 +209,7 @@ askarlabs-passwordlab
 antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
 laravel-forge-ubuntu-22-04
+laravel-forge-ubuntu-24-04
 ````
 sizes.json.sizes[].slug
 ````yaml
