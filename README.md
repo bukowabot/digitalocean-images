@@ -87,7 +87,6 @@ yeastar-ypsps1
 appwrite-20-04
 origintrail-origintraildkgte
 origintrail-origintraildkgma
-caprover-18-04
 elasticsearch
 osmosislabs-osmosis
 sharklabs-erpodoo
@@ -124,7 +123,6 @@ aqtraplatform
 ascensiosystem-onlyoffice-18-04
 ossrs-srs
 nirvatosoftware-nirvashare-20-04
-cpanel-cpanelwhmforalma
 airflow
 jelastic-virtuozzoapplica
 plesk-plesktest
@@ -210,6 +208,8 @@ antmedia-antmediaserveren-18-04
 antmedia-antmediaserverco-18-04
 laravel-forge-ubuntu-22-04
 laravel-forge-ubuntu-24-04
+laravel-forge-ubuntu-20-04
+flexifyio-flexifyiomulticl-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
