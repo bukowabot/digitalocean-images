@@ -175,7 +175,6 @@ ibsurgeon-hqbirdfirebirdv2
 babybuddy
 rabbitmq
 nodejs-20-04
-planesoftware-planecommunityed
 devrel-teleport-20-04
 varnishsoftware-varnishcache-18-04
 scalegrid-scalegridcentos7
@@ -189,7 +188,6 @@ cloudron-20-04
 pirichaintechnol-pirisubchainsnod
 autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
-litespeedtechnol-openlitespeedwor-20-04
 passboltsa-passboltce-20-04
 django-20-04
 hollaex-hollaexkit
@@ -210,6 +208,8 @@ laravel-forge-ubuntu-22-04
 laravel-forge-ubuntu-24-04
 laravel-forge-ubuntu-20-04
 flexifyio-flexifyiomulticl-20-04
+in4it-vpnserver
+kandralabs-zulip-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
