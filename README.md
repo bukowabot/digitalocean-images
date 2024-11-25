@@ -109,7 +109,6 @@ ubuntudesktopgno
 rackware-rackwarecloudmig
 swarmfoundation-swarmlightnode
 gitlab-gitlabenterprise-20-04
-saltcorn-20-04
 eummena-moodle-10
 microwebercms-microweber-20-04
 temporal
@@ -209,7 +208,8 @@ laravel-forge-ubuntu-24-04
 laravel-forge-ubuntu-20-04
 flexifyio-flexifyiomulticl-20-04
 in4it-vpnserver
-kandralabs-zulip-18-04
+sharklabs-prometheus2541
+aapanel
 ````
 sizes.json.sizes[].slug
 ````yaml

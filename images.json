@@ -3070,37 +3070,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-01-24T21:47:45Z",
-      "description": "Saltcorn 0.9.3 on Debian 12",
-      "distribution": "Debian",
-      "error_message": "",
-      "id": 148804228,
-      "min_disk_size": 25,
-      "name": "Saltcorn 0.9.3 on Debian 12",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 9.7,
-      "slug": "saltcorn-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-02-02T15:54:42Z",
       "description": "moodle 4.3.2 on Debian 12",
       "distribution": "Debian",
@@ -6170,13 +6139,13 @@
       "type": "application"
     },
     {
-      "created_at": "2024-09-15T23:10:44Z",
-      "description": "Zulip 9.2 on Ubuntu 22.04",
+      "created_at": "2024-09-18T14:17:50Z",
+      "description": "Prometheus-2.54.1 2.54.1 on Ubuntu 24.04",
       "distribution": "Ubuntu",
       "error_message": "",
-      "id": 165482615,
-      "min_disk_size": 50,
-      "name": "Zulip 9.2 on Ubuntu 22.04",
+      "id": 165691480,
+      "min_disk_size": 25,
+      "name": "Prometheus-2.54.1 2.54.1 on Ubuntu 24.04",
       "public": false,
       "regions": [
         "tor1",
@@ -6194,8 +6163,39 @@
         "ams3",
         "ams2"
       ],
-      "size_gigabytes": 2.59,
-      "slug": "kandralabs-zulip-18-04",
+      "size_gigabytes": 2.39,
+      "slug": "sharklabs-prometheus2541",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-09-19T03:18:56Z",
+      "description": "aaPanel 7.0.9 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 165731332,
+      "min_disk_size": 25,
+      "name": "aaPanel 7.0.9 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.39,
+      "slug": "aapanel",
       "status": "available",
       "tags": [],
       "type": "application"
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 266
+    "total": 267
   }
 }
