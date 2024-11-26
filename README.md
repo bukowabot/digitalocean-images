@@ -126,7 +126,6 @@ airflow
 jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
-multiversx-multiversxobserv
 drakkarsoftware-octobot
 smartarget-wordpresswoocomm
 znuny-znunylts-10
@@ -143,9 +142,7 @@ sharklabs-valkey
 flowforge
 superinverse-statusnook
 smartarget-prestashop
-multiversx-multiversxfullob
 severalnines-clustercontrol-20-04
-mgtcommercegmbh-cloudpanel2ubunt
 minecraftforgeed
 edgedb
 depomo-chartbrew
@@ -210,6 +207,9 @@ flexifyio-flexifyiomulticl-20-04
 in4it-vpnserver
 sharklabs-prometheus2541
 aapanel
+grafana-18-04
+devdojo-laravel-20-04
+sandflysecurity-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
