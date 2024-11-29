@@ -142,7 +142,6 @@ sharklabs-valkey
 flowforge
 superinverse-statusnook
 smartarget-prestashop
-severalnines-clustercontrol-20-04
 minecraftforgeed
 edgedb
 depomo-chartbrew
@@ -210,6 +209,7 @@ aapanel
 grafana-18-04
 devdojo-laravel-20-04
 sandflysecurity-20-04
+prometheus-18-04
 ````
 sizes.json.sizes[].slug
 ````yaml
