@@ -121,7 +121,6 @@ sharklabs-counterstrike2
 aqtraplatform
 ascensiosystem-onlyoffice-18-04
 ossrs-srs
-nirvatosoftware-nirvashare-20-04
 airflow
 jelastic-virtuozzoapplica
 plesk-plesktest
@@ -157,7 +156,6 @@ supernetworks-spr
 sharklabs-conduktorconsole
 ubuntu-22-04-x64
 sharklabs-keycloak
-botguardo-botguardgatekeep
 axlabs-1clicknodeforneo
 openpanel
 tips4designsrl-uxwizz
@@ -179,7 +177,6 @@ autopanel-postfix
 cpanel-cpanelwhmforubun
 laravelforge
 laravelforge-laravelforgeubun
-cloudron-20-04
 pirichaintechnol-pirisubchainsnod
 autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
@@ -210,6 +207,9 @@ grafana-18-04
 devdojo-laravel-20-04
 sandflysecurity-20-04
 prometheus-18-04
+seatablegmbh-seatable
+apliteni-keitaro
+plesk-pleskalmalinux
 ````
 sizes.json.sizes[].slug
 ````yaml
