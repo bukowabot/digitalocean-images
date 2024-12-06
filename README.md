@@ -114,7 +114,6 @@ microwebercms-microweber-20-04
 temporal
 jenkins
 ispmanager-ispmanager6
-codelathe-filecloud-20-04
 chevereto-20-04
 chevereto-xrdebug
 sharklabs-counterstrike2
@@ -210,6 +209,7 @@ prometheus-18-04
 seatablegmbh-seatable
 apliteni-keitaro
 plesk-pleskalmalinux
+digitaloceanai-metallamallama31
 ````
 sizes.json.sizes[].slug
 ````yaml
