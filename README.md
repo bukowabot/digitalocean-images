@@ -208,8 +208,8 @@ sandflysecurity-20-04
 prometheus-18-04
 seatablegmbh-seatable
 apliteni-keitaro
-plesk-pleskalmalinux
 digitaloceanai-metallamallama31
+digitaloceanai-metallamallama3170binstruct1
 ````
 sizes.json.sizes[].slug
 ````yaml
