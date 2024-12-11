@@ -157,7 +157,6 @@ ubuntu-22-04-x64
 sharklabs-keycloak
 axlabs-1clicknodeforneo
 openpanel
-tips4designsrl-uxwizz
 ubuntu-24-04-x64
 wordpress-20-04
 ibsurgeon-hqbirdfirebirdv5
@@ -210,6 +209,7 @@ seatablegmbh-seatable
 apliteni-keitaro
 digitaloceanai-metallamallama31
 digitaloceanai-metallamallama3170binstruct1
+digitaloceanai-llama31405binstr
 ````
 sizes.json.sizes[].slug
 ````yaml
