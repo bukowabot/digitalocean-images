@@ -172,7 +172,6 @@ scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
 ghost-20-04
 autopanel-postfix
-cpanel-cpanelwhmforubun
 laravelforge
 laravelforge-laravelforgeubun
 pirichaintechnol-pirisubchainsnod
@@ -210,6 +209,7 @@ apliteni-keitaro
 digitaloceanai-metallamallama31
 digitaloceanai-metallamallama3170binstruct1
 digitaloceanai-llama31405binstr
+digitaloceanai-qwen27b1x
 ````
 sizes.json.sizes[].slug
 ````yaml
