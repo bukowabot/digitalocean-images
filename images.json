@@ -3194,37 +3194,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-02-21T05:56:02Z",
-      "description": "Ispmanager 6 6.90.2 on Ubuntu 20.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 150551487,
-      "min_disk_size": 25,
-      "name": "Ispmanager 6 6.90.2 on Ubuntu 20.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3.55,
-      "slug": "ispmanager-ispmanager6",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-02-27T00:00:39Z",
       "description": "Chevereto 4 on Ubuntu 22.04 LTS",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-10-12T15:45:15Z",
+      "description": "Google Gemma 2 9B - Single GPU 2-9b-it on DO AI/ML Ready Linux",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 167615821,
+      "min_disk_size": 720,
+      "name": "Google Gemma 2 9B - Single GPU 2-9b-it on DO AI/ML Ready Linux",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 46.04,
+      "slug": "digitaloceanai-googlegemma29bit",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 269
+    "total": 271
   }
 }

@@ -113,7 +113,6 @@ eummena-moodle-10
 microwebercms-microweber-20-04
 temporal
 jenkins
-ispmanager-ispmanager6
 chevereto-20-04
 chevereto-xrdebug
 sharklabs-counterstrike2
@@ -210,6 +209,7 @@ digitaloceanai-metallamallama31
 digitaloceanai-metallamallama3170binstruct1
 digitaloceanai-llama31405binstr
 digitaloceanai-qwen27b1x
+digitaloceanai-googlegemma29bit
 ````
 sizes.json.sizes[].slug
 ````yaml
