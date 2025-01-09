@@ -156,7 +156,6 @@ ubuntu-22-04-x64
 sharklabs-keycloak
 axlabs-1clicknodeforneo
 openpanel
-ubuntu-24-04-x64
 wordpress-20-04
 ibsurgeon-hqbirdfirebirdv5
 ibsurgeon-hqbirdfirebirdv4
@@ -210,6 +209,7 @@ victoriametrics-victoriametricss
 tebex-tebexrconadapter
 fedora-40-x64
 sharklabs-anaconda
+aapanel-aapanellnmp
 ````
 sizes.json.sizes[].slug
 ````yaml
