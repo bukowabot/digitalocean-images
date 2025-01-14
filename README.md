@@ -124,7 +124,6 @@ jelastic-virtuozzoapplica
 plesk-plesktest
 harperdb-18-04
 drakkarsoftware-octobot
-smartarget-wordpresswoocomm
 znuny-znunylts-10
 quantrocket
 plesk-pleskcentos-7-9
@@ -210,6 +209,7 @@ tebex-tebexrconadapter
 fedora-40-x64
 sharklabs-anaconda
 aapanel-aapanellnmp
+ascensiosystemsi-onlyofficeeditor-18-04-4
 ````
 sizes.json.sizes[].slug
 ````yaml
