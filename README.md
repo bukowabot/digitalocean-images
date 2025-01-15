@@ -201,8 +201,6 @@ prometheus-18-04
 seatablegmbh-seatable
 apliteni-keitaro
 digitaloceanai-mistral7binstruc
-victoriametrics-victorialogssing
-multiversx-multiversxtestne
 xplex
 victoriametrics-victoriametricss
 tebex-tebexrconadapter
@@ -210,6 +208,8 @@ fedora-40-x64
 sharklabs-anaconda
 aapanel-aapanellnmp
 ascensiosystemsi-onlyofficeeditor-18-04-4
+debian-12-x64
+debian-11-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
