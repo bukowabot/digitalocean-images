@@ -88,8 +88,6 @@
         "gd-8vcpu-32gb-intel",
         "so1_5-4vcpu-32gb",
         "m-8vcpu-64gb",
-        "c-16",
-        "c2-16vcpu-32gb",
         "m-8vcpu-64gb-intel",
         "m3-8vcpu-64gb",
         "c-16-intel",
@@ -303,7 +301,8 @@
         "m6-32vcpu-256gb",
         "so1_5-32vcpu-256gb-intel",
         "gpu-h100x1-80gb",
-        "so1_5-32vcpu-256gb"
+        "so1_5-32vcpu-256gb",
+        "gpu-h100x8-640gb"
       ],
       "slug": "nyc2"
     },
@@ -725,9 +724,13 @@
         "gd-16vcpu-64gb-intel",
         "so1_5-8vcpu-64gb",
         "m-16vcpu-128gb",
+        "c-32",
+        "c2-32vcpu-64gb",
         "m-16vcpu-128gb-intel",
         "m3-16vcpu-128gb",
+        "c-32-intel",
         "m3-16vcpu-128gb-intel",
+        "c2-32vcpu-64gb-intel",
         "m-24vcpu-192gb",
         "g-32vcpu-128gb",
         "so-16vcpu-128gb-intel",
@@ -1038,6 +1041,8 @@
         "gd-40vcpu-160gb",
         "c2-48vcpu-96gb-intel",
         "so-24vcpu-192gb-intel",
+        "so-24vcpu-192gb",
+        "m6-24vcpu-192gb",
         "m-32vcpu-256gb-intel",
         "c-60-intel",
         "so1_5-24vcpu-192gb-intel",
@@ -1204,8 +1209,7 @@
         "gpu-h100x1-80gb",
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
-        "so-48vcpu-384gb-intel",
-        "gpu-h100x8-640gb"
+        "so-48vcpu-384gb-intel"
       ],
       "slug": "tor1"
     },
