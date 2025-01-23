@@ -188,9 +188,6 @@ postalsystemso-emailengine
 rocketchat-20-04
 uibakery
 askarlabs-passwordlab
-laravel-forge-ubuntu-22-04
-laravel-forge-ubuntu-24-04
-laravel-forge-ubuntu-20-04
 flexifyio-flexifyiomulticl-20-04
 in4it-vpnserver
 sharklabs-prometheus2541
@@ -210,6 +207,9 @@ aapanel-aapanellnmp
 ascensiosystemsi-onlyofficeeditor-18-04-4
 debian-12-x64
 debian-11-x64
+skudonet-skudonetv10
+ubuntu-24-10-x64
+linuxpatchcom-linuxpatchapplia
 ````
 sizes.json.sizes[].slug
 ````yaml
