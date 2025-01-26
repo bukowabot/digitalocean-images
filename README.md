@@ -177,7 +177,6 @@ sharklabs-ollamawithopenwe
 passboltsa-passboltce-20-04
 django-20-04
 hollaex-hollaexkit
-perforce-perforcehelixcor
 litespeedtechnol-openlitespeedjoo-20-04
 litespeedtechnol-openlitespeeddru
 litespeedtechnol-openlitespeednod-20-04
@@ -210,6 +209,7 @@ debian-11-x64
 skudonet-skudonetv10
 ubuntu-24-10-x64
 linuxpatchcom-linuxpatchapplia
+chaarmiworlds-metaverse
 ````
 sizes.json.sizes[].slug
 ````yaml
