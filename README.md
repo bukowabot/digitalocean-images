@@ -125,7 +125,6 @@ plesk-plesktest
 harperdb-18-04
 drakkarsoftware-octobot
 znuny-znunylts-10
-quantrocket
 plesk-pleskcentos-7-9
 blueskysocialpds
 searchblox-searchbloxenterp-7-6
@@ -210,6 +209,7 @@ skudonet-skudonetv10
 ubuntu-24-10-x64
 linuxpatchcom-linuxpatchapplia
 chaarmiworlds-metaverse
+litespeedtechnol-cyberpanel-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml

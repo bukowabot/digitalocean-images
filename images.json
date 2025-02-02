@@ -3566,37 +3566,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-04-30T18:33:45Z",
-      "description": "QuantRocket 2.10.1 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 155201631,
-      "min_disk_size": 25,
-      "name": "QuantRocket 2.10.1 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 13.13,
-      "slug": "quantrocket",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-05-02T12:03:25Z",
       "description": "Plesk (CentOS) 18.0.60 on AlmaLinux 9",
       "distribution": "AlmaLinux",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-10-30T01:59:51Z",
+      "description": "CyberPanel 2.3.6 on Ubuntu 22.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 169076002,
+      "min_disk_size": 25,
+      "name": "CyberPanel 2.3.6 on Ubuntu 22.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 8.9,
+      "slug": "litespeedtechnol-cyberpanel-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 279
+    "total": 280
   }
 }
