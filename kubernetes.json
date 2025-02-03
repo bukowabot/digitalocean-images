@@ -148,6 +148,10 @@
         "slug": "c-4"
       }
     ],
+    "team_limits": {
+      "gpu_count": 0,
+      "gpu_limit": 0
+    },
     "versions": [
       {
         "kubernetes_version": "1.31.1",
