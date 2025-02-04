@@ -191,7 +191,6 @@ in4it-vpnserver
 sharklabs-prometheus2541
 grafana-18-04
 devdojo-laravel-20-04
-sandflysecurity-20-04
 prometheus-18-04
 seatablegmbh-seatable
 apliteni-keitaro
@@ -210,6 +209,7 @@ ubuntu-24-10-x64
 linuxpatchcom-linuxpatchapplia
 chaarmiworlds-metaverse
 litespeedtechnol-cyberpanel-20-04
+planesoftware-planecommunityed
 ````
 sizes.json.sizes[].slug
 ````yaml
