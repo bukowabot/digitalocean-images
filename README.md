@@ -175,7 +175,6 @@ autopanel-selfhostedemails
 sharklabs-ollamawithopenwe
 passboltsa-passboltce-20-04
 django-20-04
-hollaex-hollaexkit
 litespeedtechnol-openlitespeedjoo-20-04
 litespeedtechnol-openlitespeeddru
 litespeedtechnol-openlitespeednod-20-04
@@ -210,6 +209,7 @@ linuxpatchcom-linuxpatchapplia
 chaarmiworlds-metaverse
 litespeedtechnol-cyberpanel-20-04
 planesoftware-planecommunityed
+gpu-h100x8-base
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -262,7 +262,8 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.31.1
-1.30.5
-1.29.9
+1.32.1
+1.31.5
+1.30.9
+1.29.13
 ````
