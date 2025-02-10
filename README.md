@@ -69,7 +69,6 @@ gravitl-netmaker
 activepieces
 dreamfactory
 dokku-20-04
-questdb-20-04
 sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
@@ -210,6 +209,7 @@ chaarmiworlds-metaverse
 litespeedtechnol-cyberpanel-20-04
 planesoftware-planecommunityed
 gpu-h100x8-base
+gpu-h100x1-base
 ````
 sizes.json.sizes[].slug
 ````yaml
