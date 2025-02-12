@@ -81,7 +81,6 @@ linuxgsm
 haltdos-haltdosprowaf
 haltdos-haltdoswafpro
 mongodb-18-04
-lamp-20-04
 yeastar-ypsps1
 appwrite-20-04
 origintrail-origintraildkgte
@@ -210,6 +209,7 @@ litespeedtechnol-cyberpanel-20-04
 planesoftware-planecommunityed
 gpu-h100x8-base
 gpu-h100x1-base
+fedora-41-x64
 ````
 sizes.json.sizes[].slug
 ````yaml
