@@ -11,7 +11,6 @@
 images.json.images[].slug
 ````yaml
 convoy
-ubuntu-20-04-x64
 nakama-18-04
 bigcloud-odoo
 rstudio-20-04
@@ -210,6 +209,7 @@ planesoftware-planecommunityed
 gpu-h100x8-base
 gpu-h100x1-base
 fedora-41-x64
+eltrino-magento2opensour-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml

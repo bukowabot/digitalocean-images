@@ -32,37 +32,6 @@
       "type": "application"
     },
     {
-      "created_at": "2022-07-18T19:40:04Z",
-      "description": "Ubuntu 20.04 x86",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 112929454,
-      "min_disk_size": 7,
-      "name": "20.04 (LTS) x64",
-      "public": true,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 0.63,
-      "slug": "ubuntu-20-04-x64",
-      "status": "available",
-      "tags": [],
-      "type": "base"
-    },
-    {
       "created_at": "2022-07-21T14:55:08Z",
       "description": "Nakama 3.12.0 on Ubuntu 18.04",
       "distribution": "Ubuntu",
@@ -6199,6 +6168,37 @@
       "status": "available",
       "tags": [],
       "type": "base"
+    },
+    {
+      "created_at": "2024-11-11T13:07:57Z",
+      "description": "Magento 2 Open Source 1.6.14 on Ubuntu 20.04 (LTS)",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 170131658,
+      "min_disk_size": 25,
+      "name": "Magento 2 Open Source 1.6.14 on Ubuntu 20.04 (LTS)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 4.86,
+      "slug": "eltrino-magento2opensour-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
