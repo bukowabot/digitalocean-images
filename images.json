@@ -4620,37 +4620,6 @@
       "type": "application"
     },
     {
-      "created_at": "2024-07-23T18:16:06Z",
-      "description": "Teleport 15 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 161194767,
-      "min_disk_size": 25,
-      "name": "Teleport 15 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 3,
-      "slug": "devrel-teleport-20-04",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
       "created_at": "2024-07-31T12:29:20Z",
       "description": "Varnish Cache 6.0.13 on Ubuntu 20.04",
       "distribution": "Ubuntu",
@@ -5204,37 +5173,6 @@
       ],
       "size_gigabytes": 2.84,
       "slug": "wordsmythcreatio-aresmush",
-      "status": "available",
-      "tags": [],
-      "type": "application"
-    },
-    {
-      "created_at": "2024-09-05T10:24:00Z",
-      "description": "EmailEngine 2.46.1 on Ubuntu 22.04",
-      "distribution": "Ubuntu",
-      "error_message": "",
-      "id": 164664346,
-      "min_disk_size": 25,
-      "name": "EmailEngine 2.46.1 on Ubuntu 22.04",
-      "public": false,
-      "regions": [
-        "tor1",
-        "syd1",
-        "sgp1",
-        "sfo3",
-        "sfo2",
-        "sfo1",
-        "nyc3",
-        "nyc2",
-        "nyc1",
-        "lon1",
-        "fra1",
-        "blr1",
-        "ams3",
-        "ams2"
-      ],
-      "size_gigabytes": 2.57,
-      "slug": "postalsystemso-emailengine",
       "status": "available",
       "tags": [],
       "type": "application"
@@ -6199,6 +6137,68 @@
       "status": "available",
       "tags": [],
       "type": "application"
+    },
+    {
+      "created_at": "2024-11-13T07:32:40Z",
+      "description": "OpenLiteSpeed WordPress 6.7 on Ubuntu 24.04",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 170280256,
+      "min_disk_size": 25,
+      "name": "OpenLiteSpeed WordPress 6.7 on Ubuntu 24.04",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 2.99,
+      "slug": "litespeedtechnol-openlitespeedwor-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
+    },
+    {
+      "created_at": "2024-11-14T12:44:48Z",
+      "description": "NirvaShare 6.1.0 on Ubuntu 20.04 (LTS)",
+      "distribution": "Ubuntu",
+      "error_message": "",
+      "id": 170386040,
+      "min_disk_size": 25,
+      "name": "NirvaShare 6.1.0 on Ubuntu 20.04 (LTS)",
+      "public": false,
+      "regions": [
+        "tor1",
+        "syd1",
+        "sgp1",
+        "sfo3",
+        "sfo2",
+        "sfo1",
+        "nyc3",
+        "nyc2",
+        "nyc1",
+        "lon1",
+        "fra1",
+        "blr1",
+        "ams3",
+        "ams2"
+      ],
+      "size_gigabytes": 3.92,
+      "slug": "nirvatosoftware-nirvashare-20-04",
+      "status": "available",
+      "tags": [],
+      "type": "application"
     }
   ],
   "links": {
@@ -6208,6 +6208,6 @@
     }
   },
   "meta": {
-    "total": 280
+    "total": 282
   }
 }

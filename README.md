@@ -159,7 +159,6 @@ ibsurgeon-hqbirdfirebirdv2
 babybuddy
 rabbitmq
 nodejs-20-04
-devrel-teleport-20-04
 varnishsoftware-varnishcache-18-04
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
@@ -178,7 +177,6 @@ litespeedtechnol-openlitespeednod-20-04
 litespeedtechnol-openlitespeeddja-20-04
 litespeedtechnol-openlitespeedrai-20-04
 wordsmythcreatio-aresmush
-postalsystemso-emailengine
 rocketchat-20-04
 uibakery
 askarlabs-passwordlab
@@ -210,6 +208,8 @@ gpu-h100x8-base
 gpu-h100x1-base
 fedora-41-x64
 eltrino-magento2opensour-20-04
+litespeedtechnol-openlitespeedwor-20-04
+nirvatosoftware-nirvashare-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
