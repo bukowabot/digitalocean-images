@@ -187,7 +187,6 @@ grafana-18-04
 devdojo-laravel-20-04
 prometheus-18-04
 seatablegmbh-seatable
-apliteni-keitaro
 digitaloceanai-mistral7binstruc
 xplex
 victoriametrics-victoriametricss
@@ -210,6 +209,7 @@ fedora-41-x64
 eltrino-magento2opensour-20-04
 litespeedtechnol-openlitespeedwor-20-04
 nirvatosoftware-nirvashare-20-04
+mjmair-inventree
 ````
 sizes.json.sizes[].slug
 ````yaml
