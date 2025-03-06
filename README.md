@@ -158,7 +158,6 @@ ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv2
 babybuddy
 rabbitmq
-nodejs-20-04
 varnishsoftware-varnishcache-18-04
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
@@ -210,6 +209,7 @@ eltrino-magento2opensour-20-04
 litespeedtechnol-openlitespeedwor-20-04
 nirvatosoftware-nirvashare-20-04
 mjmair-inventree
+automazeme-n8n
 ````
 sizes.json.sizes[].slug
 ````yaml
@@ -262,8 +262,7 @@ syd1
 ````
 kubernetes.json.options.versions[].kubernetes_version
 ````yaml
-1.32.1
-1.31.5
-1.30.9
-1.29.13
+1.32.2
+1.31.6
+1.30.10
 ````
