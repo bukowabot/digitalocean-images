@@ -5954,12 +5954,12 @@
     },
     {
       "created_at": "2024-11-06T23:25:58Z",
-      "description": "GPU H100 8x Base Image",
+      "description": "AI/ML Ready with NVLink Base Image",
       "distribution": "Ubuntu",
       "error_message": "",
       "id": 169729207,
       "min_disk_size": 25,
-      "name": "AI/ML Ready H100x8",
+      "name": "AI/ML Ready with NVLink",
       "public": true,
       "regions": [
         "tor1",
@@ -5985,12 +5985,12 @@
     },
     {
       "created_at": "2024-11-06T23:31:49Z",
-      "description": "GPU H100 1x Base Image",
+      "description": "AI/ML Ready Base Image",
       "distribution": "Ubuntu",
       "error_message": "",
       "id": 169729290,
       "min_disk_size": 25,
-      "name": "AI/ML Ready H100x1",
+      "name": "AI/ML Ready",
       "public": true,
       "regions": [
         "tor1",
