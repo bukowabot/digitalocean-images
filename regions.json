@@ -177,6 +177,7 @@
       ],
       "name": "New York 2",
       "sizes": [
+        "s-1vcpu-512mb-10gb",
         "s-1vcpu-1gb",
         "s-1vcpu-1gb-amd",
         "s-1vcpu-1gb-intel",
@@ -272,7 +273,6 @@
         "c-32-intel",
         "m3-16vcpu-128gb-intel",
         "c2-32vcpu-64gb-intel",
-        "c-48",
         "m-24vcpu-192gb",
         "g-32vcpu-128gb",
         "so-16vcpu-128gb-intel",
@@ -280,7 +280,6 @@
         "m6-16vcpu-128gb",
         "gd-32vcpu-128gb",
         "so1_5-16vcpu-128gb-intel",
-        "c2-48vcpu-96gb",
         "m-24vcpu-192gb-intel",
         "g-32vcpu-128gb-intel",
         "m3-24vcpu-192gb",
@@ -741,10 +740,12 @@
         "so1_5-16vcpu-128gb-intel",
         "m-24vcpu-192gb-intel",
         "g-32vcpu-128gb-intel",
+        "g-40vcpu-160gb",
         "gd-32vcpu-128gb-intel",
         "so1_5-16vcpu-128gb",
         "c-48-intel",
         "m3-24vcpu-192gb-intel",
+        "gd-40vcpu-160gb",
         "c2-48vcpu-96gb-intel",
         "so-24vcpu-192gb-intel",
         "m-32vcpu-256gb-intel",
@@ -1215,7 +1216,8 @@
         "gpu-h100x1-80gb",
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
-        "so-48vcpu-384gb-intel"
+        "so-48vcpu-384gb-intel",
+        "gpu-h100x8-640gb"
       ],
       "slug": "tor1"
     },
@@ -1231,6 +1233,7 @@
       ],
       "name": "San Francisco 2",
       "sizes": [
+        "s-1vcpu-512mb-10gb",
         "s-1vcpu-1gb",
         "s-1vcpu-1gb-35gb-intel",
         "s-1vcpu-2gb",
