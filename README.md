@@ -67,7 +67,6 @@ zabbix-zabbixserver60
 gravitl-netmaker
 activepieces
 dreamfactory
-dokku-20-04
 sharklabs-minecraftjavaedi-18-04
 centos-stream-9-x64
 zeslecp-7
@@ -141,7 +140,6 @@ hashicorpvault
 decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
-yeastar-yeastarpseriesph
 haltdos-haltdoscommunity
 border0
 analythium-shinyproxy-20-04
@@ -179,7 +177,6 @@ wordsmythcreatio-aresmush
 rocketchat-20-04
 uibakery
 askarlabs-passwordlab
-flexifyio-flexifyiomulticl-20-04
 in4it-vpnserver
 sharklabs-prometheus2541
 grafana-18-04
@@ -193,7 +190,6 @@ tebex-tebexrconadapter
 fedora-40-x64
 sharklabs-anaconda
 aapanel-aapanellnmp
-ascensiosystemsi-onlyofficeeditor-18-04-4
 debian-12-x64
 debian-11-x64
 skudonet-skudonetv10
@@ -210,6 +206,10 @@ litespeedtechnol-openlitespeedwor-20-04
 nirvatosoftware-nirvashare-20-04
 mjmair-inventree
 automazeme-n8n
+saltcorn-20-04
+multiversx-multiversxobserv
+multiversx-multiversxfullob
+botguardo-botguardgatekeep
 ````
 sizes.json.sizes[].slug
 ````yaml
