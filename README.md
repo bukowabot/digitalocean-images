@@ -141,7 +141,6 @@ decyphertekio-jenkinscicd
 decyphertekio-misp
 decyphertekio-uptimekuma
 haltdos-haltdoscommunity
-border0
 analythium-shinyproxy-20-04
 supernetworks-spr
 sharklabs-conduktorconsole
@@ -155,7 +154,6 @@ ibsurgeon-hqbirdfirebirdv4
 ibsurgeon-hqbirdfirebirdv3
 ibsurgeon-hqbirdfirebirdv2
 babybuddy
-rabbitmq
 varnishsoftware-varnishcache-18-04
 scalegrid-scalegridcentos7
 sharklabs-jupyternotebook
@@ -210,6 +208,8 @@ saltcorn-20-04
 multiversx-multiversxobserv
 multiversx-multiversxfullob
 botguardo-botguardgatekeep
+vodianetworks-vodiaphonesystem-10
+sharklabs-matrixsynapsebac-10
 ````
 sizes.json.sizes[].slug
 ````yaml
