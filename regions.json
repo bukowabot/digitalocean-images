@@ -746,6 +746,7 @@
         "m6-16vcpu-128gb",
         "gd-32vcpu-128gb",
         "so1_5-16vcpu-128gb-intel",
+        "c2-48vcpu-96gb",
         "m-24vcpu-192gb-intel",
         "g-32vcpu-128gb-intel",
         "m3-24vcpu-192gb",
@@ -1229,7 +1230,8 @@
         "gpu-h100x1-80gb",
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
-        "so-48vcpu-384gb-intel"
+        "so-48vcpu-384gb-intel",
+        "gpu-h100x8-640gb"
       ],
       "slug": "tor1"
     },
