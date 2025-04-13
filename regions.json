@@ -1224,7 +1224,6 @@
         "g-60vcpu-240gb-intel",
         "m-48vcpu-384gb-intel",
         "gd-60vcpu-240gb-intel",
-        "gpu-h100x1-80gb",
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
         "so-48vcpu-384gb-intel"

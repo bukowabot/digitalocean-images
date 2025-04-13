@@ -199,7 +199,6 @@ planesoftware-planecommunityed
 gpu-h100x8-base
 gpu-h100x1-base
 fedora-41-x64
-eltrino-magento2opensour-20-04
 litespeedtechnol-openlitespeedwor-20-04
 mjmair-inventree
 automazeme-n8n
@@ -207,9 +206,10 @@ saltcorn-20-04
 multiversx-multiversxobserv
 multiversx-multiversxfullob
 botguardo-botguardgatekeep
-vodianetworks-vodiaphonesystem-10
 sharklabs-matrixsynapsebac-10
 ascensiosystemsi-onlyofficedocspa
+caprover-18-04
+codelathe-filecloud-20-04
 ````
 sizes.json.sizes[].slug
 ````yaml
