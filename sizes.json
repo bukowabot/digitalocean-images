@@ -614,7 +614,8 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "s-2vcpu-8gb-amd",
       "transfer": 5.0,
@@ -752,7 +753,8 @@
         "nyc3",
         "sfo3",
         "sgp1",
-        "syd1"
+        "syd1",
+        "tor1"
       ],
       "slug": "s-4vcpu-8gb-amd",
       "transfer": 5.0,
@@ -923,7 +925,9 @@
         "nyc2",
         "nyc3",
         "sfo3",
-        "syd1"
+        "sgp1",
+        "syd1",
+        "tor1"
       ],
       "slug": "s-4vcpu-16gb-amd",
       "transfer": 8.0,
