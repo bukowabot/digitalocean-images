@@ -179,7 +179,6 @@ in4it-vpnserver
 sharklabs-prometheus2541
 grafana-18-04
 devdojo-laravel-20-04
-prometheus-18-04
 seatablegmbh-seatable
 digitaloceanai-mistral7binstruc
 xplex
@@ -210,6 +209,7 @@ sharklabs-matrixsynapsebac-10
 ascensiosystemsi-onlyofficedocspa
 caprover-18-04
 codelathe-filecloud-20-04
+digitaloceanai-metallamallama31
 ````
 sizes.json.sizes[].slug
 ````yaml

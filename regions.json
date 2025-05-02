@@ -769,7 +769,6 @@
         "m6-32vcpu-256gb",
         "so1_5-32vcpu-256gb-intel",
         "m-48vcpu-384gb-intel",
-        "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel"
       ],
       "slug": "nyc3"
@@ -1051,6 +1050,7 @@
         "so1_5-16vcpu-128gb",
         "c-48-intel",
         "m3-24vcpu-192gb-intel",
+        "m-32vcpu-256gb",
         "gd-40vcpu-160gb",
         "c2-48vcpu-96gb-intel",
         "so-24vcpu-192gb-intel",
@@ -1058,6 +1058,7 @@
         "m6-24vcpu-192gb",
         "m-32vcpu-256gb-intel",
         "c-60-intel",
+        "m3-32vcpu-256gb",
         "so1_5-24vcpu-192gb-intel",
         "m3-32vcpu-256gb-intel",
         "g-48vcpu-192gb-intel",
@@ -1065,6 +1066,8 @@
         "gd-48vcpu-192gb-intel",
         "so1_5-24vcpu-192gb",
         "so-32vcpu-256gb-intel",
+        "so-32vcpu-256gb",
+        "m6-32vcpu-256gb",
         "so1_5-32vcpu-256gb-intel",
         "g-60vcpu-240gb-intel",
         "m-48vcpu-384gb-intel",
@@ -1220,7 +1223,6 @@
         "g-60vcpu-240gb-intel",
         "m-48vcpu-384gb-intel",
         "gd-60vcpu-240gb-intel",
-        "gpu-h100x1-80gb",
         "so1_5-32vcpu-256gb",
         "m3-48vcpu-384gb-intel",
         "so-48vcpu-384gb-intel"
